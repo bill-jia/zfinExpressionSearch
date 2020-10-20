@@ -1,0 +1,2960 @@
+Anatomy OBO ID	Anatomy Name	Anatomy Synonym	
+ZFA:0000713	abducens motor nucleus	nVI
+ZFA:0000713	abducens motor nucleus	abducens motor nuclei
+ZFA:0000713	abducens motor nucleus	abducens nucleus
+ZFA:0000713	abducens motor nucleus	motor nucleus VI
+ZFA:0000462	abductor hyohyoid	hyohyoideus abductor
+ZFA:0000462	abductor hyohyoid	abductors hyohyoid
+ZFA:0000614	abductor profundus	abductors profundus
+ZFA:0009129	absorptive cell	absorptive cells
+ZFA:0000714	accessory pretectal nucleus	APN
+ZFA:0000714	accessory pretectal nucleus	nucleus praetectalis accessorius
+ZFA:0000382	acellular anatomical structure	acellular anatomical structures
+ZFA:0009095	acid secreting cell	acid secreting cells
+ZFA:0009277	acinar cell	acinar cells
+ZFA:0005435	actinotrichium	actinotrichia
+ZFA:0000003	adaxial cell	adaxial cells
+ZFA:0000615	adductor arcus palatini	adductors arcus palatini
+ZFA:0000715	adductor hyohyoid	adductors hyohyoid
+ZFA:0000715	adductor hyohyoid	hyohyoidei adductores
+ZFA:0007053	adductor hyomandibulae	dorsal adductors hyomandibulae
+ZFA:0007053	adductor hyomandibulae	dorsal adductor hyomandibulae
+ZFA:0007049	adductor mandibulae	dorsal adductor mandibulae
+ZFA:0000465	adductor operculi	adductor opercula
+ZFA:0000465	adductor operculi	adductor operculae
+ZFA:0000616	adductor profundus	adductors profundus
+ZFA:0001198	adenohypophyseal placode	pituitary placode
+ZFA:0001282	adenohypophysis	anterior pituitary
+ZFA:0001282	adenohypophysis	anterior hypophysis
+ZFA:0005345	adipose tissue	white adipose tissue
+ZFA:0009167	adrenal medulla cell	chromafin cell
+ZFA:0009061	adrenergic neuron	adrenergic neurons
+ZFA:0009216	adrenocorticotropic hormone secreting cell	corticotropin hormone secreting cell
+ZFA:0009216	adrenocorticotropic hormone secreting cell	corticotrophin hormone secreting cell
+ZFA:0009216	adrenocorticotropic hormone secreting cell	corticotroph
+ZFA:0009216	adrenocorticotropic hormone secreting cell	corticotrope
+ZFA:0009216	adrenocorticotropic hormone secreting cell	adrenocorticotrophic hormone secreting cell
+ZFA:0000716	afferent branchial artery	ABA
+ZFA:0005012	afferent filamental artery	afferent filamental arteries
+ZFA:0005012	afferent filamental artery	AFA
+ZFA:0005015	afferent lamellar arteriole	AFL
+ZFA:0005015	afferent lamellar arteriole	afferent lamellar arterioles
+ZFA:0009238	afferent neuron	input neuron
+ZFA:0009201	alkali secreting cell	alkali secreting cells
+ZFA:0009335	alpha-beta T cell	alpha-beta T lymphocyte
+ZFA:0009335	alpha-beta T cell	alpha-beta T-cell
+ZFA:0009335	alpha-beta T cell	alpha-beta T-lymphocyte
+ZFA:0009255	amacrine cell	amacrine neuron
+ZFA:0009028	ameloblast	ameloblasts
+ZFA:0009085	amelocyte	amelocytes
+ZFA:0005144	ampullary nerve	ampullary nerves
+ZFA:0000466	anal depressor	anal depressors
+ZFA:0000466	anal depressor	depressores anales
+ZFA:0000617	anal erector	anal erectors
+ZFA:0000617	anal erector	erectores anales
+ZFA:0005398	anal fin actinotrichium	anal fin actinotricia
+ZFA:0000646	anal fin distal radial	anal fin distal radials
+ZFA:0001421	anal fin lepidotrichium	anal fin ray
+ZFA:0001421	anal fin lepidotrichium	anal fin lepidotrichia
+ZFA:0000268	anal fin proximal radial	anal fin proximal radials
+ZFA:0001420	anal fin pterygiophore	anal fin radial
+ZFA:0001646	anal fin radial	anal fin radials
+ZFA:0001646	anal fin radial	anal fin pterygiophores
+ZFA:0000313	anal inclinator	anal inclinators
+ZFA:0000313	anal inclinator	inclinatores anales
+ZFA:0005897	anal protractor	infracarinalis medius
+ZFA:0005897	anal protractor	protractor analis
+ZFA:0005896	anal retractor	retractor analis
+ZFA:0005896	anal retractor	infracarinalis posterior
+ZFA:0001643	anatomical space	anatomical spaces
+ZFA:0000037	anatomical structure	anatomical structures
+ZFA:0001439	anatomical system	anatomical systems
+ZFA:0009271	androgen secreting cell	androgen secreting cells
+ZFA:0009258	angioblastic mesenchymal cell	angioblast
+ZFA:0001645	angular bone	angular bones
+ZFA:0000467	anguloarticular	articular
+ZFA:0000618	ansulate commissure	ventral tegmental commissure
+ZFA:0000618	ansulate commissure	commissura ansulata
+ZFA:0000618	ansulate commissure	Cans
+ZFA:0000004	anterior axial hypoblast	pre-polster
+ZFA:0005886	anterior basicapsular commissure	anterior basicranial commissure
+ZFA:0000423	anterior cardinal vein	rostral cardinal vein
+ZFA:0000423	anterior cardinal vein	ACV
+ZFA:0001067	anterior cerebral vein	rostral cerebral vein
+ZFA:0001067	anterior cerebral vein	ACeV
+ZFA:0001277	anterior chamber swim bladder	camera arerea weberiana
+ZFA:0001108	anterior commissure	rostral commissure
+ZFA:0001108	anterior commissure	commissura anterior
+ZFA:0001108	anterior commissure	commissura rostral
+ZFA:0000619	anterior crista	anterior semicircular canal sensory patch
+ZFA:0000619	anterior crista	ac
+ZFA:0000619	anterior crista	anterior crista ampullaris
+ZFA:0000619	anterior crista	rostral crista
+ZFA:0000619	anterior crista	anterior cristae
+ZFA:0000619	anterior crista	anterior semicircular canal sensory patches
+ZFA:0000468	anterior crista primordium	anterior crista primordia
+ZFA:0001578	anterior dorsomedial process of autopalatine	anterior dorsomedial process of autopalatines
+ZFA:0001470	anterior lateral line	anterior lateral lines
+ZFA:0001391	anterior lateral line ganglion	anterior lateral line ganglia
+ZFA:0000425	anterior lateral line nerve	rostral lateral line nerve
+ZFA:0000425	anterior lateral line nerve	ALLn
+ZFA:0000425	anterior lateral line nerve	nervi lineae lateralis anterioris
+ZFA:0001472	anterior lateral line neuromast	neuromast anterior
+ZFA:0001316	anterior lateral line placode	anterior lateral line placodes
+ZFA:0005117	anterior lateral line primordium	anterior lateral line primordia
+ZFA:0005039	anterior lateral mesoderm	ALM
+ZFA:0005041	anterior lateral plate mesoderm	ALPM
+ZFA:0000168	anterior macula	anterior sensory patch
+ZFA:0000168	anterior macula	am
+ZFA:0005052	anterior mesencephalic central artery	rostral mesencephalic central artery
+ZFA:0005052	anterior mesencephalic central artery	AMCtA
+ZFA:0005080	anterior mesenteric artery	rostral mesenteric artery
+ZFA:0005080	anterior mesenteric artery	AMA
+ZFA:0005923	anterior migratory muscle precursor stream	first migratory stream
+ZFA:0001427	anterior naris	incurrent nostril
+ZFA:0001427	anterior naris	anterior nares
+ZFA:0001369	anterior pancreatic bud	exocrine anlage
+ZFA:0001369	anterior pancreatic bud	ventral anterior bud
+ZFA:0001369	anterior pancreatic bud	rostral anlage
+ZFA:0001369	anterior pancreatic bud	ventral pancreatic anlage
+ZFA:0005917	anterior-posterior polarized neuromast	anteroposterior oriented neuromast
+ZFA:0005920	anterior-posterior polarized posterior lateral line neuromast	parallel posterior lateral line neuromast
+ZFA:0001432	anterior sclerotic bone	anterior sclerotic bones
+ZFA:0000314	anterior semicircular canal	anterior semicircular duct
+ZFA:0000314	anterior semicircular canal	anterior semicircular canals
+ZFA:0000314	anterior semicircular canal	rostral vertical semicircular canal
+ZFA:0005683	anteromedial  zone olfactory bulb	medial anterior zone olfactory bulb
+ZFA:0005004	aortic arch	branchial aortic arches
+ZFA:0005004	aortic arch	aortic arches
+ZFA:0005005	aortic arch 1	mandibular aortic arch
+ZFA:0005005	aortic arch 1	AA1
+ZFA:0005006	aortic arch 2	AA2
+ZFA:0005006	aortic arch 2	hyoid aortic arch
+ZFA:0005007	aortic arch 3	AA3
+ZFA:0005008	aortic arch 4	AA4
+ZFA:0005009	aortic arch 5	AA5
+ZFA:0005016	aortic arch 6	AA6
+ZFA:0000085	apical ectodermal ridge pectoral fin bud	apical ectodermal ridge pectoral fin buds
+ZFA:0000085	apical ectodermal ridge pectoral fin bud	AER pectoral fin
+ZFA:0000085	apical ectodermal ridge pectoral fin bud	apical ectodermal ridge pectoral fin
+ZFA:0000085	apical ectodermal ridge pectoral fin bud	apical ectodermal ridge pectoral fins
+ZFA:0000085	apical ectodermal ridge pectoral fin bud	apical fold pectoral fin
+ZFA:0001450	apical ectodermal ridge pelvic fin	apical ectodermal ridge pelvic fins
+ZFA:0001385	apical ectodermal ridge pelvic fin bud	apical ectodermal ridge pelvic fin buds
+ZFA:0005148	apical epidermal cap	apical epidermal caps
+ZFA:0005652	aponeurosis	aponeuroses
+ZFA:0005914	argentum	iridophore layer iris
+ZFA:0005914	argentum	argenta
+ZFA:0000005	artery	arterial system
+ZFA:0001644	articular cartilage	articular cartilages
+ZFA:0000315	asteriscus	lagenar otolith
+ZFA:0000315	asteriscus	lagenolith
+ZFA:0009075	astrocyte	astrocytes
+ZFA:0001315	atrioventricular canal	AVC
+ZFA:0001315	atrioventricular canal	AV canal
+ZFA:0005070	atrioventricular node	downstream pacemaker
+ZFA:0005070	atrioventricular node	AV node
+ZFA:0005073	atrioventricular ring	AV ring
+ZFA:0001493	atypical epithelium	atypical epithelia
+ZFA:0001500	auditory capsule	otic capsule
+ZFA:0005244	auditory epithelial support cell	auditory support cell
+ZFA:0005418	auditory fenestra	auditory fenestrae
+ZFA:0009121	auditory receptor cell	auditory receptor cells
+ZFA:0009121	auditory receptor cell	auditory hair cell
+ZFA:0001574	autonomic nervous system	ANS
+ZFA:0009059	autonomic neuron	autonomic neurons
+ZFA:0000620	autopalatine	palatine
+ZFA:0000091	axial chorda mesoderm	chorda mesoderm
+ZFA:0000091	axial chorda mesoderm	chordamesoderm
+ZFA:0000091	axial chorda mesoderm	presumptive notochord
+ZFA:0001123	axial fin skeleton	unpaired fin skeleton
+ZFA:0001123	axial fin skeleton	median fin skeleton
+ZFA:0000092	axis	midline
+ZFA:0000006	ball	yolk ball
+ZFA:0009254	band form neutrophil	rod neutrophil
+ZFA:0009254	band form neutrophil	band
+ZFA:0009254	band form neutrophil	band cell
+ZFA:0009254	band form neutrophil	stab cell
+ZFA:0009254	band form neutrophil	band form
+ZFA:0000622	barbel	barble
+ZFA:0005119	barbel primordium	barbel primordia
+ZFA:0009132	barrier cell	barrier cells
+ZFA:0009037	barrier epithelial cell	barrier epithelial cells
+ZFA:0005000	basal communicating artery	BCA
+ZFA:0001485	basal lamina	basal laminae
+ZFA:0001425	basal plate cartilage	basal plate cartilages
+ZFA:0000761	basal plate midbrain region	floorplate midbrain
+ZFA:0000761	basal plate midbrain region	floor plate midbrain
+ZFA:0005150	basal regeneration epithelium	basal wound epidermis
+ZFA:0000170	basibranchial	basibranchials
+ZFA:0005453	basicapsular fenestra	basicapsular fenestrae
+ZFA:0001060	basidorsal	arcualia
+ZFA:0000316	basihyal bone	basihyoid
+ZFA:0000316	basihyal bone	glossohyal
+ZFA:0000316	basihyal bone	basihyal
+ZFA:0001510	basihyal cartilage	basihyal
+ZFA:0005002	basilar artery	BA
+ZFA:0000623	basipterygium	pelvic girdle
+ZFA:0000623	basipterygium	pelvic bone
+ZFA:0001539	basipterygium cartilage	basipterygium cartilages
+ZFA:0001361	basiventral	arcualia
+ZFA:0009068	basket cell	basket cells
+ZFA:0005236	basophilic erythroblast	prorubricyte
+ZFA:0005236	basophilic erythroblast	basophilic normoblast
+ZFA:0005236	basophilic erythroblast	early erythroblast
+ZFA:0005236	basophilic erythroblast	early normoblast
+ZFA:0009142	B cell	B-lymphocyte
+ZFA:0009142	B cell	B lymphocyte
+ZFA:0009142	B cell	B-cell
+ZFA:0009282	Bergmann glial cell	Bergmann glial cells
+ZFA:0009212	biogenic amine secreting cell	biogenic amine secreting cells
+ZFA:0009055	bipolar neuron	bipolar neurons
+ZFA:0001270	blastema	regeneration blastema
+ZFA:0009178	blastemal cell	blastemal cells
+ZFA:0009177	blastoderm cell	blastomere
+ZFA:0000093	blastomere	blastomeres
+ZFA:0009044	blood cell	blood cells
+ZFA:0000094	blood island	posterior ICM
+ZFA:0000094	blood island	posterior blood island
+ZFA:0000094	blood island	caudal hematopoietic tissue
+ZFA:0000094	blood island	blood islands
+ZFA:0007073	blood sinus cavity	blood sinus lumen
+ZFA:0001079	blood vasculature	blood vessel
+ZFA:0009036	blood vessel endothelial cell	blood vessel endothelial cells
+ZFA:0009222	blue sensitive photoreceptor cell	blue sensitive photoreceptor cells
+ZFA:0001514	bone element	bones
+ZFA:0001637	bony projection	bony projections
+ZFA:0001637	bony projection	process
+ZFA:0001684	Bowman's layer	anterior elastic lamina
+ZFA:0001684	Bowman's layer	anterior limiting membrane
+ZFA:0000008	brain	brain structure
+ZFA:0005575	brain nucleus	brain nuclei
+ZFA:0000318	brainstem and spinal white matter	brain stem and spinal tract/commissure
+ZFA:0000318	brainstem and spinal white matter	brain stem/spinal tracts and commissures
+ZFA:0005535	branched anal fin ray	anal fin branched ray
+ZFA:0000463	branchial adductor	adductors
+ZFA:0001650	branchial mesenchyme	gill mesenchyme
+ZFA:0000172	branchial muscle	branchial muscles
+ZFA:0005731	branchiomotor neuron	branchi motor neuron
+ZFA:0005731	branchiomotor neuron	special visceral motor neuron
+ZFA:0000319	branchiostegal membrane	branchiostegal membranes
+ZFA:0000476	branchiostegal ray	branchiostegal rays
+ZFA:0001279	branchiostegal ray 1	branchiostegal rays 1
+ZFA:0001281	branchiostegal ray 2	branchiostegal rays 2
+ZFA:0001280	branchiostegal ray 3	branchiostegal rays 3
+ZFA:0005562	Bruch's membrane	vitreous lamina
+ZFA:0009143	brush border epithelial cell	brush border epithelial cells
+ZFA:0000626	bulbo-spinal tract	tractus bulbospinalis
+ZFA:0000173	bulbus arteriosus	truncus
+ZFA:0000173	bulbus arteriosus	outflow tract
+ZFA:0000173	bulbus arteriosus	cardiac outflow tract
+ZFA:0005068	bulbus arteriosus inner layer	bulbus arteriosus intima
+ZFA:0005067	bulbus arteriosus middle layer	bulbus arteriosus media
+ZFA:0005066	bulbus arteriosus outer layer	bulbus arteriosus externa
+ZFA:0005218	CaD	caudal dorsal interneuron
+ZFA:0009300	Cajal-Retzius cell	Cajal-Retzius cells
+ZFA:0009206	calcitonin secreting cell	calcitonin secreting cells
+ZFA:0009243	CaP motoneuron	CAP motoneurons
+ZFA:0009243	CaP motoneuron	caudal primary motoneuron
+ZFA:0005063	cardiac conduction system	cardiac pacemaker
+ZFA:0005063	cardiac conduction system	central conduction system
+ZFA:0009259	cardiac mesenchymal cell	cardiac mesenchymal cells
+ZFA:0009316	cardiac muscle cell	cardiomyocyte
+ZFA:0009316	cardiac muscle cell	cardiac myocyte
+ZFA:0009316	cardiac muscle cell	cardiac muscle cells
+ZFA:0009234	cardiac muscle myoblast	cardioblast
+ZFA:0000009	cardiac ventricle	ventricle
+ZFA:0001501	cartilage element	cartilages
+ZFA:0005155	cartilaginous joint	synchondrosis
+ZFA:0000011	caudal artery	CA
+ZFA:0000320	caudal commissure	PC
+ZFA:0000320	caudal commissure	posterior commissure
+ZFA:0001051	caudal division of the internal carotid artery	CaDI
+ZFA:0001051	caudal division of the internal carotid artery	posterior cerebral carotid artery
+ZFA:0001051	caudal division of the internal carotid artery	posterior rami of the cerebral carotid artery
+ZFA:0001058	caudal fin	tail fin
+ZFA:0001058	caudal fin	tail
+ZFA:0005424	caudal fin actinotrichium	caudal fin actinotrichia
+ZFA:0005262	caudal fin dorsal procurrent ray	dorsal procurrent caudal-fin ray
+ZFA:0005767	caudal fin fat	tail fin fat
+ZFA:0001550	caudal fin lepidotrichium	caudal fin lepidotrichia
+ZFA:0001550	caudal fin lepidotrichium	caudal fin ray
+ZFA:0001605	caudal fin lower lobe	caudal fin ventral lobe
+ZFA:0001585	caudal fin principal ray	caudal principal ray
+ZFA:0001585	caudal fin principal ray	caudal principal lepidotrichium
+ZFA:0005512	caudal fin principal ray 1	caudal principal ray 1
+ZFA:0005512	caudal fin principal ray 1	caudal principal lepidotrichium 1
+ZFA:0005521	caudal fin principal ray 10	caudal principal lepidotrichium 10
+ZFA:0005521	caudal fin principal ray 10	caudal principal ray 10
+ZFA:0005522	caudal fin principal ray 11	caudal principal ray 11
+ZFA:0005522	caudal fin principal ray 11	caudal principal lepidotrichium 11
+ZFA:0005523	caudal fin principal ray 12	caudal principal ray 12
+ZFA:0005523	caudal fin principal ray 12	caudal principal lepidotrichium 12
+ZFA:0005595	caudal fin principal ray 13	caudal principal ray 13
+ZFA:0005595	caudal fin principal ray 13	caudal principal lepidotrichium 13
+ZFA:0005524	caudal fin principal ray 14	caudal principal ray 14
+ZFA:0005524	caudal fin principal ray 14	caudal principal lepidotrichium 14
+ZFA:0005525	caudal fin principal ray 15	caudal principal lepidotrichium 15
+ZFA:0005525	caudal fin principal ray 15	caudal principal ray 15
+ZFA:0005526	caudal fin principal ray 16	caudal principal lepidotrichium 16
+ZFA:0005526	caudal fin principal ray 16	caudal principal ray 16
+ZFA:0005527	caudal fin principal ray 17	caudal principal ray 17
+ZFA:0005527	caudal fin principal ray 17	caudal principal lepidotrichium 17
+ZFA:0005528	caudal fin principal ray 18	caudal principal lepidotrichium 18
+ZFA:0005528	caudal fin principal ray 18	caudal principal ray 18
+ZFA:0005529	caudal fin principal ray 19	caudal principal ray 19
+ZFA:0005529	caudal fin principal ray 19	caudal principal lepidotrichium 19
+ZFA:0005514	caudal fin principal ray 2	caudal principal lepidotrichium 2
+ZFA:0005514	caudal fin principal ray 2	caudal principal ray 2
+ZFA:0005513	caudal fin principal ray 3	caudal principal lepidotrichium 3
+ZFA:0005513	caudal fin principal ray 3	caudal principal ray 3
+ZFA:0005515	caudal fin principal ray 4	caudal principal ray 4
+ZFA:0005515	caudal fin principal ray 4	caudal principal lepidotrichium 4
+ZFA:0005516	caudal fin principal ray 5	caudal principal ray 5
+ZFA:0005516	caudal fin principal ray 5	caudal principal lepidotrichium 5
+ZFA:0005517	caudal fin principal ray 6	caudal principal lepidotrichium 6
+ZFA:0005517	caudal fin principal ray 6	caudal principal ray 6
+ZFA:0005518	caudal fin principal ray 7	caudal principal ray 7
+ZFA:0005518	caudal fin principal ray 7	caudal principal lepidotrichium 7
+ZFA:0005519	caudal fin principal ray 8	caudal principal ray 8
+ZFA:0005519	caudal fin principal ray 8	caudal principal lepidotrichium 8
+ZFA:0005520	caudal fin principal ray 9	caudal principal ray 9
+ZFA:0005520	caudal fin principal ray 9	caudal principal lepidotrichium 9
+ZFA:0001584	caudal fin procurrent ray	caudal procurrent lepidotrichium
+ZFA:0001584	caudal fin procurrent ray	caudal procurrent ray
+ZFA:0001604	caudal fin upper lobe	caudal fin dorsal lobe
+ZFA:0005263	caudal fin ventral procurrent ray	ventral procurrent ray
+ZFA:0000634	caudal hypothalamic zone	tuberal hypothalamus
+ZFA:0000634	caudal hypothalamic zone	hypothalamus pars tuberalis
+ZFA:0000321	caudal levator	caudal levators
+ZFA:0000479	caudal mesencephalo-cerebellar tract	posterior mesencephalo-cerebellar tract
+ZFA:0000629	caudal motor nucleus	nVIc
+ZFA:0000629	caudal motor nucleus	nucleus nervi abducentis, pars caudalis
+ZFA:0000177	caudal oblique	caudal obliques
+ZFA:0001699	caudal octaval nerve motor nucleus	CEN
+ZFA:0001699	caudal octaval nerve motor nucleus	RELL
+ZFA:0001699	caudal octaval nerve motor nucleus	rostral cranial nerve VIII motor nucleus
+ZFA:0001699	caudal octaval nerve motor nucleus	caudal efferent nuclei
+ZFA:0000322	caudal octaval nucleus	caudal octaval nuclei
+ZFA:0000480	caudal octavolateralis nucleus	nucleus octavolateralis caudalis
+ZFA:0000630	caudal parvocellular preoptic nucleus	caudal parvocellular preoptic nuclei
+ZFA:0000630	caudal parvocellular preoptic nucleus	posterior parvocellular preoptic nucleus
+ZFA:0000324	caudal periventricular hypothalamus	nucleus periventricularis hypothalami, zona caudalis
+ZFA:0000324	caudal periventricular hypothalamus	caudal zone of periventricular hypothalamus
+ZFA:0000481	caudal preglomerular nucleus	nucleus praeglomerulosus caudalis
+ZFA:0000631	caudal pretectal nucleus	posterior pretectal nucleus
+ZFA:0000631	caudal pretectal nucleus	caudal pretectal nuclei
+ZFA:0000179	caudal root of abducens nerve	radix caudalis nervi abducentis
+ZFA:0000325	caudal thalamic nucleus	posterior thalamic nucleus
+ZFA:0000482	caudal tuberal nucleus	posterior tuberal nucleus
+ZFA:0000633	caudal tuberculum	posterior tubercle
+ZFA:0000633	caudal tuberculum	posterior tuberculum
+ZFA:0000180	caudal vein	CV
+ZFA:0000326	caudal vertebra	caudal vertebrae
+ZFA:0000181	caudal zone of dorsal telencephalon	area dorsalis telencephali, zona posterior
+ZFA:0000181	caudal zone of dorsal telencephalon	Dp
+ZFA:0000181	caudal zone of dorsal telencephalon	posterior zone of dorsal telencephalic area
+ZFA:0000181	caudal zone of dorsal telencephalon	caudal zone of D
+ZFA:0005217	CaV	caudal ventral interneuron
+ZFA:0001490	cavitated compound organ	cavitated compound organs
+ZFA:0000484	celiacomesenteric artery	coeliac-mesenteric artery
+ZFA:0009000	cell	cells
+ZFA:0009030	cementoblast	cementoblasts
+ZFA:0009087	cementocyte	cementocytes
+ZFA:0005020	central artery	CtA
+ZFA:0000938	central canal	neural lumen
+ZFA:0000938	central canal	canalis centralis
+ZFA:0000182	central caudal thalamic nucleus	nucleus centralis posterior thalami
+ZFA:0000182	central caudal thalamic nucleus	central posterior thalamic nucleus
+ZFA:0000012	central nervous system	cns
+ZFA:0000485	central nucleus inferior lobe	central nucleus of the inferior lobe
+ZFA:0000485	central nucleus inferior lobe	central nucleus inferior lobes
+ZFA:0000485	central nucleus inferior lobe	nucleus centralis lobi inferioris hypothalami
+ZFA:0001668	central nucleus of ventral telencephalon	area ventralis telencephali, nucleus centralis
+ZFA:0000826	central nucleus torus semicircularis	central nucleus of semicircular torus
+ZFA:0000826	central nucleus torus semicircularis	nucleus centralis tori semicircularis
+ZFA:0000635	central pretectal nucleus	nucleus praetectalis centralis
+ZFA:0005098	central ray artery	central ray arteries
+ZFA:0000487	central zone of dorsal telencephalon	central zone of D
+ZFA:0000487	central zone of dorsal telencephalon	area dorsalis telencephali, zona centralis
+ZFA:0000487	central zone of dorsal telencephalon	Dc
+ZFA:0005721	central zone protoglomerulus 1	CZ1
+ZFA:0005722	central zone protoglomerulus 2	CZ2
+ZFA:0005723	central zone protoglomerulus 3	CZ3
+ZFA:0005724	central zone protoglomerulus 4	CZ4
+ZFA:0005725	central zone protoglomerulus 5	CZ5
+ZFA:0000126	centrum	autocentrum
+ZFA:0001640	cephalic flexure	ventral flexure
+ZFA:0000328	cephalic musculature	head muscles
+ZFA:0000694	ceratobranchial 5 tooth	tooth
+ZFA:0000694	ceratobranchial 5 tooth	pharyngeal tooth
+ZFA:0000694	ceratobranchial 5 tooth	teeth
+ZFA:0000488	ceratobranchial bone	ceratobranchial bones
+ZFA:0001516	ceratobranchial cartilage	ceratobranchial cartilages
+ZFA:0000578	ceratohyal bone	ceratohyal anterior
+ZFA:0000578	ceratohyal bone	rostral ceratohyal
+ZFA:0000578	ceratohyal bone	anterior ceratohyal
+ZFA:0005021	cerebellar central artery	CCtA
+ZFA:0000636	cerebellar crest	crista cerebellaris molecular layer
+ZFA:0001708	cerebellar white matter	cerebellar tracts/commissures
+ZFA:0000174	cerebellovestibular tract	caudal cerebellar tract
+ZFA:0000174	cerebellovestibular tract	cerebellovestibular tracts
+ZFA:0000174	cerebellovestibular tract	caudal cerebellar tracts
+ZFA:0001626	cerebral spinal fluid	CSF
+ZFA:0007120	cerebrospinal fluid contacting neuron	CSF-cN
+ZFA:0007120	cerebrospinal fluid contacting neuron	CSF-cNs
+ZFA:0009295	cerebrospinal fluid secreting cell	cerebrospinal fluid secreting cells
+ZFA:0009124	chemoreceptor cell	chemoreceptor cells
+ZFA:0009397	cholangiocyte	epithelial cell of bile duct
+ZFA:0009397	cholangiocyte	bile duct cells
+ZFA:0009060	cholinergic neuron	cholinergic neurons
+ZFA:0009027	chondroblast	chondroblasts
+ZFA:0001424	chondrocranium	chondocranium
+ZFA:0001424	chondrocranium	neurocranium
+ZFA:0001461	chondrocranium cartilage	neurocranium cartilage
+ZFA:0009084	chondrocyte	chondrocytes
+ZFA:0009175	choroidal cell of the eye	choroidal cells
+ZFA:0001075	choroidal fissure	choroidal fissures
+ZFA:0009304	choroid plexus epithelial cell	choroid plexus epithelial cells
+ZFA:0001445	choroid plexus tectal ventricle	choroid plexus tectal ventricles
+ZFA:0001444	choroid plexus third ventricle	diencephalic choroid plexus
+ZFA:0005219	choroid plexus vascular circuit	CVC
+ZFA:0005219	choroid plexus vascular circuit	choroid vascular circuit
+ZFA:0009099	chromaffin cell	phaeochromocyte
+ZFA:0005247	CiA	V1 interneuron
+ZFA:0005247	CiA	circumferential ascending interneuron
+ZFA:0005233	CiD	circumferential descending interneuron
+ZFA:0005233	CiD	V2a interneuron
+ZFA:0005233	CiD	commissural descending interneurons
+ZFA:0001289	ciliary marginal zone	retinal ciliary marginal zone
+ZFA:0001289	ciliary marginal zone	circumferential germinal zone
+ZFA:0001289	ciliary marginal zone	CMZ
+ZFA:0001289	ciliary marginal zone	peripheral growth zone
+ZFA:0001289	ciliary marginal zone	retinal proliferative zone
+ZFA:0001203	ciliary zone	ciliary epithelial zone
+ZFA:0001203	ciliary zone	ciliary bodies
+ZFA:0001203	ciliary zone	ciliary body
+ZFA:0009032	ciliated cell	ciliated cells
+ZFA:0009035	ciliated epithelial cell	ciliated epithelial cells
+ZFA:0009358	ciliated olfactory receptor neuron	ciliated olfactory sensory neuron
+ZFA:0009358	ciliated olfactory receptor neuron	ciliated sensory neuron
+ZFA:0009043	circulating cell	circulating cells
+ZFA:0005499	circulus	circuli
+ZFA:0000184	cleithrum	cleithra
+ZFA:0005640	cleithrum-vertebral ligament	Baudelot's ligament
+ZFA:0001711	climbing fiber	climbing fibers
+ZFA:0000330	cloacal chamber	cloaca lumen
+ZFA:0009191	CNS interneuron	CNS interneurons
+ZFA:0009195	CNS long range interneuron	CNS long range interneurons
+ZFA:0009067	CNS neuron (sensu Vertebrata)	CNS neurons (sensu Vertebrata)
+ZFA:0009194	CNS short range interneuron	CNS short range interneurons
+ZFA:0000145	CNS white matter	CNS tract/commissure
+ZFA:0005186	CoB	bifurcate commissural interneuron
+ZFA:0005230	CoBL	commissural bifurcating longitudinal
+ZFA:0001438	coelom	body cavity
+ZFA:0005234	CoLA	commissural longitudinal ascending interneuron
+ZFA:0001186	collagenous dermal stroma	primary dermal stroma
+ZFA:0009287	collagen secreting cell	collagen secreting cells
+ZFA:0009314	columnar chondrocyte	columnar chondrocytes
+ZFA:0009038	columnar/cuboidal epithelial cell	columnar/cuboidal epithelial cells
+ZFA:0000490	commissura cerebelli	cerebellar commissure
+ZFA:0000638	commissura rostral, pars dorsalis	commissura anterior, pars dorsalis
+ZFA:0000185	commissura rostral, pars ventralis	commissura anterior, pars ventralis
+ZFA:0000331	commissure infima of Haller	commissura infima Halleri
+ZFA:0000331	commissure infima of Haller	commissura infima of Haller
+ZFA:0000491	commissure of the caudal tuberculum	Ctub
+ZFA:0000491	commissure of the caudal tuberculum	commissura tuberculi posterioris
+ZFA:0000491	commissure of the caudal tuberculum	CPT
+ZFA:0000491	commissure of the caudal tuberculum	commissure of the posterior tuberculum
+ZFA:0000639	commissure of the secondary gustatory nucleus	commissure of the secondary gustatory nuclei
+ZFA:0000639	commissure of the secondary gustatory nucleus	commissura nucleorum gustatoriorum secundariorum
+ZFA:0005877	commissure of the tract of the commissure of the caudal tuberculum	Commissure of the TCPT
+ZFA:0000186	common cardinal vein	duct of Cuvier
+ZFA:0009023	common lymphoid progenitor	committed lymphopoietic stem cell
+ZFA:0009023	common lymphoid progenitor	early lymphocyte progenitor
+ZFA:0009023	common lymphoid progenitor	lymphoid stem cell
+ZFA:0009023	common lymphoid progenitor	lymphopoietic stem cell
+ZFA:0009023	common lymphoid progenitor	CLP
+ZFA:0009023	common lymphoid progenitor	ELP
+ZFA:0009021	common myeloid progenitor	pluripotent stem cell (bone marrow)
+ZFA:0009021	common myeloid progenitor	colony forming unit granulocyte, erythrocyte, macrophage, and megakaryocyte
+ZFA:0009021	common myeloid progenitor	CMP
+ZFA:0009021	common myeloid progenitor	myeloid stem cell
+ZFA:0009021	common myeloid progenitor	multipotential myeloid stem cell
+ZFA:0005051	communicating vessel palatocerebral artery	communicating vessels
+ZFA:0005051	communicating vessel palatocerebral artery	CMV
+ZFA:0000496	compound organ	organ
+ZFA:0001489	compound organ component	compound organ components
+ZFA:0005013	concurrent branch afferent branchial artery	CCB
+ZFA:0009322	cone retinal bipolar cell	cone retinal bipolar cells
+ZFA:0007050	constrictor dorsalis	constrictors dorsalis
+ZFA:0005175	CoPA	primary commissural interneuron
+ZFA:0001220	copula	copulae
+ZFA:0001221	copula 1	anterior copula
+ZFA:0001222	copula 2	posterior copula
+ZFA:0000332	coracoid	scapulocoracoid
+ZFA:0000332	coracoid	coracoids
+ZFA:0000640	cornea	corneas
+ZFA:0009079	corneal endothelial cell	corneal endothelial cells
+ZFA:0009264	corneal epithelial cell	corneal epithelial cells
+ZFA:0005812	coronary artery	coronary vessel
+ZFA:0005905	coronoid process	coronoid process of Meckel's cartilage
+ZFA:0001274	coronomeckelian	sesamoid articular
+ZFA:0001274	coronomeckelian	coronoid
+ZFA:0000188	corpus cerebelli	corpus cerebellum
+ZFA:0000188	corpus cerebelli	cerebellar corpus
+ZFA:0000188	corpus cerebelli	corpus cerebelli granular layer
+ZFA:0000334	corpus mamillare	mammillary body
+ZFA:0005176	CoSA	secondary commissural interneuron
+ZFA:0001458	cranial cartilage	cranial cartilages
+ZFA:0001059	cranial division of the internal carotid artery	CrDI
+ZFA:0001059	cranial division of the internal carotid artery	anterior rami of the cerebral carotid artery
+ZFA:0001059	cranial division of the internal carotid artery	anterior cerebral carotid artery
+ZFA:0001059	cranial division of the internal carotid artery	rostral division of the internal carotid artery
+ZFA:0000013	cranial ganglion	presumptive cranial ganglia
+ZFA:0000013	cranial ganglion	cranial ganglia
+ZFA:0005730	cranial motor neuron	cranial motoneuron
+ZFA:0000641	cranial nerve	cranial nerves
+ZFA:0000249	cranial nerve I	CN-I
+ZFA:0000249	cranial nerve I	olfactory nerve
+ZFA:0000435	cranial nerve II	CN-II
+ZFA:0000435	cranial nerve II	optic
+ZFA:0000435	cranial nerve II	optic nerve
+ZFA:0000405	cranial nerve III	occulomotor
+ZFA:0000405	cranial nerve III	CN-III
+ZFA:0000405	cranial nerve III	oculomotor nerve
+ZFA:0000600	cranial nerve IV	CN-IV
+ZFA:0000600	cranial nerve IV	trochlear nerve
+ZFA:0000600	cranial nerve IV	trochlear
+ZFA:0000668	cranial nerve IX	nervus glossopharyngeus
+ZFA:0000668	cranial nerve IX	CN-IX
+ZFA:0000668	cranial nerve IX	glossopharyngeal nerve
+ZFA:0000697	cranial nerve V	CN-V
+ZFA:0000697	cranial nerve V	trigeminal nerve
+ZFA:0000310	cranial nerve VI	nervus abducens
+ZFA:0000310	cranial nerve VI	abducens nerve
+ZFA:0000310	cranial nerve VI	CN-VI
+ZFA:0000664	cranial nerve VII	nervus facialis
+ZFA:0000664	cranial nerve VII	CN-VII
+ZFA:0000664	cranial nerve VII	facial nerve
+ZFA:0000247	cranial nerve VIII	cochleovestibular nerve
+ZFA:0000247	cranial nerve VIII	auditory nerve
+ZFA:0000247	cranial nerve VIII	octaval nerve
+ZFA:0000247	cranial nerve VIII	CN-VIII
+ZFA:0000247	cranial nerve VIII	statoacoustic nerve
+ZFA:0000453	cranial nerve X	vagus nerve
+ZFA:0000453	cranial nerve X	CN-X
+ZFA:0000453	cranial nerve X	vagal nerve
+ZFA:0009003	cranial neural crest cell	cranial neural crest cells
+ZFA:0001267	cranial vasculature	head vasculature
+ZFA:0005606	cranial vault	skullcap
+ZFA:0005606	cranial vault	calvaria
+ZFA:0005606	cranial vault	calva
+ZFA:0005606	cranial vault	calvarium
+ZFA:0000737	cranium	cranial skeleton
+ZFA:0000335	crossed tecto-bulbar tract	tractus tectobulbaris cruciatus
+ZFA:0009360	crypt olfactory receptor neuron	crypt cell
+ZFA:0009360	crypt olfactory receptor neuron	crypt sensory neuron
+ZFA:0009360	crypt olfactory receptor neuron	crypt olfactory sensory neuron
+ZFA:0009317	cyanophore	blue chromatophore
+ZFA:0009228	D cell	D cells
+ZFA:0001473	deep blastomere	deep blastomeres
+ZFA:0005825	deep lateral dorsal muscle	LPD
+ZFA:0005825	deep lateral dorsal muscle	lateralis profundus dorsalis
+ZFA:0005824	deep lateral ventral muscle	LPV
+ZFA:0005824	deep lateral ventral muscle	lateralis profundus ventralis
+ZFA:0000494	deep white zone	deep white zones
+ZFA:0000711	DEL	deep cell layer
+ZFA:0000711	DEL	DEL cells
+ZFA:0009209	dendritic cell	veiled cell
+ZFA:0009209	dendritic cell	interdigitating cell
+ZFA:0005134	dental epithelium	dental epithelia
+ZFA:0005138	dental organ	enamel organ
+ZFA:0005140	dental papilla	tooth mesenchyme
+ZFA:0005140	dental papilla	pharyngeal tooth mesenchyme
+ZFA:0009173	dental papilla cell	dental papilla cells
+ZFA:0000644	dental plate	dental plates
+ZFA:0000191	dentary	dentary bone
+ZFA:0005143	dentine	dentin
+ZFA:0001590	dermal bone	dermal bones
+ZFA:0001182	dermal deep region	stratum compactum
+ZFA:0001183	dermal superficial region	stratum laxum
+ZFA:0000863	dermatocranium	dermal bone cranium
+ZFA:0001513	dermomyotome	dermomyotomes
+ZFA:0001686	Descemet's membrane	posterior limiting membrane
+ZFA:0000645	descending octaval nucleus	nucleus octavus descendens
+ZFA:0000192	descending trigeminal root	radix descendens nervi trigemini
+ZFA:0005685	dG1	dorsal glomerulus 1
+ZFA:0005806	diencephalic efferent neurons to the lateral line	DELL neuron
+ZFA:0000338	diencephalic white matter	diencephalic tract/commissure
+ZFA:0000193	diffuse nucleus inferior lobe	DIL
+ZFA:0000193	diffuse nucleus inferior lobe	diffuse nuclei
+ZFA:0009217	digestive enzyme secreting cell	digestive enzyme secreting cells
+ZFA:0000498	dilatator operculi	dilators operculi
+ZFA:0000498	dilatator operculi	dilator opercula
+ZFA:0000498	dilatator operculi	dilatator opercula
+ZFA:0005071	distal conduction system	His-Purkinje system
+ZFA:0005071	distal conduction system	His-Purkinji network
+ZFA:0005071	distal conduction system	HPS
+ZFA:0005293	distal early tubule	distal early tubules
+ZFA:0005149	distal epidermal cap	distal epidermal caps
+ZFA:0005686	dlG1	dorsolateral glomerulus 1
+ZFA:0005687	dlG2	dorsolateral glomerulus 2
+ZFA:0005688	dlG3	dorsolateral glomerulus 3
+ZFA:0005689	dlG4	dorsolateral glomerulus 4
+ZFA:0005690	dlG5	dorsolateral glomerulus 5
+ZFA:0005178	DoLA	dorsal longitudinal interneuron
+ZFA:0009301	dopaminergic neuron	dopaminergic neurons
+ZFA:0000194	dorsal accessory optic nucleus	nucleus opticus accessorius dorsalis
+ZFA:0000052	dorsal actinotrichium	dorsal actinotrichia
+ZFA:0001312	dorsal anterior lateral line ganglion	anterodorsal lateral line ganglion
+ZFA:0001480	dorsal anterior lateral line nerve	anterodorsal lateral line nerve
+ZFA:0001480	dorsal anterior lateral line nerve	dorsal anterior lateral line nerves
+ZFA:0000014	dorsal aorta	dorsal aortic root
+ZFA:0000014	dorsal aorta	DA
+ZFA:0000499	dorsal arrector	arrector dorsalis
+ZFA:0000499	dorsal arrector	dorsal arrectors
+ZFA:0005082	dorsal branch nasal ciliary artery	dorsal branch nasal ciliary arteries
+ZFA:0000647	dorsal caudal thalamic nucleus	nucleus dorsalis posterior thalami
+ZFA:0000647	dorsal caudal thalamic nucleus	dorsal posterior thalamic nucleus
+ZFA:0005030	dorsal ciliary vein	DCV
+ZFA:0000195	dorsal depressor	dorsal depressors
+ZFA:0000195	dorsal depressor	depressor dorsalis
+ZFA:0000340	dorsal entopeduncular nucleus of ventral telencephalon	nucleus entopeduncularis, pars dorsalis
+ZFA:0000340	dorsal entopeduncular nucleus of ventral telencephalon	ENd
+ZFA:0000340	dorsal entopeduncular nucleus of ventral telencephalon	endopeduncular nucleus, dorsal part
+ZFA:0000340	dorsal entopeduncular nucleus of ventral telencephalon	entopeduncular nucleus, dorsal part
+ZFA:0000500	dorsal erector	dorsal erectors
+ZFA:0000500	dorsal erector	erector dorsalis
+ZFA:0000936	dorsal fin distal radial	dorsal fin distal radials
+ZFA:0001418	dorsal fin lepidotrichium	dorsal fin ray
+ZFA:0001418	dorsal fin lepidotrichium	dorsal fin lepidotrichia
+ZFA:0005355	dorsal fin lepidotrichium 1	dorsal fin ray 1
+ZFA:0005356	dorsal fin lepidotrichium 2	dorsal fin ray 2
+ZFA:0005357	dorsal fin lepidotrichium 3	dorsal fin ray 3
+ZFA:0005358	dorsal fin lepidotrichium 4	dorsal fin ray 4
+ZFA:0005359	dorsal fin lepidotrichium 5	dorsal fin ray 5
+ZFA:0005360	dorsal fin lepidotrichium 6	dorsal fin ray 6
+ZFA:0005361	dorsal fin lepidotrichium 7	dorsal fin ray 7
+ZFA:0005816	dorsal fin protractor	protractor dorsalis
+ZFA:0000947	dorsal fin proximal radial	dorsal fin proximal radials
+ZFA:0001419	dorsal fin pterygiophore	dorsal fin support
+ZFA:0005364	dorsal fin pterygiophore 1	dorsal fin radial 1
+ZFA:0005365	dorsal fin pterygiophore 2	dorsal fin radial 2
+ZFA:0005366	dorsal fin pterygiophore 3	dorsal fin radial 3
+ZFA:0005367	dorsal fin pterygiophore 4	dorsal fin radial 4
+ZFA:0005368	dorsal fin pterygiophore 5	dorsal fin radial 5
+ZFA:0005369	dorsal fin pterygiophore 6	dorsal fin radial 6
+ZFA:0005370	dorsal fin pterygiophore 7	dorsal fin radial 7
+ZFA:0005371	dorsal fin pterygiophore 8	dorsal fin radial 8
+ZFA:0001647	dorsal fin radial	dorsal fin radials
+ZFA:0001647	dorsal fin radial	dorsal fin pterygiophore
+ZFA:0005817	dorsal fin retractor	retractor dorsalis
+ZFA:0000501	dorsal funiculus	funiculus dorsalis
+ZFA:0000197	dorsal habenular nucleus	dorsal habenular nuclei
+ZFA:0000197	dorsal habenular nucleus	dorsal nuclei
+ZFA:0000649	dorsal horn spinal cord	cornu dorsale
+ZFA:0000649	dorsal horn spinal cord	dorsal horn
+ZFA:0001401	dorsal hyoid arch	dorsal visceral arch 2
+ZFA:0000196	dorsal hypohyal bone	dorsal hypohyals
+ZFA:0000342	dorsal inclinator	dorsal inclinators
+ZFA:0000342	dorsal inclinator	inclinator dorsalis
+ZFA:0005822	dorsal interfilamental caudal muscle	ICD
+ZFA:0005822	dorsal interfilamental caudal muscle	interfilamenti caudalis dorsalis
+ZFA:0005112	dorsal lateral line	dorsal lateral lines
+ZFA:0005113	dorsal lateral line neuromast	neuromast dorsal
+ZFA:0005025	dorsal longitudinal anastomotic vessel	DLAV
+ZFA:0005266	dorsal longitudinal fasciculus	DLF
+ZFA:0005320	dorsal longitudinal lymphatic vessel	dllv
+ZFA:0005031	dorsal longitudinal vein	DLV
+ZFA:0000650	dorsal motor root of V	dorsal motor roots of V
+ZFA:0000343	dorsal nucleus of ventral telencephalon	area ventralis telencephali, nucleus dorsalis
+ZFA:0000343	dorsal nucleus of ventral telencephalon	dorsal division of ventral telencephalic area
+ZFA:0000343	dorsal nucleus of ventral telencephalon	dorsal nucleus of V
+ZFA:0000343	dorsal nucleus of ventral telencephalon	Vd
+ZFA:0000503	dorsal oblique branchial muscle	dorsal oblique branchial muscles
+ZFA:0000738	dorsal oblique extraocular muscle	dorsal oblique extraocular muscles
+ZFA:0000738	dorsal oblique extraocular muscle	superior oblique muscle
+ZFA:0000651	dorsal pelvic arrector	arrector dorsalis pelvicus
+ZFA:0000651	dorsal pelvic arrector	dorsal pelvic arrectors
+ZFA:0000345	dorsal rectus	dorsal recti
+ZFA:0000345	dorsal rectus	superior rectus
+ZFA:0000504	dorsal retractor	dorsal retractors
+ZFA:0000652	dorsal root	radix dorsalis
+ZFA:0000200	dorsal root ganglion	dorsal root ganglia
+ZFA:0000200	dorsal root ganglion	DRG
+ZFA:0005663	dorsal spinal nerve	dorsal nerve
+ZFA:0000346	dorsal tegmental nucleus	DTN
+ZFA:0000346	dorsal tegmental nucleus	nucleus tegmentalis dorsalis
+ZFA:0000505	dorsal telencephalon	dorsal telencephalic area
+ZFA:0000505	dorsal telencephalon	pallium
+ZFA:0000505	dorsal telencephalon	area dorsalis telencephali
+ZFA:0000653	dorsal thalamus	thalamus, pars dorsalis
+ZFA:0000653	dorsal thalamus	thalamus
+ZFA:0001140	dorsal tooth row	dorsal tooth rows
+ZFA:0005918	dorsal-ventral polarized neuromast	dorsoventral oriented neuromast
+ZFA:0005919	dorsal-ventral polarized posterior lateral line neuromast	perpendicular posterior lateral line neuromast
+ZFA:0000506	dorsal zone of dorsal telencephalon	dorsal zone of dorsal telencephalic area
+ZFA:0000506	dorsal zone of dorsal telencephalon	Dd
+ZFA:0000506	dorsal zone of dorsal telencephalon	area dorsalis telencephali, zona dorsalis
+ZFA:0000506	dorsal zone of dorsal telencephalon	dorsal zone of D
+ZFA:0007060	dorsolateral field	dorsolateral fields
+ZFA:0001695	dorsolateral motor nucleus of vagal nerve	dlX
+ZFA:0001310	dorsolateral placode	dorsolateral placodes
+ZFA:0001672	dorsolateral septum	dorsal bar
+ZFA:0000655	dorsomedial optic tract	tractus opticus dorsomedialis
+ZFA:0007001	dorso-rostral cluster	dorsorostral cluster
+ZFA:0007001	dorso-rostral cluster	dorsal rostral cluster
+ZFA:0007001	dorso-rostral cluster	drc
+ZFA:0001322	dorsoventral diencephalic tract	DVDT
+ZFA:0009002	early embryonic cell	early embryonic cells
+ZFA:0009137	ectodermal cell	ectoderm cell
+ZFA:0000656	ectopterygoid	ectopterygoids
+ZFA:0005612	ectopterygoid-entopterygoid joint	ectopterygoid-entopterygoid synostosis
+ZFA:0005611	ectopterygoid-quadrate joint	ectopterygoid-quadrate synostosis
+ZFA:0000202	efferent branchial artery	EBA
+ZFA:0005018	efferent filamental artery	EFA
+ZFA:0005019	efferent lamellar arteriole	ELA
+ZFA:0005019	efferent lamellar arteriole	efferent lamellar arterioles
+ZFA:0009239	efferent neuron	output neuron
+ZFA:0009128	electrically active cell	electrically active cells
+ZFA:0009190	electrically responsive cell	electrically responsive cells
+ZFA:0009193	electrically signaling cell	electrically signaling cells
+ZFA:0001105	embryonic structure	embryonic structures
+ZFA:0005142	enameloid	enamel
+ZFA:0001317	endocardial cushion	endocardial cushions
+ZFA:0001591	endochondral bone	endochondral bones
+ZFA:0009096	endocrine cell	endocrine cells
+ZFA:0001260	endocrine pancreas	tail pancreas
+ZFA:0001260	endocrine pancreas	pancreatic islet
+ZFA:0009139	endodermal cell	endoderm cell
+ZFA:0009232	endorphin secreting cell	endorphin secreting cells
+ZFA:0009065	endothelial cell	endothelial cells
+ZFA:0009303	endothelial tip cell	endothelial tip cells
+ZFA:0009231	enkephalin secreting cell	enkephalin secreting cells
+ZFA:0001324	enteric musculature	gut musculature
+ZFA:0001324	enteric musculature	tunica muscularis
+ZFA:0009269	enterocyte	enterocytes
+ZFA:0009097	enteroendocrine cell	enteroendocrine cells
+ZFA:0000657	entopterygoid	mesopterygoid
+ZFA:0000657	entopterygoid	endopterygoid
+ZFA:0005614	entopterygoid-metapterygoid joint	entopterygoid-metapterygoid synostosis
+ZFA:0001084	epaxial myotome region	epaxial myotome regions
+ZFA:0009033	ependymal cell	ependymocyte
+ZFA:0009294	ependymoglial cell	ependymoglial cells
+ZFA:0001247	epibranchial 3 bone	infrapharyngobranchial 3
+ZFA:0001244	epibranchial 5	interbranchial IV
+ZFA:0000658	epibranchial bone	epibranchial bones
+ZFA:0001527	epibranchial cartilage	epibranchial cartilages
+ZFA:0007061	epibranchial field	epibranchial fields
+ZFA:0001555	epibranchial ganglion	epibranchial ganglia
+ZFA:0001294	epibranchial placode	epibranchial placodes
+ZFA:0001382	epibranchial uncinate process	epibranchial uncinate processes
+ZFA:0001180	epidermal basal stratum	basal epidermal layer
+ZFA:0009183	epidermal cell	epidermal cells
+ZFA:0000627	epihyal	posterior ceratohyal
+ZFA:0000627	epihyal	caudal ceratohyal
+ZFA:0009211	epinephrin secreting cell	epinephrin secreting cells
+ZFA:0000507	epineural	epineurals
+ZFA:0001412	epiotic	epioccipital
+ZFA:0005891	epiotic-parietal joint	epioccipital-parietal
+ZFA:0005889	epiotic-posttemporal joint	epioccipital-posttemporal joint
+ZFA:0007004	epiphyseal cluster	ec
+ZFA:0001292	epiphyseal stalk	pineal stalk
+ZFA:0000019	epiphysis	pineal organ
+ZFA:0000019	epiphysis	corpus pineale
+ZFA:0000019	epiphysis	pineal gland
+ZFA:0000350	epipleural	epipleurals
+ZFA:0009034	epithelial cell	epithelial cells
+ZFA:0009045	epithelial cell of pancreas	epithelial cells of pancreas
+ZFA:0001388	epithelial mesenchymal boundary	epithelial mesenchymal boundarys
+ZFA:0005237	erythroblast	normoblast
+ZFA:0009325	erythroid lineage cell	erythroid lineage cells
+ZFA:0009015	erythroid progenitor cell	burst forming unit erythroid
+ZFA:0009015	erythroid progenitor cell	BFU-E
+ZFA:0009015	erythroid progenitor cell	CFU-E
+ZFA:0009015	erythroid progenitor cell	blast forming unit erythroid
+ZFA:0009015	erythroid progenitor cell	colony forming unit erythroid
+ZFA:0009015	erythroid progenitor cell	erythroid stem cell
+ZFA:0009263	erythrophore	erythrophores
+ZFA:0000415	esophageal sphincter	oesophagial sphincter
+ZFA:0005785	esophageal striated muscle	oesophageal striated muscle (OSM)
+ZFA:0000204	esophagus	oesophagus
+ZFA:0009110	estradiol secreting cell	estradiol secreting cells
+ZFA:0001405	ethmoid cartilage	ethmoid plate
+ZFA:0009153	eurydendroid cell	eurydendroid cells
+ZFA:0000086	EVL	enveloping layer
+ZFA:0000661	exoccipital	exoccipitals
+ZFA:0001597	exoccipital posteroventral region	exoccipitals posteroventral regions
+ZFA:0009092	exocrine cell	exocrine cells
+ZFA:0001249	exocrine pancreas	rostral pancreas
+ZFA:0001249	exocrine pancreas	head pancreas
+ZFA:0000106	extension	yolk extension
+ZFA:0000352	external cellular layer	stratum cellulare externum bulbi olfactorii
+ZFA:0005823	external lateral dorsal muscle	LSD
+ZFA:0005823	external lateral dorsal muscle	lateralis superficialis dorsalis
+ZFA:0000205	external lateral ventral muscle	lateralis superficialis ventralis
+ZFA:0000205	external lateral ventral muscle	LSV
+ZFA:0000205	external lateral ventral muscle	external ventral flexor
+ZFA:0000510	external levatores	external levators
+ZFA:0000662	external pharyngoclavicularis	external pharyngoclavicularae
+ZFA:0000309	external yolk syncytial layer	E-YSL
+ZFA:0009162	extracellular matrix secreting cell	extracellular matrix secreting cells
+ZFA:0009176	extraembryonic cell	extraembryonic cells
+ZFA:0000020	extraembryonic structure	extraembryonic structures
+ZFA:0009152	extramedullary cell	extramedullary cells
+ZFA:0000511	extraocular musculature	ocular musculature
+ZFA:0000663	extrascapula	tabular
+ZFA:0000663	extrascapula	supratemporal
+ZFA:0000107	eye	eyes
+ZFA:0009154	eye photoreceptor cell	eye photoreceptor cells
+ZFA:0001291	facial ganglion	geniculate ganglion
+ZFA:0001291	facial ganglion	gVII
+ZFA:0000512	facial lobe	tuberculum impar of Herrick
+ZFA:0000512	facial lobe	LVII
+ZFA:0000512	facial lobe	lobus facialis
+ZFA:0005831	facial lymphatic network	facial lymphatics
+ZFA:0005836	facial lymphatic sprout	FLS
+ZFA:0005108	facial lymphatic vessel	FL
+ZFA:0000206	facial nerve motor nucleus	motor nucleus VII
+ZFA:0000206	facial nerve motor nucleus	facial motor nucleus
+ZFA:0000206	facial nerve motor nucleus	nucleus motorius nervi facialis
+ZFA:0000206	facial nerve motor nucleus	nVII
+ZFA:0001295	facial placode	geniculate placode
+ZFA:0000762	facio-acoustic neural crest	facio acoustic neural crest
+ZFA:0000353	fasciculus retroflexus	habenulo-interpeduncular tract
+ZFA:0000353	fasciculus retroflexus	habenulointerpeduncular tract
+ZFA:0000353	fasciculus retroflexus	tractus habenulo-interpeduncularis
+ZFA:0000353	fasciculus retroflexus	fasciculus retroflexi
+ZFA:0009117	fast muscle cell	fast muscle fiber
+ZFA:0009117	fast muscle cell	white muscle cell
+ZFA:0000513	fast muscle cell somite 1	fast muscle cells somite 1
+ZFA:0000513	fast muscle cell somite 1	fast muscle fiber somite 1
+ZFA:0000750	fast muscle cell somite 10	fast muscle cells somite 10
+ZFA:0000750	fast muscle cell somite 10	fast muscle fiber somite 10
+ZFA:0000876	fast muscle cell somite 11	fast muscle cells somite 11
+ZFA:0000876	fast muscle cell somite 11	fast muscle fiber somite 11
+ZFA:0000773	fast muscle cell somite 12	fast muscle cells somite 12
+ZFA:0000773	fast muscle cell somite 12	fast muscle fiber somite 12
+ZFA:0000752	fast muscle cell somite 13	fast muscle cells somite 13
+ZFA:0000752	fast muscle cell somite 13	fast muscle fiber somite 13
+ZFA:0000877	fast muscle cell somite 14	fast muscle fiber somite 14
+ZFA:0000877	fast muscle cell somite 14	fast muscle cells somite 14
+ZFA:0000784	fast muscle cell somite 15	fast muscle cells somite 15
+ZFA:0000784	fast muscle cell somite 15	fast muscle fiber somite 15
+ZFA:0000753	fast muscle cell somite 16	fast muscle cells somite 16
+ZFA:0000753	fast muscle cell somite 16	fast muscle fiber somite 16
+ZFA:0000878	fast muscle cell somite 17	fast muscle cells somite 17
+ZFA:0000878	fast muscle cell somite 17	fast muscle fiber somite 17
+ZFA:0000795	fast muscle cell somite 18	fast muscle fiber somite 18
+ZFA:0000795	fast muscle cell somite 18	fast muscle cells somite 18
+ZFA:0000754	fast muscle cell somite 19	fast muscle fiber somite 19
+ZFA:0000754	fast muscle cell somite 19	fast muscle cells somite 19
+ZFA:0000879	fast muscle cell somite 2	fast muscle fiber somite 2
+ZFA:0000879	fast muscle cell somite 2	fast muscle cells somite 2
+ZFA:0000806	fast muscle cell somite 20	fast muscle cells somite 20
+ZFA:0000806	fast muscle cell somite 20	fast muscle fiber somite 20
+ZFA:0000755	fast muscle cell somite 21	fast muscle cells somite 21
+ZFA:0000755	fast muscle cell somite 21	fast muscle fiber somite 21
+ZFA:0000880	fast muscle cell somite 22	fast muscle fiber somite 22
+ZFA:0000880	fast muscle cell somite 22	fast muscle cells somite 22
+ZFA:0000817	fast muscle cell somite 23	fast muscle fiber somite 23
+ZFA:0000817	fast muscle cell somite 23	fast muscle cells somite 23
+ZFA:0000756	fast muscle cell somite 24	fast muscle fiber somite 24
+ZFA:0000756	fast muscle cell somite 24	fast muscle cells somite 24
+ZFA:0000881	fast muscle cell somite 25	fast muscle fiber somite 25
+ZFA:0000881	fast muscle cell somite 25	fast muscle cells somite 25
+ZFA:0000827	fast muscle cell somite 26	fast muscle cells somite 26
+ZFA:0000827	fast muscle cell somite 26	fast muscle fiber somite 26
+ZFA:0000757	fast muscle cell somite 27	fast muscle cells somite 27
+ZFA:0000757	fast muscle cell somite 27	fast muscle fiber somite 27
+ZFA:0000883	fast muscle cell somite 28	fast muscle cells somite 28
+ZFA:0000883	fast muscle cell somite 28	fast muscle fiber somite 28
+ZFA:0000838	fast muscle cell somite 29	fast muscle fiber somite 29
+ZFA:0000838	fast muscle cell somite 29	fast muscle cells somite 29
+ZFA:0000758	fast muscle cell somite 3	fast muscle cells somite 3
+ZFA:0000758	fast muscle cell somite 3	fast muscle fiber somite 3
+ZFA:0000884	fast muscle cell somite 30	fast muscle cells somite 30
+ZFA:0000884	fast muscle cell somite 30	fast muscle fiber somite 30
+ZFA:0000849	fast muscle cell somite 4	fast muscle cells somite 4
+ZFA:0000849	fast muscle cell somite 4	fast muscle fiber somite 4
+ZFA:0000759	fast muscle cell somite 5	fast muscle fiber somite 5
+ZFA:0000759	fast muscle cell somite 5	fast muscle cells somite 5
+ZFA:0000885	fast muscle cell somite 6	fast muscle cells somite 6
+ZFA:0000885	fast muscle cell somite 6	fast muscle fiber somite 6
+ZFA:0000860	fast muscle cell somite 7	fast muscle cells somite 7
+ZFA:0000860	fast muscle cell somite 7	fast muscle fiber somite 7
+ZFA:0000760	fast muscle cell somite 8	fast muscle fiber somite 8
+ZFA:0000760	fast muscle cell somite 8	fast muscle cells somite 8
+ZFA:0000886	fast muscle cell somite 9	fast muscle cells somite 9
+ZFA:0000886	fast muscle cell somite 9	fast muscle fiber somite 9
+ZFA:0009369	fast muscle myoblast	fast muscle myoblasts
+ZFA:0009082	fat cell	lipocyte
+ZFA:0009082	fat cell	lipocytes
+ZFA:0009082	fat cell	adipocyte
+ZFA:0009286	fenestrated cell	window cell
+ZFA:0005772	fertilized egg	zygote
+ZFA:0009026	fibroblast	fibroblasts
+ZFA:0005156	fibrous joint	syndesmosis
+ZFA:0005156	fibrous joint	syndesmoses
+ZFA:0000666	filamental artery	filamental arteries
+ZFA:0000108	fin	fins
+ZFA:0001383	fin bud	fin buds
+ZFA:0000089	fin fold actinotrichium	fin fold actinotrichia
+ZFA:0000089	fin fold actinotrichium	median fin fold actinotrichium
+ZFA:0005316	fin fold pectoral fin bud	fin membrane pectoral fin bud
+ZFA:0000022	floor plate	floorplate
+ZFA:0000022	floor plate	fp
+ZFA:0000871	floor plate diencephalic region	floorplate diencephalon
+ZFA:0000887	floor plate neural rod	floorplate neural rod
+ZFA:0000882	floor plate rhombomere 1	floor plate r1
+ZFA:0000763	floor plate rhombomere 2	floorplate r2
+ZFA:0000763	floor plate rhombomere 2	floor plate r2
+ZFA:0000888	floor plate rhombomere 3	floor plate r3
+ZFA:0000888	floor plate rhombomere 3	floorplate r3
+ZFA:0000893	floor plate rhombomere 4	floorplate r4
+ZFA:0000893	floor plate rhombomere 4	floor plate r4
+ZFA:0000764	floor plate rhombomere 5	floor plate r5
+ZFA:0000764	floor plate rhombomere 5	floorplate r5
+ZFA:0000889	floor plate rhombomere 6	floorplate r6
+ZFA:0000889	floor plate rhombomere 6	floor plate r6
+ZFA:0000904	floor plate rhombomere 7	floorplate r7
+ZFA:0000904	floor plate rhombomere 7	floor plate r7
+ZFA:0000765	floor plate rhombomere 8	floorplate r8
+ZFA:0000765	floor plate rhombomere 8	floor plate r8
+ZFA:0001258	floor plate rhombomere region	floor plate hindbrain region
+ZFA:0000890	floor plate spinal cord region	floorplate spinal cord
+ZFA:0000914	floor plate telencephalic region	floorplate telencephalon
+ZFA:0009202	follicle stimulating hormone secreting cell	gonadotrope
+ZFA:0009202	follicle stimulating hormone secreting cell	delta basophil
+ZFA:0009202	follicle stimulating hormone secreting cell	gonadotroph
+ZFA:0009281	folliculostellate cell	folliculostellate cells
+ZFA:0005386	foramen	foramina
+ZFA:0000109	forebrain	prosencephalon
+ZFA:0001367	forebrain midbrain boundary	diencephalic-mesencephalic boundary
+ZFA:0007027	forebrain midbrain boundary neural keel	diencephalic-mesencephalic boundary neural keel
+ZFA:0007020	forebrain midbrain boundary neural plate	diencephalic-mesencephalic boundary neural plate
+ZFA:0007033	forebrain midbrain boundary neural rod	diencephalic-mesencephalic boundary neural rod
+ZFA:0007040	forebrain midbrain boundary neural tube	diencephalic-mesencephalic boundary neural tube
+ZFA:0001259	forebrain ventricle	prosencephalic ventricle
+ZFA:0001259	forebrain ventricle	forebrain vesicle
+ZFA:0000023	forerunner cell group	dorsal forerunner cells
+ZFA:0000023	forerunner cell group	forerunner cells
+ZFA:0000023	forerunner cell group	DFCs
+ZFA:0000110	fourth ventricle	ventriculus rhombencephali
+ZFA:0000110	fourth ventricle	hindbrain ventricle
+ZFA:0000110	fourth ventricle	ventricle IV
+ZFA:0000110	fourth ventricle	rhombencephalic ventricle
+ZFA:0000110	fourth ventricle	rhombencephalic vesicle
+ZFA:0000110	fourth ventricle	4th ventricle
+ZFA:0005608	frontal-parietal joint	coronal suture
+ZFA:0009276	GABAergic neuron	GABAergic neurons
+ZFA:0009093	GAG secreting cell	hyaluronic acid secreting cell
+ZFA:0009156	gamete	gametes
+ZFA:0009339	gamma-delta intraepithelial T cell	gamma-delta intraepithelial T lymphocyte
+ZFA:0009339	gamma-delta intraepithelial T cell	intraepithelial lymphocyte
+ZFA:0009339	gamma-delta intraepithelial T cell	gamma-delta intraepithelial T-lymphocyte
+ZFA:0009339	gamma-delta intraepithelial T cell	IEL
+ZFA:0009339	gamma-delta intraepithelial T cell	gamma-delta intraepithelial T-cell
+ZFA:0009336	gamma-delta T cell	gamma-delta T-lymphocyte
+ZFA:0009336	gamma-delta T cell	gamma-delta T-cell
+ZFA:0009336	gamma-delta T cell	gamma-delta T lymphocyte
+ZFA:0000190	ganglion	ganglia
+ZFA:0009182	gastrula cell	gastrula cells
+ZFA:0009016	germ line cell	germ line cells
+ZFA:0000210	gigantocellular part of magnocellular preoptic nucleus	nucleus praeopticus magnocellularis, pars gigantocellularis
+ZFA:0000354	gill	gills
+ZFA:0000667	gill filament	gill filaments
+ZFA:0000211	gill lamella	gill lamellae
+ZFA:0000356	gill raker	gill rakers
+ZFA:0009073	glial cell	neuroglia
+ZFA:0009147	glial cell (sensu Vertebrata)	glial cells (sensu Vertebrata)
+ZFA:0009010	glioblast	glioblasts
+ZFA:0009169	glioblast (sensu Vertebrata)	glioblasts (sensu Vertebrata)
+ZFA:0005285	glomerular basement membrane	glomerular filtration membrane
+ZFA:0000357	glomerular layer	stratum glomerulosum bulbi olfactorii
+ZFA:0001301	glossopharyngeal ganglion	petrosal ganglion
+ZFA:0001301	glossopharyngeal ganglion	gIX
+ZFA:0000517	glossopharyngeal lobe	lobus glossopharyngei
+ZFA:0001296	glossopharyngeal placode	petrosal placode
+ZFA:0009103	glucagon secreting cell	glucagon secreting cells
+ZFA:0009215	glucocorticoid secreting cell	glucocorticoid secreting cells
+ZFA:0009290	glutamatergic neuron	glutamatergic neurons
+ZFA:0009094	goblet cell	chalice cell
+ZFA:0009069	Golgi cell	Golgi cells
+ZFA:0000413	gonad	gonads
+ZFA:0000413	gonad	mature gonad
+ZFA:0001262	gonad primordium	undifferentiated gonad
+ZFA:0001262	gonad primordium	gonadal primordium
+ZFA:0000212	granular eminence	lateral granular eminence
+ZFA:0000212	granular eminence	eminentia granularis
+ZFA:0000212	granular eminence	EG
+ZFA:0009070	granule cell	granule cells
+ZFA:0009048	granulocyte	granulocytes
+ZFA:0009251	granulocyte monocyte progenitor cell	GMP
+ZFA:0009251	granulocyte monocyte progenitor cell	CFU-C , Colony forming unit in culture
+ZFA:0009251	granulocyte monocyte progenitor cell	colony forming unit granulocyte macrophage
+ZFA:0009251	granulocyte monocyte progenitor cell	granulocyte-macrophage progenitor
+ZFA:0009227	granulosa cell	granulosa cells
+ZFA:0001112	granulosa cell layer	granulosa cell layers
+ZFA:0009223	green sensitive photoreceptor cell	green sensitive photoreceptor cells
+ZFA:0001681	grey matter	gray matter
+ZFA:0001681	grey matter	gray mater
+ZFA:0000518	griseum centrale	central gray
+ZFA:0000518	griseum centrale	central grey
+ZFA:0005868	griseum tectale	tectal grey
+ZFA:0000112	gut	gut tube
+ZFA:0000112	gut	alimentary canal
+ZFA:0000112	gut	enteric tract
+ZFA:0009289	gut absorptive cell	gut absorptive cells
+ZFA:0009078	gut endothelial cell	gut endothelial cells
+ZFA:0000213	habenula	habenulae
+ZFA:0000213	habenula	habenular nucleus
+ZFA:0000359	habenular commissure	commissura habenularum
+ZFA:0009366	hair cell	hair cells
+ZFA:0000678	hair cell anterior macula	sensory hair cells anterior macula
+ZFA:0000281	hair cell posterior macula	sensory hair cells posterior macula
+ZFA:0000026	hatching gland	hgg
+ZFA:0009151	hatching gland cell	hatching gland cells
+ZFA:0000669	head kidney	kidney marrow
+ZFA:0000669	head kidney	anterior kidney
+ZFA:0001652	head muscle	cranial muscle
+ZFA:0001652	head muscle	cephalic muscle
+ZFA:0000028	heart primordium	heart primordia
+ZFA:0000028	heart primordium	cardiac field
+ZFA:0000115	heart rudiment	rudimentary heart
+ZFA:0000115	heart rudiment	heart cone
+ZFA:0005065	heart valve	heart valves
+ZFA:0000519	hemal arch	haemal arch
+ZFA:0000519	hemal arch	ventral arcocentrum
+ZFA:0000735	hemal postzygapophysis	haemal postzygapophysis
+ZFA:0000735	hemal postzygapophysis	hemal postzygapophyses
+ZFA:0000735	hemal postzygapophysis	hemal postzygopophysis
+ZFA:0007005	hemal prezygapophysis	hemal prezygopophysis
+ZFA:0007005	hemal prezygapophysis	haemal prezygapophysis
+ZFA:0001364	hemal spine	haemal spine
+ZFA:0005830	hematopoietic cell	haemopoietic cell
+ZFA:0005830	hematopoietic cell	haematopoietic cell
+ZFA:0005830	hematopoietic cell	hemopoietic cell
+ZFA:0009354	hematopoietic multipotent progenitor cell	hemopoietic progenitor cell
+ZFA:0009014	hematopoietic stem cell	HSC
+ZFA:0009014	hematopoietic stem cell	colony forming unit hematopoietic
+ZFA:0009014	hematopoietic stem cell	hematopoietic progenitor cell
+ZFA:0009014	hematopoietic stem cell	hemopoietic progenitor cell
+ZFA:0009014	hematopoietic stem cell	hemopoietic stem cell
+ZFA:0005090	hepatic portal vein	HPV
+ZFA:0005090	hepatic portal vein	primary hepatic portal vein
+ZFA:0005091	hepatic sinusoid	hepatic sinusoids
+ZFA:0000670	hepatic vein	hepatic veins
+ZFA:0009111	hepatocyte	hepatocytes
+ZFA:0005167	hepatopancreatic ampulla	papilla Vateri
+ZFA:0005167	hepatopancreatic ampulla	ampulla of Vater
+ZFA:0005167	hepatopancreatic ampulla	papilla duodeni major
+ZFA:0000029	hindbrain	rhombencephalon
+ZFA:0009315	horizontal cell	horizontal cells
+ZFA:0000671	horizontal myoseptum	horizontal septum
+ZFA:0005045	hyaloid artery	hyaloid arteries
+ZFA:0005047	hyaloid vein	hyaloid veins
+ZFA:0005046	hyaloid vessel	hyaloid vasculature
+ZFA:0005046	hyaloid vessel	hyaloid vessels
+ZFA:0007052	hyohyoideus	hyohyal
+ZFA:0000521	hyoid muscle	hyoid muscles
+ZFA:0000672	hyomandibula	hyomandibular
+ZFA:0005629	hyomandibular foramen	facial foramen
+ZFA:0005629	hyomandibular foramen	hyosymplectic foramen
+ZFA:0005629	hyomandibular foramen	facial nerve foramen
+ZFA:0005544	hyomandibular-otic region joint	hyomandibula-sphenotic-prootic joint
+ZFA:0001422	hyosymplectic cartilage	hyomandibular cartilage
+ZFA:0001085	hypaxial myotome region	hypaxial muscle
+ZFA:0009313	hypertrophic chondrocyte	hypertrophic chondrocytes
+ZFA:0000117	hypoblast	mesendoderm
+ZFA:0001233	hypobranchial 1 bone	hypobranchial 1 bones
+ZFA:0001524	hypobranchial 1 cartilage	hypobranchial 1 cartilages
+ZFA:0001236	hypobranchial 2 bone	hypobranchial 2 bones
+ZFA:0001525	hypobranchial 2 cartilage	hypobranchial 2 cartilages
+ZFA:0001235	hypobranchial 3 bone	hypobranchial 3 bones
+ZFA:0001526	hypobranchial 3 cartilage	hypobranchial 3 cartilages
+ZFA:0001234	hypobranchial 4 bone	hypobranchial 4 bones
+ZFA:0001523	hypobranchial 4 cartilage	hypobranchial 4 cartilages
+ZFA:0000673	hypobranchial artery	HA
+ZFA:0000363	hypobranchial bone	hypobranchial bones
+ZFA:0001522	hypobranchial cartilage	hypobranchial cartilages
+ZFA:0000214	hypobranchial vessel	hypobranchial vessels
+ZFA:0005778	hypocretin-secreting neuron	orexin secreting neuron
+ZFA:0009196	hypodermal cell	hypodermal cells
+ZFA:0001136	hypodermis	subcutis
+ZFA:0001381	hypohyal bone	hypohyals
+ZFA:0005625	hypophyseal fenestra	hypophyseal fenestrae
+ZFA:0000118	hypophysis	pituitary
+ZFA:0000364	hypural	hypurals
+ZFA:0000364	hypural	hyp
+ZFA:0000364	hypural	hypuralia
+ZFA:0000902	hypural muscle	hypural muscles
+ZFA:0001028	hypurapophysis	parhypurapophysis
+ZFA:0001028	hypurapophysis	parhypurapophysis process
+ZFA:0001028	hypurapophysis	hypurapophyses
+ZFA:0001096	immature anterior macula	immature anterior maculae
+ZFA:0009343	immature B cell	immature B-cell
+ZFA:0009343	immature B cell	immature B-lymphocyte
+ZFA:0009343	immature B cell	newly formed B Cell
+ZFA:0009343	immature B cell	immature B lymphocyte
+ZFA:0009337	immature gamma-delta T cell	immature gamma-delta T-lymphocyte
+ZFA:0009337	immature gamma-delta T cell	immature gamma-delta T lymphocyte
+ZFA:0009337	immature gamma-delta T cell	immature gamma-delta T-cell
+ZFA:0005272	immature gonad	juvenile ovary
+ZFA:0005272	immature gonad	juvenile gonad
+ZFA:0001098	immature hair cell anterior macula	immature sensory hair cells anterior macula
+ZFA:0001099	immature hair cell posterior macula	immature sensory hair cells posterior macula
+ZFA:0001095	immature macula	immature maculae
+ZFA:0001095	immature macula	immature sensory patch
+ZFA:0001095	immature macula	immature sensory patches
+ZFA:0009346	immature natural killer cell	p-NK
+ZFA:0009346	immature natural killer cell	immature NK cell
+ZFA:0009328	immature neutrophil	immature neutrophil leucocyte
+ZFA:0009328	immature neutrophil	immature neutrophil leukocyte
+ZFA:0009328	immature neutrophil	immature neutrophilic leucocyte
+ZFA:0009328	immature neutrophil	immature neutrocyte
+ZFA:0001097	immature posterior macula	immature posterior maculae
+ZFA:0009340	immature T cell	immature T lymphocyte
+ZFA:0009340	immature T cell	immature T-lymphocyte
+ZFA:0009340	immature T cell	immature T-cell
+ZFA:0000341	inferior caudal dorsal flexor	dorsal flexors
+ZFA:0000341	inferior caudal dorsal flexor	flexor caudalis dorsalis inferioris
+ZFA:0000341	inferior caudal dorsal flexor	dorsal flexor
+ZFA:0000341	inferior caudal dorsal flexor	CDI
+ZFA:0000269	inferior caudal ventral flexor	CVI
+ZFA:0000269	inferior caudal ventral flexor	inferior ventral flexor
+ZFA:0000269	inferior caudal ventral flexor	flexor caudalis ventralis inferioris
+ZFA:0000522	inferior hyohyoid	hyohyoideus inferior
+ZFA:0000522	inferior hyohyoid	inferior hyohyoids
+ZFA:0000165	inferior lobe	inferior lobe of hypothalamus
+ZFA:0000165	inferior lobe	lobus inferior hypothalami
+ZFA:0000165	inferior lobe	inferior lobes
+ZFA:0000165	inferior lobe	lateral lobe of hypothalamus
+ZFA:0000366	inferior raphe nucleus	posterior raphe nucleus
+ZFA:0000223	infraorbital 1	lacrimal
+ZFA:0000223	infraorbital 1	lacrymal bone
+ZFA:0000223	infraorbital 1	lachrymal bone
+ZFA:0000495	infraorbital 5	dermosphenotic
+ZFA:0000524	infraorbital lateral line	infraorbital line
+ZFA:0000813	infraorbital lateral line neuromast	neuromasts infraorbital
+ZFA:0000813	infraorbital lateral line neuromast	neuromast infraorbital
+ZFA:0001649	infraorbital series	circumorbital series
+ZFA:0001199	infundibulum	pituitary stalk
+ZFA:0001199	infundibulum	hypophysial stalk
+ZFA:0001199	infundibulum	infundibulum of hypothalamus
+ZFA:0009225	inhibitory interneuron	inhibitory interneurons
+ZFA:0005136	inner dental epithelium	ide
+ZFA:0005136	inner dental epithelium	inner enamel epithelium
+ZFA:0000217	inner ear	ear
+ZFA:0000217	inner ear	otocyst
+ZFA:0000217	inner ear	otic capsule
+ZFA:0001029	inner limiting membrane	inner limiting membranes
+ZFA:0001029	inner limiting membrane	ILM
+ZFA:0005054	inner optic circle	IOC
+ZFA:0009134	insulating cell	insulating cells
+ZFA:0009101	insulin secreting cell	insulin secreting cells
+ZFA:0000368	integument	skin
+ZFA:0005325	integument ionocyte	extrabranchial ionocyte
+ZFA:0005325	integument ionocyte	skin ionocyte
+ZFA:0000474	intercalar	opisthotic
+ZFA:0001603	intercalarium articulating process	articular process
+ZFA:0005472	inter-frontal joint	metopic suture
+ZFA:0005472	inter-frontal joint	interfrontal joint
+ZFA:0005472	inter-frontal joint	interfrontal suture
+ZFA:0001511	interhyal cartilage	stylohyal
+ZFA:0001511	interhyal cartilage	interhyal bone
+ZFA:0007051	interhyoideus	interhyal
+ZFA:0007051	interhyoideus	ventral interhyoideus
+ZFA:0007051	interhyoideus	ventral interhyoidei
+ZFA:0000369	intermandibularis	intermandibular muscle
+ZFA:0000033	intermediate cell mass of mesoderm	intermediate cell mass of Oellacher
+ZFA:0000033	intermediate cell mass of mesoderm	ICM
+ZFA:0000033	intermediate cell mass of mesoderm	posterior intermediate cell mass
+ZFA:0006000	intermediate hypothalamus	Hi
+ZFA:0001206	intermediate mesoderm	IM
+ZFA:0000219	intermediate reticular formation	intermediate reticular formations
+ZFA:0000370	intermediate thalamic nucleus	intermediate thalamic nuclei
+ZFA:0000526	intermuscular bone	intermuscular bones
+ZFA:0005081	internal carotid artery	cranial carotid artery
+ZFA:0005081	internal carotid artery	ICA
+ZFA:0000573	internal cellular layer	stratum cellulare internum bulbi olfactorii
+ZFA:0001107	internal gill bud	internal gill buds
+ZFA:0000221	internal levator	internal levators
+ZFA:0000371	internal pharyngoclavicularis	internal pharyngoclavicularae
+ZFA:0000712	internal yolk syncytial layer	I-YSL
+ZFA:0009365	interneuromast cell	interneuromast cells
+ZFA:0009051	interneuron	interneurons
+ZFA:0000674	interopercle	interopercles
+ZFA:0005501	interopercular-mandibular ligament	interoperculomandibular ligament
+ZFA:0005607	inter-parietal joint	sagittal suture
+ZFA:0000528	interradialis caudalis	IC
+ZFA:0000528	interradialis caudalis	interradiali
+ZFA:0000528	interradialis caudalis	interradialis
+ZFA:0005101	interray vessel	interray vessels
+ZFA:0005801	interrenal vessel	IRV
+ZFA:0001061	intersegmental artery	intersegmental arteries
+ZFA:0005319	intersegmental lymph vessel	islv
+ZFA:0001057	intersegmental vein	ISV
+ZFA:0001285	intersegmental vessel	segmental vessel
+ZFA:0001285	intersegmental vessel	intersegmental vessels
+ZFA:0001285	intersegmental vessel	intersomitic vessels
+ZFA:0001341	intervening zone	IZ
+ZFA:0007119	intervertebral ligament	IVL
+ZFA:0005100	intervessel commissure	intervessel comisures
+ZFA:0005256	intervillus pockets	intestinal crypt
+ZFA:0001076	intestinal bulb	foregut
+ZFA:0001076	intestinal bulb	anterior intestine
+ZFA:0001076	intestinal bulb	pseudogaster
+ZFA:0005124	intestinal epithelium	intestine epithelium
+ZFA:0005124	intestinal epithelium	villous epithelium
+ZFA:0005840	intestinal lymphatic network	<new synonym>
+ZFA:0005840	intestinal lymphatic network	intestinal lymphatics
+ZFA:0005273	intestinal mucosal muscle	intestinal lamina muscularis mucosae
+ZFA:0005782	intestinal opening	gut opening
+ZFA:0005737	intestinal rod	endodermal rod
+ZFA:0005737	intestinal rod	intestinal anlage
+ZFA:0005125	intestinal villus	intestinal villi
+ZFA:0005807	intestine lumen	gut lumen
+ZFA:0001635	intramembranous bone	intramembranous bones
+ZFA:0007123	ionocyte progenitor cell	ionocyte progenitor cells
+ZFA:0001238	iris	irises
+ZFA:0000222	isthmic primary nucleus	isthmic primary sensory trigeminal nucleus
+ZFA:0000222	isthmic primary nucleus	isthmic primary nuclei
+ZFA:0009279	ito cell	perisinusoidal cell
+ZFA:0009279	ito cell	hepatic stellate cell
+ZFA:0005792	jaw flap	lateral projections lower jaw
+ZFA:0001596	joint	joints
+ZFA:0005109	jugular lymphatic vessel	JL
+ZFA:0005109	jugular lymphatic vessel	JLV
+ZFA:0005238	juxtaglomerular cell	renin secreting cell
+ZFA:0005238	juxtaglomerular cell	kidney granular cell
+ZFA:0005828	kappe olfactory receptor neuron	kappe neuron
+ZFA:0009157	keratin accumulating cell	keratin accumulating cells
+ZFA:0009158	keratinocyte	keratinocytes
+ZFA:0007124	keratinocyte progenitor cell	keratinocyte progenitor cells
+ZFA:0000529	kidney	mesonephros
+ZFA:0005240	Kolmer-Agduhr neuron	Kolmer-Agduhr cell
+ZFA:0005240	Kolmer-Agduhr neuron	dorsal CSF-cN
+ZFA:0005240	Kolmer-Agduhr neuron	dorsal CSF-cNs
+ZFA:0005240	Kolmer-Agduhr neuron	KA cell
+ZFA:0005240	Kolmer-Agduhr neuron	KA interneuron
+ZFA:0005240	Kolmer-Agduhr neuron	KA neuron
+ZFA:0000001	Kupffer's vesicle	ciliated organ of asymmetry
+ZFA:0000695	labial cavity	labial cavities
+ZFA:0000374	lagena	lagenas
+ZFA:0001627	lagenar capsule	lagenar capsules
+ZFA:0001503	lamina orbitonasalis	laminas orbitonasalis
+ZFA:0000530	lapillus	utriculith
+ZFA:0000530	lapillus	utricular otolith
+ZFA:0000530	lapillus	immature anterior otolith
+ZFA:0005888	lateral basicapsular commissure	lateral basicranial commissure
+ZFA:0005888	lateral basicapsular commissure	lateral commissure
+ZFA:0000531	lateral column	lateral columns
+ZFA:0000166	lateral crista	lateral semicircular canal sensory patches
+ZFA:0000166	lateral crista	medial crista
+ZFA:0000166	lateral crista	lateral cristae
+ZFA:0000166	lateral crista	lc
+ZFA:0000166	lateral crista	lateral semicircular canal sensory patch
+ZFA:0000166	lateral crista	lateral crista ampullaris
+ZFA:0000225	lateral crista primordium	lateral crista primordia
+ZFA:0001054	lateral dorsal aorta	LDA
+ZFA:0000226	lateral ethmoid	lateral ethmoids
+ZFA:0005837	lateral facial lymph vessel	LFL
+ZFA:0005837	lateral facial lymph vessel	lateral facial lymphatic
+ZFA:0007012	lateral forebrain bundle	lateral forebrain bundles
+ZFA:0007012	lateral forebrain bundle	fasciculus lateralis telencephali
+ZFA:0000379	lateral forebrain bundle diencephalon	lateral forebrain bundles diencephalon
+ZFA:0000779	lateral forebrain bundle telencephalon	lateral forebrain bundles telencephalon
+ZFA:0000533	lateral funiculus	lateral funiculi
+ZFA:0000227	lateral hypothalamic nucleus	lateral hypothalamic nuclei
+ZFA:0000227	lateral hypothalamic nucleus	arcuate nucleus
+ZFA:0000227	lateral hypothalamic nucleus	lateral tuberal nucleus
+ZFA:0000380	lateral lemniscus nucleus	lateral lemniscus nuclei
+ZFA:0001469	lateral line	lateral lines
+ZFA:0000120	lateral line ganglion	llg
+ZFA:0000120	lateral line ganglion	lateral line ganglia
+ZFA:0001479	lateral line nerve	lateral line nerves
+ZFA:0000228	lateral line primordium	lateral line primordia
+ZFA:0000228	lateral line primordium	llp
+ZFA:0000381	lateral line sensory nucleus	lateral line sensory nuclei
+ZFA:0000034	lateral line system	ll
+ZFA:0000534	lateral longitudinal fasciculus	lateral lemniscus
+ZFA:0000534	lateral longitudinal fasciculus	lateral longitundinal fasciculus
+ZFA:0000534	lateral longitudinal fasciculus	lateral longitudinal fascicle
+ZFA:0000534	lateral longitudinal fasciculus	LLF
+ZFA:0000176	lateral nucleus of ventral telencephalon	area ventralis telencephali, nucleus lateralis
+ZFA:0005892	lateral occipital foramen	lateral occipital foramina
+ZFA:0000229	lateral olfactory tract	tractus olfactorius lateralis
+ZFA:0000121	lateral plate mesoderm	LPM
+ZFA:0000121	lateral plate mesoderm	lateral plate
+ZFA:0000209	lateral preglomerular nucleus	lateral preglomerular nuclei
+ZFA:0005669	lateral protoglomerulus	lateral protoglomeruli
+ZFA:0005717	lateral protoglomerulus 1	LG1
+ZFA:0005718	lateral protoglomerulus 2	LG2
+ZFA:0005719	lateral protoglomerulus 3	LG3
+ZFA:0005720	lateral protoglomerulus 4	LG4
+ZFA:0000231	lateral recess	recessus lateralis
+ZFA:0000231	lateral recess	lateral recess of diencephalic ventricle
+ZFA:0000231	lateral recess	lateral recesses
+ZFA:0000383	lateral rectus	lateral recti
+ZFA:0000383	lateral rectus	posterior rectus
+ZFA:0000535	lateral reticular nucleus	lateral reticular nuclei
+ZFA:0000220	lateral semicircular canal	horizontal semicircular canal
+ZFA:0000220	lateral semicircular canal	lateral semicircular canals
+ZFA:0000220	lateral semicircular canal	lateral semicircular duct
+ZFA:0005664	lateral spinal nerve	lateral nerve
+ZFA:0000532	lateral valvula cerebelli	valvula cerebelli, pars lateralis
+ZFA:0000532	lateral valvula cerebelli	lateral division
+ZFA:0000780	lateral wall diencephalic region	lateral wall diencephalon
+ZFA:0000906	lateral wall midbrain region	lateral wall midbrain
+ZFA:0000785	lateral wall telencephalic region	lateral wall telencephalon
+ZFA:0000536	lateral zone of dorsal telencephalon	lateral zone of dorsal telencephalic area
+ZFA:0000536	lateral zone of dorsal telencephalon	Dl
+ZFA:0000536	lateral zone of dorsal telencephalon	lateral zone of D
+ZFA:0000536	lateral zone of dorsal telencephalon	area dorsalis telencephali, zona lateralis
+ZFA:0005172	left liver lobe	1st lobe
+ZFA:0005172	left liver lobe	first lobe
+ZFA:0000035	lens	lenses
+ZFA:0000122	lens placode	lens placodes
+ZFA:0001554	lepidotrichium	lepidotrichia
+ZFA:0001554	lepidotrichium	fin ray
+ZFA:0005634	lepidotrichium joint	intra-ray joint
+ZFA:0009305	leptomeningeal cell	leptomemingeal cell
+ZFA:0009305	leptomeningeal cell	leptomeningeal cells
+ZFA:0009261	leucophore	leucophores
+ZFA:0009309	leukocyte	immune cell
+ZFA:0009309	leukocyte	white blood cell
+ZFA:0009309	leukocyte	leucocyte
+ZFA:0000384	levator arcus palatini	levators arcus palatini
+ZFA:0000537	levator operculi	levator operculae
+ZFA:0009108	Leydig cell	interstitial cell
+ZFA:0005702	lg1	glomerulus 1 of the lateral chain
+ZFA:0005702	lg1	lateral glomerulus 1
+ZFA:0005703	lG2	lcG2
+ZFA:0005703	lG2	glomerulus 2 of the lateral chain
+ZFA:0005703	lG2	lateral glomerulus 2
+ZFA:0005704	lG3	glomerulus 3 of the lateral chain
+ZFA:0005704	lG3	lateral glomerulus 3
+ZFA:0005704	lG3	lcG3
+ZFA:0005705	lG4	lateral glomerulus 4
+ZFA:0005705	lG4	lcG4
+ZFA:0005705	lG4	glomerulus 4 of the lateral chain
+ZFA:0005706	lg5	lateral glomerulus 5
+ZFA:0005706	lg5	glomerulus 5 of the lateral chain
+ZFA:0005706	lg5	lcG5
+ZFA:0005708	lg6	lvpG
+ZFA:0005708	lg6	lateral glomerulus 6
+ZFA:0009188	ligament cell	ligament cells
+ZFA:0009130	lining cell	boundary cell
+ZFA:0007006	lip	lips
+ZFA:0000124	liver primordium	liver bud
+ZFA:0000539	locus coeruleus	loci coeruleus
+ZFA:0000230	longitudinal hypochordal	hypochordal longitudinalis
+ZFA:0005106	longitudinal lateral lymphatic vessel	LLL
+ZFA:0005845	lower left intestinal lymph vessel	LL-IL
+ZFA:0005845	lower left intestinal lymph vessel	lower left intestinal lymphatic
+ZFA:0000233	lower oral valve	mandibular valve
+ZFA:0000233	lower oral valve	lower semilunar valve
+ZFA:0000233	lower oral valve	lower internal lip
+ZFA:0000233	lower oral valve	buccal valve
+ZFA:0000233	lower oral valve	breathing valve
+ZFA:0005842	lower right intestinal lymph vessel	LR-IL
+ZFA:0009203	luteinizing hormone secreting cell	delta basophila
+ZFA:0009203	luteinizing hormone secreting cell	gonadotroph
+ZFA:0009203	luteinizing hormone secreting cell	gonadotrope
+ZFA:0005605	lymphangioblast cord	parachordal lymphangioblast string
+ZFA:0005832	lymphatic branchial arch 1	LAA1
+ZFA:0005833	lymphatic branchial arch 2	LAA2
+ZFA:0005834	lymphatic branchial arch 3	LAA3
+ZFA:0005835	lymphatic branchial arch 4	LAA4
+ZFA:0009250	lymphocyte	lymphocytes
+ZFA:0009355	lymphoid progenitor cell	lymphoid progenitor cells
+ZFA:0005105	lymph vasculature	lymph vessels
+ZFA:0005105	lymph vasculature	lymph vessel
+ZFA:0009074	macroglial cell	macroglial cells
+ZFA:0009141	macrophage	histiocyte
+ZFA:0000386	macula	sensory patch
+ZFA:0000386	macula	sensory macula
+ZFA:0000386	macula	maculae
+ZFA:0000116	macula lagena	maculae lagena
+ZFA:0000234	macula neglecta	maculae neglecta
+ZFA:0007000	macula saccule	saccular macula
+ZFA:0000030	macula utricle	maculae utricle
+ZFA:0005715	maG1	maG
+ZFA:0005715	maG1	medial anterior glomerulus 1
+ZFA:0000540	magnocellular octaval nucleus	magnocellular octaval nuclei
+ZFA:0000248	magnocellular preoptic nucleus	magnocellular preoptic nuclei
+ZFA:0000235	magnocellular superficial pretectal nucleus	magnocellular superficial pretectal nuclei
+ZFA:0005716	maGx	medial anterior glomeruli
+ZFA:0001227	mandibular arch skeleton	jaw cartilage
+ZFA:0001227	mandibular arch skeleton	oral jaw skeleton
+ZFA:0001227	mandibular arch skeleton	pharyngeal arch 1 skeleton
+ZFA:0001227	mandibular arch skeleton	jaws
+ZFA:0001227	mandibular arch skeleton	jaw
+ZFA:0005764	mandibular fat	jaw fat deposit
+ZFA:0000259	mandibular lateral line	mandibular line
+ZFA:0000259	mandibular lateral line	mandibular lateral lines
+ZFA:0000125	mandibular lateral line neuromast	neuromasts mandibular
+ZFA:0000125	mandibular lateral line neuromast	neuromast mandibular
+ZFA:0000236	mandibular muscle	mandibular muscles
+ZFA:0005488	mandibular symphysis	inter-mandibular joint
+ZFA:0005488	mandibular symphysis	dentary symphysis
+ZFA:0001601	manubrium	horizontal process
+ZFA:0001601	manubrium	anterior process of the intercalarium
+ZFA:0001601	manubrium	anterior branch of the intercalarium
+ZFA:0001601	manubrium	manubrium incudus
+ZFA:0000541	marginal blastomere	marginal blastomeres
+ZFA:0009331	mature B cell	mature B-lymphocyte
+ZFA:0009331	mature B cell	mature B-cell
+ZFA:0009331	mature B cell	mature B lymphocyte
+ZFA:0009338	mature gamma-delta T cell	mature gamma-delta T-lymphocyte
+ZFA:0009338	mature gamma-delta T cell	mature gamma-delta T-cell
+ZFA:0009338	mature gamma-delta T cell	mature gamma-delta T lymphocyte
+ZFA:0009347	mature natural killer cell	mature NK cell
+ZFA:0009347	mature natural killer cell	lymphokine activated killer cell
+ZFA:0009347	mature natural killer cell	LAK cell
+ZFA:0009049	mature neutrophil	mature neutrocyte
+ZFA:0009049	mature neutrophil	PMN
+ZFA:0009049	mature neutrophil	mature neutrophil leucocyte
+ZFA:0009049	mature neutrophil	mature neutrophil leukocyte
+ZFA:0009049	mature neutrophil	mature neutrophilic leucocyte
+ZFA:0009049	mature neutrophil	mature neutrophilic leukocyte
+ZFA:0009049	mature neutrophil	poly
+ZFA:0009049	mature neutrophil	polymorphonuclear leucocyte
+ZFA:0009049	mature neutrophil	polymorphonuclear leukocyte
+ZFA:0009049	mature neutrophil	polymorphonuclear neutrophil
+ZFA:0009049	mature neutrophil	polynuclear neutrophilic leucocyte
+ZFA:0009049	mature neutrophil	polynuclear neutrophilic leukocyte
+ZFA:0009341	mature T cell	mature T lymphocyte
+ZFA:0009341	mature T cell	mature T-lymphocyte
+ZFA:0009341	mature T cell	mature T-cell
+ZFA:0000270	maxilla	maxillae
+ZFA:0005408	maxillary barbel	ZMB
+ZFA:0007079	maxillary barbel blood vessel	ventral maxillary barbel blood vessel
+ZFA:0007078	maxillary barbel lymph vessel	dorsal maxillary barbel lymph vessel
+ZFA:0009293	M cell	M cells
+ZFA:0005232	MCoD	larval VeLD
+ZFA:0005232	MCoD	multipolar commissural descending interneuron
+ZFA:0005709	mdG1	mdpG1
+ZFA:0005709	mdG1	mediodorsal posterior glomerulus 1
+ZFA:0005709	mdG1	mediodorsal glomerulus 1
+ZFA:0005710	mdG2	mediodorsal posterior glomerulus 2
+ZFA:0005710	mdG2	mediodorsal glomerulus 2
+ZFA:0005710	mdG2	mdpG2
+ZFA:0005711	mdG3	mediodorsal glomerulus 3
+ZFA:0005712	mdG4	mediodorsal glomerulus 4
+ZFA:0005713	mdG5	mediodorsal glomerulus 5
+ZFA:0005714	mdG6	mediodorsal glomerulus 6
+ZFA:0009120	mechanoreceptor cell	mechanoreceptor cells
+ZFA:0001205	Meckel's cartilage	ventral mandibular cartilage
+ZFA:0000388	medial caudal lobe	caudal lobe of cerebellum
+ZFA:0000388	medial caudal lobe	lobus caudalis cerebelli
+ZFA:0000542	medial column	medial columns
+ZFA:0000542	medial column	medial column of the reticular formation
+ZFA:0005839	medial facial lymph vessel	MFL
+ZFA:0005839	medial facial lymph vessel	medial facial lymphatic
+ZFA:0005111	medial forebrain bundle	medial forebrain bundles
+ZFA:0000237	medial forebrain bundle diencephalon	medial forebrain bundles diencephalon
+ZFA:0000910	medial forebrain bundle telencephalon	medial forebrain bundles telencephalon
+ZFA:0000997	medial funicular nucleus trigeminal nucleus	medial funicular nucleus trigeminal nuclei
+ZFA:0005341	medial longitudinal catecholaminergic tract	mlct
+ZFA:0005341	medial longitudinal catecholaminergic tract	medial longitudinal CA tract
+ZFA:0000543	medial longitudinal fasciculus	MLF
+ZFA:0001696	medial motor nucleus of vagal nerve	mmX
+ZFA:0000291	medial octavolateralis nucleus	intermediate octavolateral nucleus
+ZFA:0000291	medial octavolateralis nucleus	medial octavolateralis nuclei
+ZFA:0000291	medial octavolateralis nucleus	MON
+ZFA:0000238	medial olfactory tract	tractus olfactorius medialis
+ZFA:0000390	medial preglomerular nucleus	medial preglomerular nuclei
+ZFA:0005726	medial protoglomerulus 1	MG1
+ZFA:0005727	medial protoglomerulus 2	MG2
+ZFA:0005728	medial protoglomerulus 3	MG3
+ZFA:0005729	medial protoglomerulus 4	MG4
+ZFA:0000301	medial rectus	medial recti
+ZFA:0000280	medial valvula cerebelli	valvula cerebelli, pars medialis
+ZFA:0000280	medial valvula cerebelli	medial division
+ZFA:0000391	medial zone of dorsal telencephalon	medial zone of dorsal telencephalic area
+ZFA:0000391	medial zone of dorsal telencephalon	area dorsalis telencephali, zona medialis
+ZFA:0000391	medial zone of dorsal telencephalon	medial zone of D
+ZFA:0000391	medial zone of dorsal telencephalon	Dm
+ZFA:0001535	median fin cartilage	median fin cartilages
+ZFA:0000040	median fin fold	median fin
+ZFA:0005055	median palatocerebral vein	MPLV
+ZFA:0001139	mediodorsal tooth row	mediodorsal tooth rows
+ZFA:0009022	megakaryocyte erythroid progenitor cell	MEP
+ZFA:0009022	megakaryocyte erythroid progenitor cell	colony forming unit erythroid megakaryocyte
+ZFA:0005211	MeL	mesencephalon lateral interneuron
+ZFA:0009249	melanoblast	melanoblasts
+ZFA:0009091	melanocyte	melanophore
+ZFA:0009205	melanocyte stimulating hormone secreting cell	melanotroph
+ZFA:0009205	melanocyte stimulating hormone secreting cell	melanotrope
+ZFA:0001463	melanophore stripe	melanophore stripes
+ZFA:0005214	MeLc	mesencephalon lateral caudal interneuron
+ZFA:0005215	MeLm	mesencephalon lateral medial interneuron
+ZFA:0005213	MeLr	mesencephalon lateral rostral interneuron
+ZFA:0005212	MeM	mesencephalon medial interneuron
+ZFA:0005216	MeM1	mesencephalon medial 1 interneuron
+ZFA:0001636	membrane bone	membrane bones
+ZFA:0009333	memory B cell	memory B-lymphocyte
+ZFA:0009333	memory B cell	memory B lymphocyte
+ZFA:0009333	memory B cell	memory B-cell
+ZFA:0009342	memory T cell	memory T-cell
+ZFA:0009342	memory T cell	memory T-lymphocyte
+ZFA:0009342	memory T cell	memory T lymphocyte
+ZFA:0009146	Merkel cell	Merkel cells
+ZFA:0009283	mesangial cell	mesangial cells
+ZFA:0001068	mesencephalic artery	MsA
+ZFA:0000312	mesencephalic nucleus of trigeminal nerve	mesencephalic nuclei of trigeminal nerves
+ZFA:0005092	mesencephalic vein	MsV
+ZFA:0009081	mesenchymal cell	mesenchymal cells
+ZFA:0009166	mesenchyme condensation cell	mesenchyme condensation cells
+ZFA:0001000	mesenchyme pectoral fin	mesenchyme pectoral fins
+ZFA:0001449	mesenchyme pelvic fin	mesenchyme pelvic fins
+ZFA:0000323	mesethmoid bone	ethmoid bone
+ZFA:0000239	mesocoracoid bone	mesocoracoid bones
+ZFA:0001537	mesocoracoid cartilage	mesocorocoid cartilages
+ZFA:0009138	mesodermal cell	mesoblast
+ZFA:0009138	mesodermal cell	mesoderm cell
+ZFA:0000789	mesoderm pectoral fin bud	mesoderm pectoral fin buds
+ZFA:0001386	mesoderm pelvic fin bud	mesoderm pelvic fin buds
+ZFA:0009388	meso-epithelial cell	epithelial mesenchymal cell
+ZFA:0000546	mesonephric duct	Wolffian duct
+ZFA:0000546	mesonephric duct	renal duct
+ZFA:0005592	mesonephric nephron	stage IV nephron
+ZFA:0009040	mesothelial cell	mesothelial cells
+ZFA:0009161	metanephric mesenchyme stem cell	metanephric mesenchyme stem cells
+ZFA:0000240	metapterygoid	metapterygoids
+ZFA:0005084	metencephalic artery	metencephalic arteries
+ZFA:0005251	microcirculatory vessel	vasculature
+ZFA:0009077	microglial cell	microglia
+ZFA:0005239	micropylar cell	plug cell
+ZFA:0009359	microvillous olfactory receptor neuron	microvillous sensory neuron
+ZFA:0009359	microvillous olfactory receptor neuron	microvillous olfactory sensory neuron
+ZFA:0005184	MiD2cl	middle dorsal 2 contralateral llf interneuron
+ZFA:0005185	MiD2cm	middle dorsal 2 contralateral mlf interneuron
+ZFA:0005183	MiD2i	middle dorsal 2 ipsilateral interneuron
+ZFA:0005195	MiD3cl	middle dorsal 3 contralateral llf interneuron
+ZFA:0005196	MiD3cm	middle dorsal 3 contralateral mlf interneuron
+ZFA:0005197	MiD3i	middle dorsal 3 ipsilateral interneuron
+ZFA:0000128	midbrain	mesencephalon
+ZFA:0000042	midbrain hindbrain boundary	midbrain-hindbrain boundary
+ZFA:0000042	midbrain hindbrain boundary	isthmus
+ZFA:0000042	midbrain hindbrain boundary	mhb
+ZFA:0007125	midbrain hindbrain boundary constriction	MHBC
+ZFA:0007045	midbrain hindbrain boundary neural keel	midbrain-hindbrain boundary neural keel
+ZFA:0007044	midbrain hindbrain boundary neural plate	midbrain-hindbrain boundary neural plate
+ZFA:0007046	midbrain hindbrain boundary neural rod	midbrain-hindbrain boundary neural rod
+ZFA:0007047	midbrain hindbrain boundary neural tube	midbrain-hindbrain boundary neural tube
+ZFA:0005010	mid cerebral vein	mid-cerebral vein
+ZFA:0005010	mid cerebral vein	MeCV
+ZFA:0005010	mid cerebral vein	middle cerebral vein
+ZFA:0005010	mid cerebral vein	MCeV
+ZFA:0005757	mid diencephalic organizer	MDO
+ZFA:0005757	mid diencephalic organizer	mid-diencephalic organizer
+ZFA:0000344	middle lateral line	middle lateral lines
+ZFA:0001483	middle lateral line ganglion	middle lateral line ganglia
+ZFA:0001482	middle lateral line nerve	middle lateral line nerves
+ZFA:0000939	middle lateral line neuromast	neuromasts middle
+ZFA:0000939	middle lateral line neuromast	neuromast middle
+ZFA:0005121	middle lateral line placode	middle lateral line placodes
+ZFA:0005118	middle lateral line primordium	middle lateral line primordia
+ZFA:0005078	middle mesencephalic central artery	MMCtA
+ZFA:0005924	middle migratory muscle precursor stream	middle migratory muscle precursor stream
+ZFA:0007091	migratory cranial neural crest cell	migratory cranial neural crest cells
+ZFA:0005921	migratory muscle precursor	migratory mesenchymal precursor
+ZFA:0005921	migratory muscle precursor	MMP
+ZFA:0007086	migratory neural crest cell	migratory neural crest cells
+ZFA:0001373	migratory slow muscle precursor cell	migratory slow muscle precursor cells
+ZFA:0007095	migratory trunk neural crest cell	migratory trunk neural crest cells
+ZFA:0005187	MiM1	middle medial interneuron
+ZFA:0005179	MiP motor neuron	middle primary motoneuron
+ZFA:0005188	MiR1	middle rostral 1 interneuron
+ZFA:0005189	MiR2	middle rostral 2 interneuron
+ZFA:0005190	MiV1	middle ventral 1 neuron
+ZFA:0005191	MiV2	middle ventral 2 neuron
+ZFA:0009017	monoblast	colony forming unit macrophage
+ZFA:0009017	monoblast	monocyte stem cell
+ZFA:0009017	monoblast	CFU-M
+ZFA:0009265	monocyte	monocytes
+ZFA:0009357	mononuclear cell	mononuclear cells
+ZFA:0009330	mononuclear odontoclast	mononuclear odontoclasts
+ZFA:0009329	mononuclear osteoclast	mononuclear osteoclasts
+ZFA:0009064	mononuclear phagocyte	mononuclear phagocytes
+ZFA:0001710	mossy fiber	mossy fibers
+ZFA:0009136	motile cell	motile cells
+ZFA:0009052	motor neuron	motoneuron
+ZFA:0000387	motor nucleus of vagal nerve	motor nucleus of X
+ZFA:0000387	motor nucleus of vagal nerve	motor nucleus X
+ZFA:0000387	motor nucleus of vagal nerve	vagal lobe
+ZFA:0000387	motor nucleus of vagal nerve	nucleus motorius of nervi vagi
+ZFA:0000387	motor nucleus of vagal nerve	nX
+ZFA:0009159	mucus secreting cell	mucous cell
+ZFA:0009280	Muller cell	Mueller cell
+ZFA:0009280	Muller cell	Muller cells
+ZFA:0005242	multi-ciliated epithelial cell	multiciliated epithelial cell
+ZFA:0009020	multi fate stem cell	multipotent stem cell
+ZFA:0009056	multipolar neuron	multipolar neurons
+ZFA:0001488	multi-tissue structure	multi-tissue structures
+ZFA:0005145	muscle	muscles
+ZFA:0009114	muscle cell	myocyte
+ZFA:0009114	muscle cell	myofiber
+ZFA:0001086	muscle pioneer	muscle pioneers
+ZFA:0001086	muscle pioneer	non migratory adaxial cells
+ZFA:0000043	muscle pioneer somite 1	muscle pioneers somite 1
+ZFA:0000790	muscle pioneer somite 10	muscle pioneers somite 10
+ZFA:0000915	muscle pioneer somite 11	muscle pioneers somite 11
+ZFA:0001003	muscle pioneer somite 12	muscle pioneers somite 12
+ZFA:0000791	muscle pioneer somite 13	muscle pioneers somite 13
+ZFA:0000916	muscle pioneer somite 14	muscle pioneers somite 14
+ZFA:0001004	muscle pioneer somite 15	muscle pioneers somite 15
+ZFA:0000792	muscle pioneer somite 16	muscle pioneers somite 16
+ZFA:0000917	muscle pioneer somite 17	muscle pioneers somite 17
+ZFA:0001005	muscle pioneer somite 18	muscle pioneers somite 18
+ZFA:0000793	muscle pioneer somite 19	muscle pioneers somite 19
+ZFA:0000395	muscle pioneer somite 2	muscle pioneers somite 2
+ZFA:0000918	muscle pioneer somite 20	muscle pioneers somite 20
+ZFA:0001006	muscle pioneer somite 21	muscle pioneers somite 21
+ZFA:0000794	muscle pioneer somite 22	muscle pioneers somite 22
+ZFA:0000919	muscle pioneer somite 23	muscle pioneers somite 23
+ZFA:0001007	muscle pioneer somite 24	muscle pioneers somite 24
+ZFA:0000796	muscle pioneer somite 25	muscle pioneers somite 25
+ZFA:0000920	muscle pioneer somite 26	muscle pioneers somite 26
+ZFA:0001008	muscle pioneer somite 27	muscle pioneers somite 27
+ZFA:0000797	muscle pioneer somite 28	muscle pioneers somite 28
+ZFA:0000921	muscle pioneer somite 29	muscle pioneers somite 29
+ZFA:0001009	muscle pioneer somite 3	muscle pioneers somite 3
+ZFA:0000798	muscle pioneer somite 30	muscle pioneers somite 30
+ZFA:0000922	muscle pioneer somite 4	muscle pioneers somite 4
+ZFA:0001010	muscle pioneer somite 5	muscle pioneers somite 5
+ZFA:0000799	muscle pioneer somite 6	muscle pioneers somite 6
+ZFA:0000923	muscle pioneer somite 7	muscle pioneers somite 7
+ZFA:0001011	muscle pioneer somite 8	muscle pioneers somite 8
+ZFA:0000800	muscle pioneer somite 9	muscle pioneers somite 9
+ZFA:0009291	muscle precursor cell	muscle precursor cells
+ZFA:0009179	muscle stem cell	muscle stem cells
+ZFA:0009163	myelin accumulating cell	myelin accumulating cells
+ZFA:0009135	myelinating Schwann cell	Schwann cells
+ZFA:0009353	myeloblast	myeloblasts
+ZFA:0009324	myeloid cell	myeloid cells
+ZFA:0009326	myeloid leukocyte	myeloid leukocytes
+ZFA:0009356	myeloid lineage restricted progenitor cell	myeloid progenitor cell
+ZFA:0009356	myeloid lineage restricted progenitor cell	myeloid progenitor cells
+ZFA:0009025	myoblast	myoblasts
+ZFA:0001319	myocardium	cardiac muscle
+ZFA:0001319	myocardium	heart muscle
+ZFA:0009113	myoepithelial cell	myoepithelial cells
+ZFA:0001089	myoseptum	myosepta
+ZFA:0001089	myoseptum	myocommata
+ZFA:0001056	myotome	myomeres
+ZFA:0009334	naive B cell	naive B lymphocyte
+ZFA:0009334	naive B cell	naive B-lymphocyte
+ZFA:0009334	naive B cell	naive B-cell
+ZFA:0005326	NaK ionocyte	NaK-MRC
+ZFA:0005326	NaK ionocyte	NaR cell
+ZFA:0000550	naris	nares
+ZFA:0000550	naris	nostril
+ZFA:0005085	nasal artery	NA
+ZFA:0000365	nasal bone	nasal bones
+ZFA:0005053	nasal ciliary artery	NCA
+ZFA:0005093	nasal vein	NV
+ZFA:0009278	natural killer cell	null cell
+ZFA:0009278	natural killer cell	NK cell
+ZFA:0009278	natural killer cell	large granular lymphocyte
+ZFA:0005579	NCC ionocyte	NCC cell
+ZFA:0009187	nephrogenic mesenchyme stem cell	nephrogenic mesenchyme stem cells
+ZFA:0007009	nerve	nerves
+ZFA:0001066	neural arch	dorsal arcocentrum
+ZFA:0001363	neural complex	Weberian supraneural
+ZFA:0009165	neural crest cell	neural crest cells
+ZFA:0000811	neural crest diencephalon	diencephalic neural crest
+ZFA:0007063	neural crest hindbrain	rhombencephalic neural crest
+ZFA:0000935	neural crest midbrain	mesencephalic neural crest
+ZFA:0000131	neural keel	presumptive central nervous system
+ZFA:0000132	neural plate	presumptive central nervous system
+ZFA:0000681	neural postzygapophysis	neural postzygopophysis
+ZFA:0000681	neural postzygapophysis	neural postzygapophyses
+ZFA:0001325	neural prezygapophysis	neural prezygopophyses
+ZFA:0001325	neural prezygapophysis	neural prezygapophyses
+ZFA:0000133	neural rod	presumptive central nervous system
+ZFA:0001336	neural spine	neural spines
+ZFA:0001135	neural tube	presumptive central nervous system
+ZFA:0009080	neurectodermal cell	neurectoderm cell
+ZFA:0009384	neurecto-epithelial cell	neuroepithelial cell
+ZFA:0009011	neuroblast	neuroblasts
+ZFA:0001321	neurocranial trabecula	neurocranial trabeculae
+ZFA:0001321	neurocranial trabecula	trabecular cartilage
+ZFA:0001321	neurocranial trabecula	trabecula
+ZFA:0001580	neurocranium	braincase
+ZFA:0001120	neuroectoderm	neurectoderm
+ZFA:0001120	neuroectoderm	neural ectoderm
+ZFA:0009098	neuroendocrine cell	neurosecretory cell
+ZFA:0009306	neuroepithelial cell	neuroepithelial cells
+ZFA:0007059	neurogenic field	neurogenic fields
+ZFA:0001309	neurogenic placode	neurogenic placodes
+ZFA:0009299	neuroglioform cell	spiderweb cell
+ZFA:0001271	neurohypophysis	posterior pituitary
+ZFA:0000243	neuromast	lateral line neuromast
+ZFA:0000243	neuromast	neuromasts
+ZFA:0000243	neuromast	lateral line organ
+ZFA:0009367	neuromast hair cell	neuromast hair cells
+ZFA:0009362	neuromast mantle cell	neuromast mantle cells
+ZFA:0009363	neuromast support cell	neuromast support cells
+ZFA:0001328	neuromere	neuromeres
+ZFA:0001328	neuromere	neural segment
+ZFA:0009019	neuronal stem cell	neuronal stem cells
+ZFA:0009012	neuroplacodal cell	neuroplacodal cells
+ZFA:0009186	neurosecretory neuron	neurosecretory neurons
+ZFA:0009327	neutrophil	polynuclear neutrophilic leucocyte
+ZFA:0009327	neutrophil	polynuclear neutrophilic leukocyte
+ZFA:0009327	neutrophil	polymorphonuclear leukocyte
+ZFA:0009327	neutrophil	PMN
+ZFA:0009327	neutrophil	neutrophilic leucocyte
+ZFA:0009327	neutrophil	neutrophil leukocyte
+ZFA:0009327	neutrophil	neutrophil leucocyte
+ZFA:0009327	neutrophil	neutrocyte
+ZFA:0009327	neutrophil	polymorphonuclear neutrophil
+ZFA:0009327	neutrophil	polymorphonuclear leucocyte
+ZFA:0009327	neutrophil	neutrophilic leukocyte
+ZFA:0009268	neutrophilic metamyelocyte	juvenile neutrophil
+ZFA:0009018	neutrophilic myeloblast	neutrophilic granuloblast
+ZFA:0009266	neutrophilic myelocyte	neutrophilic myelocytes
+ZFA:0009257	neutrophilic promyelocyte	neutrophilic progranulocyte
+ZFA:0009257	neutrophilic promyelocyte	promyelocyte
+ZFA:0009257	neutrophilic promyelocyte	neutrophilic premyelocyte
+ZFA:0009352	neutrophil progenitor cell	neutrophil stem cell
+ZFA:0005043	nevus	naevus
+ZFA:0005043	nevus	f-nevi
+ZFA:0009240	nitrergic neuron	nitrergic neurons
+ZFA:0001126	noninvoluting endocytic marginal cell cluster	NEM
+ZFA:0001126	noninvoluting endocytic marginal cell cluster	noninvoluting endocytic marginal cells
+ZFA:0001178	non neural ectoderm	ventral ectoderm
+ZFA:0009172	non-visual cell (sensu Vertebrata)	non-visual cells (sensu Vertebrata)
+ZFA:0001582	non-Weberian precaudal vertebra	non-Weberian precaudal vertebrae
+ZFA:0009214	norepinephrine secreting cell	norepinephrin secreting cells
+ZFA:0009214	norepinephrine secreting cell	noradrenergic cell
+ZFA:0000135	notochord	notocord
+ZFA:0005746	notochord inner cell	chordocytes
+ZFA:0005744	notochord outer sheath cell	notochord sheath cell
+ZFA:0009256	nucleate erythrocyte	red blood cell
+ZFA:0009256	nucleate erythrocyte	RBC
+ZFA:0000244	nucleus Edinger-Westphal	Edinger-Westphal nucleus
+ZFA:0005850	nucleus of the caudal commissure	nuc PC
+ZFA:0005850	nucleus of the caudal commissure	nucleus of the tract of the posterior commissure
+ZFA:0005850	nucleus of the caudal commissure	nucleus of posterior commissure
+ZFA:0005850	nucleus of the caudal commissure	nTPC
+ZFA:0000245	nucleus of the descending root	sensory nucleus of the descending trigeminal root
+ZFA:0001339	nucleus of the tract of the anterior commissure	ntAC
+ZFA:0001340	nucleus of the tract of the postoptic commissure	ntPOC
+ZFA:0000552	nucleus ruber	red nucleus
+ZFA:0001504	occipital arch cartilage	occipital arch cartilages
+ZFA:0000400	occipital lateral line	supratemporal lateral line
+ZFA:0001025	occipital lateral line neuromast	neuromasts occipital
+ZFA:0001025	occipital lateral line neuromast	neuromast occipital
+ZFA:0001414	occipital region	basicranial region
+ZFA:0001697	octaval nerve motor nucleus	OLe
+ZFA:0001697	octaval nerve motor nucleus	cranial nerve VIII motor nucleus
+ZFA:0001697	octaval nerve motor nucleus	octaval nerve motor nuclei
+ZFA:0000401	octaval nerve sensory nucleus	octaval nerve sensory nuclei
+ZFA:0000401	octaval nerve sensory nucleus	cranial nerve VIII sensory nucleus
+ZFA:0007057	ocular blood vessel	ocular vasculature
+ZFA:0007057	ocular blood vessel	optic vasculature
+ZFA:0007057	ocular blood vessel	eye vasculature
+ZFA:0000553	oculomotor nucleus	motor nucleus III
+ZFA:0000553	oculomotor nucleus	nIII
+ZFA:0009029	odontoblast	odontoblasts
+ZFA:0009270	odontoclast	odontoclasts
+ZFA:0009086	odontocyte	odontocytes
+ZFA:0009320	OFF-bipolar cell	OFF-bipolar cells
+ZFA:0000402	olfactory bulb	bulbus olfactorius
+ZFA:0000402	olfactory bulb	olfactory lobe
+ZFA:0005668	olfactory bulb protoglomerulus	glomerular precursors
+ZFA:0009364	olfactory epithelial support cell	olfactory sustentacular cell
+ZFA:0000554	olfactory epithelium	nasal epithelium
+ZFA:0000554	olfactory epithelium	nasal sensory epithelium
+ZFA:0007062	olfactory field	olfactory fields
+ZFA:0000130	olfactory pit	nasal cavity
+ZFA:0000130	olfactory pit	nasal pit
+ZFA:0000130	olfactory pit	olfactory cavity
+ZFA:0000130	olfactory pit	nasal canal
+ZFA:0000048	olfactory placode	olfactory placodes
+ZFA:0009125	olfactory receptor cell	olfactory sensory neuron
+ZFA:0009125	olfactory receptor cell	olfactory receptor neuron
+ZFA:0009125	olfactory receptor cell	Schultze's cell
+ZFA:0000351	olfactory region	ethmoid region
+ZFA:0001428	olfactory rosette	olfactory rosettes
+ZFA:0000688	olfactory support cell	support cells
+ZFA:0009076	oligodendrocyte	oligodendroglia
+ZFA:0009319	ON-bipolar cell	ON-bipolar cells
+ZFA:0001109	oocyte	egg
+ZFA:0001567	oocyte stage I	oocytes stage I
+ZFA:0001567	oocyte stage I	primary oocyte
+ZFA:0001567	oocyte stage I	previtellogenic oocyte
+ZFA:0001567	oocyte stage I	Stage 1 oocyte
+ZFA:0001565	oocyte stage II	oocytes stage II
+ZFA:0001565	oocyte stage II	cortical-alveolar oocyte
+ZFA:0001565	oocyte stage II	previtellogenic oocyte
+ZFA:0001565	oocyte stage II	Stage 2 oocyte
+ZFA:0001566	oocyte stage III	postvitellogenic oocyte
+ZFA:0001566	oocyte stage III	oocytes stage III
+ZFA:0001566	oocyte stage III	vitellogenic oocytes
+ZFA:0001566	oocyte stage III	Stage 3 oocyte
+ZFA:0001568	oocyte stage IV	postvitellogenic oocyte
+ZFA:0001568	oocyte stage IV	oocytes stage IV
+ZFA:0001568	oocyte stage IV	Stage 4 oocyte
+ZFA:0001568	oocyte stage IV	mature oocytes
+ZFA:0001569	oocyte stage V	mature egg
+ZFA:0001569	oocyte stage V	unactivated egg
+ZFA:0000250	opercle	opercles
+ZFA:0005022	opercular artery	ORA
+ZFA:0005022	opercular artery	external carotid artery
+ZFA:0000555	opercular flap	gill cover
+ZFA:0000555	opercular flap	opercular cover
+ZFA:0000555	opercular flap	operculum
+ZFA:0000555	opercular flap	opercular apparatus
+ZFA:0000555	opercular flap	gill slit
+ZFA:0000424	opercular lateral line	opercular lateral lines
+ZFA:0000814	opercular lateral line neuromast	neuromasts opercular
+ZFA:0000814	opercular lateral line neuromast	neuromast opercular
+ZFA:0005044	optic artery	optic arteries
+ZFA:0000556	optic chiasm	optic commissure
+ZFA:0000556	optic chiasm	chiasma opticum
+ZFA:0005229	optic choroid	choroid
+ZFA:0005094	optic choroid vascular plexus	choroid vasculature
+ZFA:0005094	optic choroid vascular plexus	CVP
+ZFA:0001202	optic cup	eye cup
+ZFA:0001619	optic fiber layer	optic fiber layers
+ZFA:0001619	optic fiber layer	nerve fiber layer
+ZFA:0001284	optic fissure	choroid fissure
+ZFA:0001284	optic fissure	optic fissures
+ZFA:0005428	optic foramen	optic nerve (II) foramen
+ZFA:0005491	optic furrow	optic fissure
+ZFA:0001625	optic nerve head	optic nerve heads
+ZFA:0000570	optic primordium	eye field
+ZFA:0000049	optic recess	optic recesses
+ZFA:0000137	optic stalk	optic stalks
+ZFA:0000445	optic tectum	tectum
+ZFA:0000445	optic tectum	dorsal midbrain
+ZFA:0000445	optic tectum	mesencephalic tectum
+ZFA:0000445	optic tectum	tectal lobe
+ZFA:0000445	optic tectum	tectum opticum
+ZFA:0000252	optic tract	tractus opticus
+ZFA:0000252	optic tract	optic tracts
+ZFA:0005032	optic vein	OV
+ZFA:0000050	optic vesicle	optic vesicles
+ZFA:0001027	oral cavity	buccal cavity
+ZFA:0001027	oral cavity	buccal chamber
+ZFA:0000253	orbitosphenoid	orbitosphenoids
+ZFA:0001308	organism subdivision	body part
+ZFA:0001125	organizer inducing center	Nieuwkoop center
+ZFA:0009031	osteoblast	osteoblasts
+ZFA:0009047	osteoclast	chondroclast
+ZFA:0009083	osteocyte	osteocytes
+ZFA:0009184	osteoprogenitor cell	osteoprogenitor cells
+ZFA:0000464	otic lateral line	otic lateral lines
+ZFA:0000136	otic lateral line neuromast	neuromast otic
+ZFA:0000136	otic lateral line neuromast	neuromasts otic
+ZFA:0000189	otic region	cranial vault
+ZFA:0000051	otic vesicle	otic capsule
+ZFA:0000051	otic vesicle	otocyst
+ZFA:0000051	otic vesicle	ov
+ZFA:0000469	otic vesicle anterior protrusion	anterior semicircular canal primordium
+ZFA:0000469	otic vesicle anterior protrusion	anterior semicircular canal primordia
+ZFA:0000232	otic vesicle lateral protrusion	lateral semicircular canal primordium
+ZFA:0000232	otic vesicle lateral protrusion	lateral semicircular canal primordia
+ZFA:0000412	otic vesicle posterior protrusion	posterior semicircular canal primordia
+ZFA:0000412	otic vesicle posterior protrusion	posterior semicircular canal primordium
+ZFA:0001617	otolith	statolith
+ZFA:0001617	otolith	immature otolith
+ZFA:0001617	otolith	immature otoliths
+ZFA:0005838	otolithic lymph vessel	otolithic lymphatic vessel
+ZFA:0000559	otolith organ	otolith organs
+ZFA:0005137	outer dental epithelium	ode
+ZFA:0001331	outer limiting membrane	outer limiting membranes
+ZFA:0001331	outer limiting membrane	external limiting membrane
+ZFA:0001110	ovarian follicle	egg follicle
+ZFA:0001263	ovarian follicle stage I	previtellogenic ovarian follicle
+ZFA:0001263	ovarian follicle stage I	ovarian follicle stage 1
+ZFA:0001265	ovarian follicle stage II	ovarian follicles stage II
+ZFA:0001265	ovarian follicle stage II	ovarian follicle stage 2
+ZFA:0001266	ovarian follicle stage III	ovarian follicle stage 3
+ZFA:0001266	ovarian follicle stage III	ovarian follicles stage III
+ZFA:0001264	ovarian follicle stage IV	ovarian follicle stage 4
+ZFA:0001264	ovarian follicle stage IV	mature ovarian follicle
+ZFA:0000403	ovary	ovaries
+ZFA:0000560	oviduct	oviducts
+ZFA:0009164	oxygen accumulating cell	oxygen accumulating cells
+ZFA:0009119	pain receptor cell	nocireceptor
+ZFA:0009119	pain receptor cell	nociceptor
+ZFA:0001543	paired fin cartilage	paired fin cartilages
+ZFA:0000027	paired fin skeleton	appendicular skeleton
+ZFA:0005050	palatocerebral artery	PLA
+ZFA:0005056	palatocerebral vein	PLV
+ZFA:0001272	palatoquadrate arch	dorsal mandibular arch
+ZFA:0001272	palatoquadrate arch	upper jaw
+ZFA:0001272	palatoquadrate arch	upper pharyngeal jaw
+ZFA:0001272	palatoquadrate arch	dorsal visceral arch 1
+ZFA:0001399	palatoquadrate cartilage	dorsal mandibular cartilage
+ZFA:0001399	palatoquadrate cartilage	pterygoquadrate
+ZFA:0001399	palatoquadrate cartilage	quadrate cartilage
+ZFA:0000254	pancreas primordium	pancreatic anlage
+ZFA:0009104	pancreatic A cell	alpha cell
+ZFA:0005741	pancreatic acinar gland	exocrine glands pancreas
+ZFA:0005741	pancreatic acinar gland	pancreatic acini
+ZFA:0009102	pancreatic B cell	beta cell
+ZFA:0001390	pancreatic bud	pancreatic buds
+ZFA:0005740	pancreatic centroacinar cell	CAC
+ZFA:0005743	pancreatic D cell	pancreatic delta cell
+ZFA:0005743	pancreatic D cell	D-cell of pancreatic islet
+ZFA:0005743	pancreatic D cell	somatostatin-secreting pancreatic cell
+ZFA:0005743	pancreatic D cell	delta cell of islet
+ZFA:0005598	pancreatic epsilon cell	pancreatic E cell
+ZFA:0005753	pancreatic lobule	exocrine lobule
+ZFA:0005742	pancreatic PP cell	pancreatic F cells
+ZFA:0005742	pancreatic PP cell	PP-cell of pancreatic islet
+ZFA:0005742	pancreatic PP cell	PP cell of pancreatic islet
+ZFA:0005742	pancreatic PP cell	pancreatic polypeptide-secreting cell
+ZFA:0001423	parachordal cartilage	parachordal cartilages
+ZFA:0005034	parachordal vessel	PAV
+ZFA:0009233	paracrine cell	paracrine cells
+ZFA:0009260	parafollicular cell	C cell
+ZFA:0001713	parallel fiber	parallel fibers
+ZFA:0001362	parapophysis	parapophyses
+ZFA:0001362	parapophysis	lateral process of basiventral
+ZFA:0001362	parapophysis	transverse process
+ZFA:0001392	parapophysis 1	lateral process 1
+ZFA:0001392	parapophysis 1	basipophysis 1
+ZFA:0001393	parapophysis 2	basipophysis
+ZFA:0001393	parapophysis 2	lateral process 2
+ZFA:0009207	parathyroid hormone secreting cell	chief cell
+ZFA:0000475	paraventricular organ	PVO
+ZFA:0000255	paraxial mesoderm	paraxial mesenchyme
+ZFA:0000438	parhypural	parhyural
+ZFA:0000438	parhypural	phy
+ZFA:0000486	parietal bone	post parietal
+ZFA:0001195	pars anterior	pars distalis
+ZFA:0000256	pars subcommissuralis of ventral telencephalon	pars subcommissuralis of V
+ZFA:0000406	parvocellular superficial pretectal nucleus	parvocellular superficial pretectal nuclei
+ZFA:0005809	pectinate muscle	pectinate muscles
+ZFA:0005086	pectoral artery	subclavian artery
+ZFA:0005086	pectoral artery	PA
+ZFA:0001161	pectoral fin	forefin
+ZFA:0001161	pectoral fin	pectoral fins
+ZFA:0000141	pectoral fin bud	pectoral fin buds
+ZFA:0000257	pectoral fin cartilage	pectoral fin cartilages
+ZFA:0001588	pectoral fin distal radial	pectoral fin distal radials
+ZFA:0001456	pectoral fin endoskeletal disc	fin plate cartilage
+ZFA:0001453	pectoral fin field	pectoral fin fields
+ZFA:0005317	pectoral fin fold	pectoral fin membrane
+ZFA:0001551	pectoral fin lepidotrichium	pectoral fin ray
+ZFA:0001551	pectoral fin lepidotrichium	pectoral fin lepidotrichia
+ZFA:0000563	pectoral fin musculature	pectoral fin muscle
+ZFA:0005766	pectoral fin plate fat	pectoral fin plate deposit
+ZFA:0001586	pectoral fin radial	pectoral fin radials
+ZFA:0000407	pectoral girdle	pectoral girdles
+ZFA:0005107	pectoral lymphatic vessel	PL
+ZFA:0005863	pectoral protractor	protractor pectoralis
+ZFA:0005087	pectoral vein	PV
+ZFA:0000564	pelvic abductor profundus	pelvic abductors profundus
+ZFA:0000564	pelvic abductor profundus	abductor profundus pelvicus
+ZFA:0000497	pelvic adductor profundus	pelvic adductors profundus
+ZFA:0000497	pelvic adductor profundus	adductor profundus pelvicus
+ZFA:0001184	pelvic fin	pelvic fins
+ZFA:0001384	pelvic fin bud	pelvic fin buds
+ZFA:0001459	pelvic fin cartilage	pelvic fin cartilages
+ZFA:0001454	pelvic fin field	pelvic fin fields
+ZFA:0001552	pelvic fin lepidotrichium	pelvic fin ray
+ZFA:0001552	pelvic fin lepidotrichium	pelvic fin lepidotrichia
+ZFA:0000565	pelvic girdle	pelvic girdles
+ZFA:0000508	pelvic radial	pelvic radials
+ZFA:0001417	pelvic radial 1	pelvic radials 1
+ZFA:0001542	pelvic radial 1 cartilage	pelvic radials 1 cartilages
+ZFA:0001415	pelvic radial 2	pelvic radials 2
+ZFA:0001541	pelvic radial 2 cartilage	pelvic radials 2 cartilages
+ZFA:0001416	pelvic radial 3	pelvic radials 3
+ZFA:0001540	pelvic radial 3 cartilage	pelvic radials 3 cartilages
+ZFA:0001538	pelvic radial cartilage	pelvic radial cartilages
+ZFA:0009100	peptide hormone secreting cell	peptide hormone secreting cells
+ZFA:0009062	peptidergic neuron	peptidergic neurons
+ZFA:0009312	periarticular chondrocyte	periarticular chondrocytes
+ZFA:0001655	pericardial cavity	thoracic cavity
+ZFA:0005765	pericardial fat	pericardial fat deposit
+ZFA:0000054	pericardium	pericardial sac
+ZFA:0001630	perichondral bone	perichondral bones
+ZFA:0001634	perichondrium	cartilage connective tissue
+ZFA:0001629	perichordal bone	perichordal bones
+ZFA:0009112	pericyte	perivascular cells
+ZFA:0009112	pericyte	pericytes
+ZFA:0001185	periderm	EVL
+ZFA:0009041	peridermal cell	peridermal cells
+ZFA:0009296	perijunctional fibroblast	perijunctional fibroblasts
+ZFA:0009237	perineuronal satellite cell	perineural satellite cell
+ZFA:0005075	peripheral cardiac conduction system	ventricular fast conduction system
+ZFA:0005075	peripheral cardiac conduction system	distal conduction system
+ZFA:0000142	peripheral nervous system	pns
+ZFA:0009063	peripheral neuron	peripheral neurons
+ZFA:0000047	peripheral olfactory organ	nasal sac
+ZFA:0000047	peripheral olfactory organ	nose
+ZFA:0009267	peritoneal macrophage	peritoneal macrophages
+ZFA:0000516	periventricular grey zone	PGZ
+ZFA:0000516	periventricular grey zone	strata periventriculare
+ZFA:0000516	periventricular grey zone	periventricular grey zones
+ZFA:0000516	periventricular grey zone	SVP
+ZFA:0000516	periventricular grey zone	periventricular layer
+ZFA:0000516	periventricular grey zone	stratum griseum periventricular
+ZFA:0000516	periventricular grey zone	stratum periventriculare
+ZFA:0000516	periventricular grey zone	periventricular gray zone
+ZFA:0000260	periventricular nucleus	ventral zone of periventricular hypothalamus
+ZFA:0000260	periventricular nucleus	periventricular nuclei
+ZFA:0000408	periventricular nucleus of caudal tuberculum	periventricular nucleus of posterior tuberculum
+ZFA:0009140	phagocyte	phagocytes
+ZFA:0001306	pharyngeal arch	pharyngeal arches
+ZFA:0001612	pharyngeal arch 1	mandibular arch
+ZFA:0001612	pharyngeal arch 1	visceral arch 1
+ZFA:0001611	pharyngeal arch 2	hyoid arch
+ZFA:0001611	pharyngeal arch 2	visceral arch 2
+ZFA:0001276	pharyngeal arch 2 skeleton	hyoid bars
+ZFA:0001606	pharyngeal arch 3	visceral arch 3
+ZFA:0001606	pharyngeal arch 3	gill arch 1
+ZFA:0001606	pharyngeal arch 3	branchial arch 1
+ZFA:0001613	pharyngeal arch 3-7	branchial bars
+ZFA:0001613	pharyngeal arch 3-7	branchial arches
+ZFA:0001613	pharyngeal arch 3-7	branchial arch
+ZFA:0001613	pharyngeal arch 3-7	branchial bar
+ZFA:0001613	pharyngeal arch 3-7	visceral arches 3-7
+ZFA:0001613	pharyngeal arch 3-7	gill arches 1-5
+ZFA:0001613	pharyngeal arch 3-7	gill arch
+ZFA:0000095	pharyngeal arch 3-7 skeleton	branchial arch skeleton
+ZFA:0000095	pharyngeal arch 3-7 skeleton	gill arches 1-5 skeleton
+ZFA:0001228	pharyngeal arch 3 skeleton	visceral arch 3 skeleton
+ZFA:0001228	pharyngeal arch 3 skeleton	gill arch 1 skeleton
+ZFA:0001228	pharyngeal arch 3 skeleton	branchial arch 1 skeleton
+ZFA:0001607	pharyngeal arch 4	gill arch 2
+ZFA:0001607	pharyngeal arch 4	visceral arch 4
+ZFA:0001607	pharyngeal arch 4	branchial arch 2
+ZFA:0001231	pharyngeal arch 4 skeleton	gill arch 2 skeleton
+ZFA:0001231	pharyngeal arch 4 skeleton	visceral arch 4 skeleton
+ZFA:0001231	pharyngeal arch 4 skeleton	branchial arch 2 skeleton
+ZFA:0001608	pharyngeal arch 5	gill arch 3
+ZFA:0001608	pharyngeal arch 5	visceral arch 5
+ZFA:0001608	pharyngeal arch 5	branchial arch 3
+ZFA:0001232	pharyngeal arch 5 skeleton	visceral arch 5 skeleton
+ZFA:0001232	pharyngeal arch 5 skeleton	gill arch 3 skeleton
+ZFA:0001232	pharyngeal arch 5 skeleton	branchial arch 3 skeleton
+ZFA:0001609	pharyngeal arch 6	gill arch 4
+ZFA:0001609	pharyngeal arch 6	branchial arch 4
+ZFA:0001609	pharyngeal arch 6	visceral arch 6
+ZFA:0001230	pharyngeal arch 6 skeleton	gill arch 4 skeleton
+ZFA:0001230	pharyngeal arch 6 skeleton	branchial arch 4 skeleton
+ZFA:0001230	pharyngeal arch 6 skeleton	visceral arch 6 skeleton
+ZFA:0001610	pharyngeal arch 7	branchial arch 5
+ZFA:0001610	pharyngeal arch 7	visceral arch 7
+ZFA:0001610	pharyngeal arch 7	gill arch 5
+ZFA:0001229	pharyngeal arch 7 skeleton	visceral arch 7 skeleton
+ZFA:0001229	pharyngeal arch 7 skeleton	branchial arch 5 skeleton
+ZFA:0001229	pharyngeal arch 7 skeleton	gill arch 5 skeleton
+ZFA:0001460	pharyngeal arch cartilage	pharyngeal arch cartilages
+ZFA:0001460	pharyngeal arch cartilage	splanchnocranium cartilage
+ZFA:0001106	pharyngeal pouch	pharyngeal pouches
+ZFA:0001128	pharyngeal pouch 1	pharyngeal pouches 1
+ZFA:0001130	pharyngeal pouch 2	pharyngeal pouches 2
+ZFA:0001131	pharyngeal pouch 3	pharyngeal pouches 3
+ZFA:0001134	pharyngeal pouch 4	pharyngeal pouches 4
+ZFA:0001133	pharyngeal pouch 5	pharyngeal pouches 5
+ZFA:0001132	pharyngeal pouch 6	pharyngeal pouches 6
+ZFA:0005003	pharyngeal vasculature	branchial vasculature
+ZFA:0005003	pharyngeal vasculature	branchial basket
+ZFA:0001250	pharyngobranchial 2 bone	infrapharyngobranchial 2
+ZFA:0001536	pharyngobranchial 2 cartilage	pharyngobranchial 2 cartilages
+ZFA:0001252	pharyngobranchial 3 bone	pharyngobranchial 3 bones
+ZFA:0001534	pharyngobranchial 3 cartilage	pharyngobranchial 3 cartilages
+ZFA:0001251	pharyngobranchial 4 cartilage	infrapharyngobranchial 4 cartilage
+ZFA:0001251	pharyngobranchial 4 cartilage	infrapharyngobranchials
+ZFA:0000527	pharyngobranchial bone	pharyngobranchials
+ZFA:0000527	pharyngobranchial bone	infrapharyngobranchial
+ZFA:0001533	pharyngobranchial cartilage	pharyngobranchial cartilages
+ZFA:0009220	photopic photoreceptor cell	photopic photoreceptor cells
+ZFA:0009127	photoreceptor cell	photoreceptor cells
+ZFA:0001465	photoreceptor inner segment layer	photoreceptor inner segment layers
+ZFA:0001466	photoreceptor outer segment layer	photoreceptor outer segment layers
+ZFA:0009090	pigment cell	chromatophore
+ZFA:0009090	pigment cell	chromatocyte
+ZFA:0009170	pigment cell (sensu Vertebrata)	pigment cells (sensu Vertebrata)
+ZFA:0009241	pigmented epithelial cell	pigmented epithelial cells
+ZFA:0007054	pillar of the anterior semicircular canal	horizontal hub
+ZFA:0007054	pillar of the anterior semicircular canal	anterior hub of the semicircular canal
+ZFA:0007054	pillar of the anterior semicircular canal	anterior pillar
+ZFA:0007054	pillar of the anterior semicircular canal	anterior pillar of the semicircular canal
+ZFA:0007055	pillar of the lateral semicircular canal	ventral piller of the semicircular canal
+ZFA:0007055	pillar of the lateral semicircular canal	ventral pillar
+ZFA:0007055	pillar of the lateral semicircular canal	ventral bar
+ZFA:0007055	pillar of the lateral semicircular canal	lateral hub of the semicircular canal
+ZFA:0007056	pillar of the posterior semicircular canal	posterior hub of the semicircular canal
+ZFA:0007056	pillar of the posterior semicircular canal	horizontal hub
+ZFA:0007056	pillar of the posterior semicircular canal	posterior pillar
+ZFA:0007056	pillar of the posterior semicircular canal	posterior pillar of the semicircular
+ZFA:0009284	pinealocyte	pinealocytes
+ZFA:0009332	plasma cell	plasmacyte
+ZFA:0001656	pleuroperitoneal cavity	visceral cavity
+ZFA:0009285	podocyte	podocytes
+ZFA:0000058	polster	pillow
+ZFA:0005241	polychromatophilic erythroblast	polychromatophilic normoblast
+ZFA:0005241	polychromatophilic erythroblast	polychromatic erythroblast
+ZFA:0005241	polychromatophilic erythroblast	intermediate normoblast
+ZFA:0005241	polychromatophilic erythroblast	intermediate erythroblast
+ZFA:0005241	polychromatophilic erythroblast	rubricyte
+ZFA:0005241	polychromatophilic erythroblast	polychromatic normoblast
+ZFA:0009054	polymodal neuron	polymodal neurons
+ZFA:0000410	postcleithrum	postcleithra
+ZFA:0000819	postcommissural nucleus of ventral telencephalon	postcommissural nucleus of V
+ZFA:0000819	postcommissural nucleus of ventral telencephalon	area ventralis telencephali, nucleus postcommissuralis
+ZFA:0001457	postcranial axial cartilage	postcranial axial cartilages
+ZFA:0000317	postcranial axial skeleton	axial skeleton
+ZFA:0005887	posterior basicapsular commissure	posterior basicranial commissure
+ZFA:0000477	posterior cardinal vein	caudal cardinal veins
+ZFA:0000477	posterior cardinal vein	PCV
+ZFA:0000477	posterior cardinal vein	axial vein
+ZFA:0000477	posterior cardinal vein	postcardinal vein
+ZFA:0005027	posterior cerebral vein	caudal cerebral vein
+ZFA:0005027	posterior cerebral vein	PCeV
+ZFA:0005001	posterior communicating artery	posterior communicating segment of the basilar artery
+ZFA:0005001	posterior communicating artery	caudal communicating segment
+ZFA:0005001	posterior communicating artery	PCS
+ZFA:0005001	posterior communicating artery	PCA
+ZFA:0000566	posterior crista	posterior semicircular canal sensory patches
+ZFA:0000566	posterior crista	posterior crista ampullaris
+ZFA:0000566	posterior crista	caudal crista
+ZFA:0000566	posterior crista	posterior semicircular canal sensory patch
+ZFA:0000566	posterior crista	posterior cristae
+ZFA:0000566	posterior crista	pc
+ZFA:0000411	posterior crista primordium	posterior crista primordia
+ZFA:0005926	posterior hypaxial muscle	anterior hypaxial muscle
+ZFA:0005926	posterior hypaxial muscle	PHM
+ZFA:0005926	posterior hypaxial muscle	ventral-most hypaxial muscle
+ZFA:0005926	posterior hypaxial muscle	inferior obliquus muscle
+ZFA:0001293	posterior kidney	posterior kidneys
+ZFA:0000944	posterior lateral line	pll
+ZFA:0001314	posterior lateral line ganglion	pLLg
+ZFA:0001314	posterior lateral line ganglion	posterior lateral line ganglia
+ZFA:0000175	posterior lateral line nerve	caudal lateral line nerve
+ZFA:0000940	posterior lateral line neuromast	neuromast posterior
+ZFA:0000940	posterior lateral line neuromast	neuromasts posterior
+ZFA:0001156	posterior lateral line placode	posterior lateral line placodes
+ZFA:0001157	posterior lateral line primordium	posterior lateral line primordia
+ZFA:0005040	posterior lateral mesoderm	PLM
+ZFA:0005042	posterior lateral plate mesoderm	PLPM
+ZFA:0000558	posterior macula	posterior sensory patch
+ZFA:0000558	posterior macula	posteromedial macula
+ZFA:0000558	posterior macula	pm
+ZFA:0005079	posterior mesencephalic central artery	caudal mesencephalic central artery
+ZFA:0005079	posterior mesencephalic central artery	PMCtA
+ZFA:0005088	posterior mesenteric artery	PMA
+ZFA:0005088	posterior mesenteric artery	caudal mesenteric artery
+ZFA:0005925	posterior migratory muscle precursor stream	third migratory stream
+ZFA:0001426	posterior naris	excurrent nostril
+ZFA:0001426	posterior naris	posterior nares
+ZFA:0001370	posterior pancreatic bud	dorsal pancreatic anlage
+ZFA:0001370	posterior pancreatic bud	caudal anlage
+ZFA:0001370	posterior pancreatic bud	dorsal posterior bud
+ZFA:0001623	posterior pronephric duct	posterior pronephric ducts
+ZFA:0005338	posterior recess	recessus posterior
+ZFA:0005338	posterior recess	posterior recess of diencephalic ventricle
+ZFA:0001433	posterior sclerotic bone	posterior sclerotic bones
+ZFA:0000262	posterior semicircular canal	posterior semicircular duct
+ZFA:0000262	posterior semicircular canal	posterior semicircular canals
+ZFA:0000262	posterior semicircular canal	caudal vertical semicircular canal
+ZFA:0005684	posteromedial glomerulus	mpG
+ZFA:0000059	postoptic commissure	post-optic commissure
+ZFA:0000059	postoptic commissure	post optic commissure
+ZFA:0000059	postoptic commissure	POC
+ZFA:0005394	post-otic sensory canal	postotic sensory canal
+ZFA:0001571	postovulatory follicle	postovulatory follicles
+ZFA:0000549	posttemporal	post-temporal
+ZFA:0000549	posttemporal	postemporal
+ZFA:0005628	posttemporal fossa	temporal fossa
+ZFA:0001117	post-vent region	tail
+ZFA:0005037	post-vent vasculature	tail vasculature
+ZFA:0001397	post-Weberian supraneural	post-Weberian supraneurals
+ZFA:0000263	precaudal vertebra	abdominal vertebra
+ZFA:0000263	precaudal vertebra	precaudal vertebrae
+ZFA:0000263	precaudal vertebra	trunk vertebra
+ZFA:0009344	precursor B cell	pre-B lymphocyte
+ZFA:0005635	predentine	predentin
+ZFA:0005635	predentine	pre-dentine
+ZFA:0001404	preethmoid bone	pre-ethmoid
+ZFA:0001404	preethmoid bone	preethmoid bones
+ZFA:0000567	premaxilla	premaxillae
+ZFA:0001577	premaxilla ascending process	premaxilla ascending processes
+ZFA:0007090	premigratory cranial neural crest cell	premigratory cranial neural crest cells
+ZFA:0007084	premigratory neural crest cell	premigratory neural crest cells
+ZFA:0007094	premigratory trunk neural crest cell	premigratory trunk neural crest cells
+ZFA:0000264	preopercle	preopercles
+ZFA:0001594	preopercle horizontal limb	preopercle horizontal arm
+ZFA:0001594	preopercle horizontal limb	preopercle ventral arm
+ZFA:0001594	preopercle horizontal limb	preopercle lower limb
+ZFA:0001594	preopercle horizontal limb	preopercle anterior arm
+ZFA:0001595	preopercle vertical limb	preopercle vertical arm
+ZFA:0001595	preopercle vertical limb	preopercle posterior arm
+ZFA:0001595	preopercle vertical limb	preopercle upper limb
+ZFA:0001595	preopercle vertical limb	preopercle dorsal arm
+ZFA:0000470	preoptic area	area preoptica
+ZFA:0000470	preoptic area	area praeoptica
+ZFA:0000470	preoptic area	preoptic region
+ZFA:0005789	preopticohypophyseal tract	preopticohypophyseal axon tract
+ZFA:0007013	preplacodal ectoderm	panplacodal ectoderm
+ZFA:0009274	pressoreceptor cell	pressoreceptor cells
+ZFA:0000146	presumptive brain	brain rudiment
+ZFA:0001376	presumptive ectoderm	presumptive epidermis
+ZFA:0000062	presumptive forebrain	presumptive prosencephalon
+ZFA:0000569	presumptive hindbrain	presumptive rhombencephalon
+ZFA:0005911	presumptive lateral nucleus of ventral telencephalon	M4
+ZFA:0005911	presumptive lateral nucleus of ventral telencephalon	lateral nucleus of area ventralis telencepha
+ZFA:0000148	presumptive midbrain	presumptive mesencephalon
+ZFA:0001187	presumptive midbrain hindbrain boundary	presumptive midbrain-hindbrain boundary
+ZFA:0000063	presumptive neural plate	prospective vegetal ectoderm
+ZFA:0000063	presumptive neural plate	neurectoderm
+ZFA:0000063	presumptive neural plate	presumptive central nervous system
+ZFA:0000063	presumptive neural plate	prospective neuroectoderm
+ZFA:0001071	presumptive neural retina	inner layer optic cup
+ZFA:0001071	presumptive neural retina	presumptive retinas
+ZFA:0000820	presumptive neuron neural tube	presumptive neurons neural tube
+ZFA:0005909	presumptive preglomerular region	preglomerular anlagen
+ZFA:0005909	presumptive preglomerular region	M2
+ZFA:0005909	presumptive preglomerular region	early migrated posterior tubercular region
+ZFA:0005908	presumptive pretectum proliferative zone	M1
+ZFA:0001070	presumptive pronephric mesoderm	nephron primordium
+ZFA:0000064	presumptive retinal pigmented epithelium	outer layer optic cup
+ZFA:0000064	presumptive retinal pigmented epithelium	presumptive pigmented epithelia
+ZFA:0000053	presumptive segmental plate	presumptive segmental plates
+ZFA:0000417	presumptive spinal cord	presumptive spinal cord neural plate
+ZFA:0000417	presumptive spinal cord	presumptive spinal cord neural keel
+ZFA:0000417	presumptive spinal cord	presumptive spinal cord neural rod
+ZFA:0001116	presumptive structure	presumptive structures
+ZFA:0005336	presumptive swim bladder	swim bladder anlage
+ZFA:0005910	presumptive ventral entopeduncular nucleus	M3
+ZFA:0000601	pretectal periventricular nucleus	periventricular pretectum
+ZFA:0000601	pretectal periventricular nucleus	pretectal periventricular nuclei
+ZFA:0000266	pretecto-mammillary tract	pretecto-mamillary tract
+ZFA:0000266	pretecto-mammillary tract	pretectomamillary tract
+ZFA:0000266	pretecto-mammillary tract	TPp
+ZFA:0000266	pretecto-mammillary tract	pretecto mammillary tract
+ZFA:0000557	preural 1 vertebra	preural centrum 1
+ZFA:0000557	preural 1 vertebra	penultimate vertebra
+ZFA:0000557	preural 1 vertebra	second last vertebra
+ZFA:0000557	preural 1 vertebra	pu1
+ZFA:0000586	preural 2 vertebra	preural centrum 2
+ZFA:0000586	preural 2 vertebra	third last vertebra
+ZFA:0000586	preural 2 vertebra	antepenultimate vertebra
+ZFA:0000586	preural 2 vertebra	pu2
+ZFA:0001583	preural centrum 1+ ural centrum 1	urostyle
+ZFA:0000734	preural vertebra	caudal fin vertebra
+ZFA:0000734	preural vertebra	specialized centra/vertebrae
+ZFA:0000308	prevomer	vomer
+ZFA:0005135	primary dental epithelium	tooth epithelium
+ZFA:0005135	primary dental epithelium	pharyngeal tooth epithelium
+ZFA:0001122	primary germ layer	embryonic germ layers
+ZFA:0005026	primary head sinus	PHS
+ZFA:0005026	primary head sinus	lateral head vein
+ZFA:0005754	primary islet	principal islet
+ZFA:0009244	primary motor neuron	primary motoneuron
+ZFA:0000821	primary neuron hindbrain	primary neurons hindbrain
+ZFA:0000267	primary olfactory fiber layer	olfactory nerve layer
+ZFA:0000267	primary olfactory fiber layer	stratum nervosum bulbi olfactorii
+ZFA:0005115	primary posterior lateral line primordium	primary posterior lateral line primordia
+ZFA:0005115	primary posterior lateral line primordium	primI
+ZFA:0001053	primitive internal carotid artery	PICA
+ZFA:0001355	primitive meninx	meninx primitiva
+ZFA:0001355	primitive meninx	meninges
+ZFA:0001062	primitive mesencephalic artery	PMsA
+ZFA:0005048	primitive prosencephalic artery	PPrA
+ZFA:0009288	primordial germ cell	PGC
+ZFA:0001052	primordial hindbrain channel	medial head vein
+ZFA:0001052	primordial hindbrain channel	PHBC
+ZFA:0005264	primordial ligament	articular-maxillary ligament
+ZFA:0005264	primordial ligament	maxillo-mandibular ligament
+ZFA:0005264	primordial ligament	ligamentum primordiale
+ZFA:0005017	primordial midbrain channel	PMBC
+ZFA:0009349	pro-B cell	progenitor B cell
+ZFA:0009349	pro-B cell	pro-B-lymphocyte
+ZFA:0009349	pro-B cell	pro-B-cell
+ZFA:0009349	pro-B cell	pro-B lymphocyte
+ZFA:0000066	proctodeum	anus
+ZFA:0005808	proepicardial cluster	proepicardium
+ZFA:0005808	proepicardial cluster	proepicardial organ
+ZFA:0009088	professional antigen presenting cell	APC
+ZFA:0009109	progesterone secreting cell	progesterone secreting cells
+ZFA:0009204	prolactin secreting cell	mammotroph
+ZFA:0009204	prolactin secreting cell	mammotropic cell
+ZFA:0009204	prolactin secreting cell	mammotrophic cell
+ZFA:0009204	prolactin secreting cell	mammotrope
+ZFA:0009204	prolactin secreting cell	lactotropic cell
+ZFA:0009204	prolactin secreting cell	lactotroph
+ZFA:0009204	prolactin secreting cell	lactotrope
+ZFA:0009204	prolactin secreting cell	epsilon-acidophil
+ZFA:0000098	proliferative region	cell division
+ZFA:0000098	proliferative region	proliferation
+ZFA:0000098	proliferative region	cell cycle
+ZFA:0009253	promonocyte	promonocytes
+ZFA:0005312	pronephric capsular space	Bowman's space
+ZFA:0005312	pronephric capsular space	urinary space
+ZFA:0005312	pronephric capsular space	inter-glomerular space
+ZFA:0001622	pronephric distal early tubule	pronephric distal early tubules
+ZFA:0001624	pronephric distal late tubule	distal late tubules
+ZFA:0000150	pronephric duct	pronephric ducts
+ZFA:0001055	pronephric duct opening	pronephric duct openings
+ZFA:0001055	pronephric duct opening	urogenital opening
+ZFA:0005313	pronephric glomerular basement membrane	pronephric glomerular filtration membrane
+ZFA:0005310	pronephric glomerular capsule	Bowman's capsule
+ZFA:0005311	pronephric glomerular capsule epithelium	pronephric parietal epithelial layer
+ZFA:0001557	pronephric glomerulus	pronephric glomera
+ZFA:0001557	pronephric glomerulus	pronephric glomeruli
+ZFA:0001557	pronephric glomerulus	pronephric glomus
+ZFA:0000067	pronephric mesoderm	pronephric primordium
+ZFA:0001620	pronephric proximal convoluted tubule	PCT
+ZFA:0001621	pronephric proximal straight tubule	proximal straight tubules
+ZFA:0001558	pronephric tubule	ciliated neck segment
+ZFA:0000151	pronephros	pronephric nephron
+ZFA:0000151	pronephros	embryonic kidney
+ZFA:0000068	proneural cluster	proneural clusters
+ZFA:0009348	pro-NK cell	null cell
+ZFA:0009348	pro-NK cell	pro-natural killer cell
+ZFA:0009348	pro-NK cell	preNK cell
+ZFA:0009348	pro-NK cell	NKP
+ZFA:0009348	pro-NK cell	natural killer cell progenitor
+ZFA:0000575	prootic	prootics
+ZFA:0005455	prootic foramen	anterior trigemino-facialis foramen of Howes
+ZFA:0005455	prootic foramen	trigeminal notch of Harrington
+ZFA:0001589	propterygium	propterygia
+ZFA:0005049	prosencephalic artery	PrA
+ZFA:0009350	pro-T cell	TN1 cell
+ZFA:0009350	pro-T cell	DN1 thymocyte
+ZFA:0009350	pro-T cell	DN1 cell
+ZFA:0009350	pro-T cell	pro-T lymphocyte
+ZFA:0005227	protoneuromast	immature neuromast
+ZFA:0005227	protoneuromast	proto neuromast
+ZFA:0005227	protoneuromast	proto-neuromast
+ZFA:0000612	protractor hyoidei	protractors hyoidei
+ZFA:0000612	protractor hyoidei	protractor hyoideus
+ZFA:0005581	proximal pars anterior	proximal pars distalis
+ZFA:0005011	pseudobranchial artery	pseudobranchial arteries
+ZFA:0009057	pseudounipolar neuron	pseudounipolar neurons
+ZFA:0000419	pterosphenoid	pterosphenoids
+ZFA:0000576	pterotic	autopterotic
+ZFA:0005902	pterygoid process	Ptp
+ZFA:0001283	pupil	pupils
+ZFA:0009071	Purkinje cell	Purkinje cells
+ZFA:0009273	pyramidal cell	pyramidal cells
+ZFA:0000621	quadrate	quadrates
+ZFA:0005484	quadrate-anguloarticular joint	jaw joint
+ZFA:0001593	quadrate ventral process	quadrate ventral processes
+ZFA:0000271	radial	radials
+ZFA:0009292	radial glial cell	radial glial cells
+ZFA:0001429	raphe nucleus	median raphe nucleus
+ZFA:0005099	ray vein	ray veins
+ZFA:0009001	receptor cell (sensu Animalia)	receptor cells (sensu Animalia)
+ZFA:0005014	recurrent branch afferent branchial artery	recurrent branch afferent branchial arteries
+ZFA:0005014	recurrent branch afferent branchial artery	RCB
+ZFA:0009224	red sensitive photoreceptor cell	red sensitive photoreceptor cells
+ZFA:0001269	regenerating fin	regenerating fins
+ZFA:0005147	regenerating tissue	regenerating tissues
+ZFA:0001389	regeneration epithelium	epidermal cap
+ZFA:0001389	regeneration epithelium	wound epidermis
+ZFA:0001389	regeneration epithelium	wound epithelium
+ZFA:0005246	regeneration fibroblast	blastemal fibroblasts
+ZFA:0005246	regeneration fibroblast	blastemal fibroblast
+ZFA:0000420	renal artery	renal arteries
+ZFA:0005283	renal capsular space	Bowman's space
+ZFA:0005283	renal capsular space	urinary space
+ZFA:0005283	renal capsular space	inter-glomerular space
+ZFA:0005281	renal corpuscle	Malpighian corpuscle
+ZFA:0005254	renal glomerular capsule	Bowman's capsule
+ZFA:0005253	renal glomerular capsule epithelium	parietal epithelial layer
+ZFA:0001288	renal glomerulus	renal glomeruli
+ZFA:0001288	renal glomerulus	glomerular capillary tuft
+ZFA:0009375	renal intercalated cell	intercalated cell
+ZFA:0000577	renal portal vein	renal portal veins
+ZFA:0000163	renal system	urinary system
+ZFA:0001287	renal tubule	mesonephric tubule
+ZFA:0001287	renal tubule	renal tubules
+ZFA:0005586	renal vesicle	stage I nephron
+ZFA:0001628	replacement bone	replacement bones
+ZFA:0009200	reticular cell	reticular cells
+ZFA:0009252	reticulocyte	reticulocytes
+ZFA:0000152	retina	retinas
+ZFA:0009262	retinal cone cell	retinal cone cells
+ZFA:0009310	retinal ganglion cell	gangliocyte
+ZFA:0009310	retinal ganglion cell	RGC
+ZFA:0000024	retinal ganglion cell layer	ganglion cell layer
+ZFA:0000119	retinal inner nuclear layer	inner nuclear layer
+ZFA:0000119	retinal inner nuclear layer	intermediate cell layer
+ZFA:0001329	retinal inner plexiform layer	inner plexiform layer
+ZFA:0000046	retinal neural layer	neural retina
+ZFA:0000046	retinal neural layer	neuroretina
+ZFA:0001464	retinal outer nuclear layer	retinal outer nuclear layers
+ZFA:0001330	retinal outer plexiform layer	retinal outer plexiform layers
+ZFA:0000143	retinal photoreceptor layer	retinal photoreceptor layers
+ZFA:0000144	retinal pigmented epithelium	PRE
+ZFA:0000144	retinal pigmented epithelium	RPE
+ZFA:0000144	retinal pigmented epithelium	pigmented epithelium
+ZFA:0000144	retinal pigmented epithelium	pigmented retina
+ZFA:0000144	retinal pigmented epithelium	pigmented retinal epithelium
+ZFA:0009275	retinal rod cell	retinal rod cells
+ZFA:0000422	retroarticular	retroarticulars
+ZFA:0005804	rhombencephalic efferent neurons to the lateral line	RELL neuron
+ZFA:0005805	rhombencephalic octavolateral efferent neuron	ROLE neuron
+ZFA:0001064	rhombomere	hindbrain segment
+ZFA:0001064	rhombomere	neuromere
+ZFA:0001064	rhombomere	rhombomeres
+ZFA:0001031	rhombomere 1	r1
+ZFA:0000822	rhombomere 2	r2
+ZFA:0000948	rhombomere 3	r3
+ZFA:0001032	rhombomere 4	r4
+ZFA:0000823	rhombomere 5	r5
+ZFA:0000069	rhombomere 6	r6
+ZFA:0000949	rhombomere 7	r7
+ZFA:0000153	rhombomere 8	r8
+ZFA:0000538	rib	pleural rib
+ZFA:0000538	rib	dorsal rib
+ZFA:0005173	right liver lobe	2nd lobe
+ZFA:0005173	right liver lobe	gall bladder lobe
+ZFA:0005173	right liver lobe	second lobe
+ZFA:0009321	rod bipolar cell	rod bipolar cells
+ZFA:0009150	Rohon-Beard neuron	RB neuron
+ZFA:0009150	Rohon-Beard neuron	Rohon-Beard cell
+ZFA:0009150	Rohon-Beard neuron	Rohon-Beard neurons
+ZFA:0005192	RoI2C	rostral intermediate 2 caudal interneuron
+ZFA:0005193	RoI2R	rostral intermediate 2 rostral interneuron
+ZFA:0005194	RoL1	rostral lateral 1 interneuron
+ZFA:0005198	RoL2	rostral lateral 2 interneuron
+ZFA:0005200	RoL2c	rostral lateral 2 caudal interneuron
+ZFA:0005199	RoL2r	rostral lateral 2 rostral interneuron
+ZFA:0005201	RoL3	rostral lateral 3 interneuron
+ZFA:0005202	RoM1c	rostral medial 1 caudal interneuron
+ZFA:0005203	RoM1r	rostral medial 1 rostral interneuron
+ZFA:0005205	RoM2l	rostral medial 2 lateral interneuron
+ZFA:0005206	RoM2m	rostral medial 2 medial interneuron
+ZFA:0005207	RoM3l	rostral medial 3 lateral interneuron
+ZFA:0005208	RoM3m	rostral medial 3 medial interneuron
+ZFA:0001311	roof plate rhombomere region	roof plate hindbrain
+ZFA:0005180	RoP motor neuron	rostral primary motoneuron
+ZFA:0005029	rostral blood island	RBI
+ZFA:0005029	rostral blood island	anterior myeloid compartment
+ZFA:0000643	rostral cerebellar tract	tractus cerebellaris anterior
+ZFA:0000643	rostral cerebellar tract	anterior cerebellar tract
+ZFA:0000579	rostral mesencephalo-cerebellar tract	anterior mesencephalo-cerebellar tract
+ZFA:0001698	rostral octaval nerve motor nucleus	rostral efferent nuclei
+ZFA:0001698	rostral octaval nerve motor nucleus	rostral cranial nerve VIII motor nucleus
+ZFA:0001698	rostral octaval nerve motor nucleus	ROLE
+ZFA:0001698	rostral octaval nerve motor nucleus	REN
+ZFA:0000274	rostral octaval nucleus	anterior octaval nucleus
+ZFA:0000274	rostral octaval nucleus	nucleus octavus anterior
+ZFA:0005580	rostral pars anterior	rostral pars distalis
+ZFA:0000426	rostral parvocellular preoptic nucleus	anterior parvocellular preoptic nucleus
+ZFA:0000426	rostral parvocellular preoptic nucleus	rostral parvocellular preoptic nuclei
+ZFA:0000580	rostral preglomerular nucleus	anterior preglomerular nucleus
+ZFA:0000580	rostral preglomerular nucleus	nucleus praeglomerulosus anterior
+ZFA:0000427	rostral thalamic nucleus	anterior thalamic nucleus
+ZFA:0000427	rostral thalamic nucleus	nucleus anterior thalami
+ZFA:0000581	rostral tuberal nucleus	nucleus tuberis anterior
+ZFA:0000581	rostral tuberal nucleus	anterior tuberal nucleus
+ZFA:0005204	RoV3	rostral ventral 3 interneuron
+ZFA:0000428	saccule	sacculus
+ZFA:0000676	sagitta	sacculith
+ZFA:0000676	sagitta	immature posterior otolith
+ZFA:0000676	sagitta	saccular otolith
+ZFA:0000277	scale	scales
+ZFA:0001704	scale primordium	scale primordia
+ZFA:0001704	scale primordium	scale placode
+ZFA:0005900	scale radius	scale radii
+ZFA:0000583	scapula	scapulae
+ZFA:0001455	scapulocoracoid	scapulo-coracoid cartilage
+ZFA:0001455	scapulocoracoid	coraco-scapular cartilage
+ZFA:0005638	scapulo-vertebral ligament	Baudelot's ligaments
+ZFA:0005638	scapulo-vertebral ligament	scapulo-vertebral ligaments
+ZFA:0009174	scleral cell	scleral cells
+ZFA:0001411	sclerotic bone	sclerotic bones
+ZFA:0001411	sclerotic bone	scleral ossicle
+ZFA:0001509	sclerotic cartilage	sclerotic cartilages
+ZFA:0001509	sclerotic cartilage	scleral cartilage
+ZFA:0001080	sclerotome	sclerotomes
+ZFA:0000399	secondary gustatory nucleus trigeminal nucleus	secondary gustatory nucleus trigeminal nuclei
+ZFA:0009247	secondary motor neuron	secondary motoneuron
+ZFA:0009246	secondary neuron	secondary neurons
+ZFA:0005116	secondary posterior lateral line primordium	secondary posterior lateral line primordia
+ZFA:0000677	segmental intercostal artery	segmental intercostal arteries
+ZFA:0000279	segmental plate	presomitic mesoderm
+ZFA:0000279	segmental plate	PSM
+ZFA:0000431	semicircular canal	semicircular canals
+ZFA:0000431	semicircular canal	semicircular duct
+ZFA:0000431	semicircular canal	scc
+ZFA:0009160	seminal fluid secreting cell	seminal fluid secreting cells
+ZFA:0005879	seminiferous tubule	sperm duct
+ZFA:0005879	seminiferous tubule	seminiferous tubules
+ZFA:0009050	sensory epithelial cell	sensory epithelial cells
+ZFA:0009185	sensory processing neuron	sensory processing neurons
+ZFA:0000679	sensory root of facial nerve	sensory roots of facial nerves
+ZFA:0000282	sensory system	sensory systems
+ZFA:0000433	sensory trigeminal nucleus	sensory trigeminal nuclei
+ZFA:0000433	sensory trigeminal nucleus	NVs
+ZFA:0009361	serotonergic neuron	5-hydroxytryptamine neuron
+ZFA:0009361	serotonergic neuron	5-HT neuron
+ZFA:0009361	serotonergic neuron	serotinergic neurons
+ZFA:0009361	serotonergic neuron	serotinergic neuron
+ZFA:0009213	serotonin secreting cell	serotin secreting cells
+ZFA:0009133	Sertoli cell	Sertoli cells
+ZFA:0000071	shield	Spemann's organizer
+ZFA:0000071	shield	dorsal organizer
+ZFA:0000071	shield	organizer
+ZFA:0000071	shield	Spemann Mangold organizer
+ZFA:0009089	simple columnar epithelial cell	simple columnar epithelial cells
+ZFA:0001496	simple columnar epithelium	simple columnar epithelia
+ZFA:0001497	simple cuboidal epithelium	simple cuboidal epithelia
+ZFA:0001492	simple organ	simple organs
+ZFA:0001498	simple squamous epithelium	simple squamous epithelia
+ZFA:0005243	single ciliated epithelial cell	single-ciliated epithelial cell
+ZFA:0009013	single fate stem cell	single fate stem cells
+ZFA:0000680	sinoatrial valve	sinoatrial valves
+ZFA:0000154	sinus venosus	inflow tract
+ZFA:0009115	skeletal muscle cell	skeletal muscle fiber
+ZFA:0009115	skeletal muscle cell	striated muscle cell
+ZFA:0009236	skeletal muscle myoblast	skeletal muscle myoblasts
+ZFA:0009272	skeletal muscle satellite cell	skeletal muscle satellite cells
+ZFA:0009116	slow muscle cell	slow muscle fiber
+ZFA:0009116	slow muscle cell	red muscle cell
+ZFA:0000963	slow muscle cell somite 1	slow muscle cells somite 1
+ZFA:0001047	slow muscle cell somite 10	slow muscle cells somite 10
+ZFA:0000840	slow muscle cell somite 11	slow muscle cells somite 11
+ZFA:0000964	slow muscle cell somite 12	slow muscle cells somite 12
+ZFA:0001048	slow muscle cell somite 13	slow muscle cells somite 13
+ZFA:0000841	slow muscle cell somite 14	slow muscle cells somite 14
+ZFA:0000965	slow muscle cell somite 15	slow muscle cells somite 15
+ZFA:0001049	slow muscle cell somite 16	slow muscle cells somite 16
+ZFA:0000842	slow muscle cell somite 17	slow muscle cells somite 17
+ZFA:0000966	slow muscle cell somite 18	slow muscle cells somite 18
+ZFA:0001050	slow muscle cell somite 19	slow muscle cells somite 19
+ZFA:0000843	slow muscle cell somite 2	slow muscle cells somite 2
+ZFA:0000967	slow muscle cell somite 20	slow muscle cells somite 20
+ZFA:0000719	slow muscle cell somite 21	slow muscle cells somite 21
+ZFA:0000844	slow muscle cell somite 22	slow muscle cells somite 22
+ZFA:0000969	slow muscle cell somite 23	slow muscle cells somite 23
+ZFA:0000720	slow muscle cell somite 24	slow muscle cells somite 24
+ZFA:0000845	slow muscle cell somite 25	slow muscle cells somite 25
+ZFA:0000970	slow muscle cell somite 26	slow muscle cells somite 26
+ZFA:0000721	slow muscle cell somite 27	slow muscle cells somite 27
+ZFA:0000846	slow muscle cell somite 28	slow muscle cells somite 28
+ZFA:0000971	slow muscle cell somite 29	slow muscle cells somite 29
+ZFA:0000722	slow muscle cell somite 3	slow muscle cells somite 3
+ZFA:0000847	slow muscle cell somite 30	slow muscle cells somite 30
+ZFA:0000972	slow muscle cell somite 4	slow muscle cells somite 4
+ZFA:0000723	slow muscle cell somite 5	slow muscle cells somite 5
+ZFA:0000848	slow muscle cell somite 6	slow muscle cells somite 6
+ZFA:0000973	slow muscle cell somite 7	slow muscle cells somite 7
+ZFA:0000724	slow muscle cell somite 8	slow muscle cells somite 8
+ZFA:0000850	slow muscle cell somite 9	slow muscle cells somite 9
+ZFA:0009368	slow muscle myoblast	slow muscle myoblasts
+ZFA:0009118	smooth muscle cell	non-striated muscle cell
+ZFA:0009235	smooth muscle myoblast	satellite cell
+ZFA:0001491	solid compound organ	solid compound organs
+ZFA:0001679	solid lens vesicle	lens vesicle
+ZFA:0001679	solid lens vesicle	immature lens
+ZFA:0001679	solid lens vesicle	lens mass
+ZFA:0001679	solid lens vesicle	presumptive lens
+ZFA:0009307	somatic stem cell	somatic stem cells
+ZFA:0009105	somatostatin secreting cell	somatostatin secreting cells
+ZFA:0009155	somatotropin secreting cell	growth hormone secreting cell
+ZFA:0009155	somatotropin secreting cell	somatotrope
+ZFA:0009155	somatotropin secreting cell	somatotropic cell
+ZFA:0009155	somatotropin secreting cell	somatrophic cell
+ZFA:0009155	somatotropin secreting cell	somatotroph
+ZFA:0009155	somatotropin secreting cell	somatotrophin secreting cell
+ZFA:0000155	somite	somitic mesoderm
+ZFA:0001462	somite border	somite border cell
+ZFA:0001462	somite border	somite boundary
+ZFA:0000859	specialized hemal arch and spine	hemal arch (preural)
+ZFA:0000859	specialized hemal arch and spine	specialized haemal arch and spine
+ZFA:0000859	specialized hemal arch and spine	specialized hemal arches and spines
+ZFA:0000859	specialized hemal arch and spine	ha(pu)
+ZFA:0009006	sperm	spermatozoon
+ZFA:0009006	sperm	spermatozoid
+ZFA:0009006	sperm	sperm cell
+ZFA:0009005	spermatocyte	spermatocytes
+ZFA:0009007	spermatogonium	spermatogonia
+ZFA:0001268	sperm duct	sperm ducts
+ZFA:0001268	sperm duct	efferent tubule
+ZFA:0001268	sperm duct	efferent duct
+ZFA:0000587	sphenotic	autosphenotic
+ZFA:0009311	spinal accessory motor neuron	SACMN
+ZFA:0000682	spinal artery	spinal arteries
+ZFA:0000075	spinal cord	medulla spinalis
+ZFA:0000075	spinal cord	spinal cord structure
+ZFA:0000778	spinal cord interneuron	interneurons spinal cord
+ZFA:0001332	spinal neuromere	spinal neuromeres
+ZFA:0001332	spinal neuromere	spinal cord segment
+ZFA:0005795	spinous layer of breeding tubercle	spinous keratinocyte layer
+ZFA:0001216	splanchnocranium	pharyngeal skeleton
+ZFA:0001216	splanchnocranium	pharyngeal arch skeleton
+ZFA:0009039	squamous epithelial cell	squamous epithelial cells
+ZFA:0005589	s-shaped body	stage II nephron
+ZFA:0000588	statoacoustic (VIII) ganglion	statoacoustic ganglia
+ZFA:0000588	statoacoustic (VIII) ganglion	octaval ganglion
+ZFA:0000588	statoacoustic (VIII) ganglion	auditory ganglion
+ZFA:0000588	statoacoustic (VIII) ganglion	gVIII
+ZFA:0000588	statoacoustic (VIII) ganglion	sag
+ZFA:0001638	statoacoustic (VIII) nucleus	vestibulocochlear nucleus
+ZFA:0001638	statoacoustic (VIII) nucleus	octaval nucleus
+ZFA:0001638	statoacoustic (VIII) nucleus	cochlear nucleus
+ZFA:0009072	stellate cell	stellate cells
+ZFA:0009297	stellate interneuron	stellate interneurons
+ZFA:0001651	sternohyoid	hypobranchial muscle
+ZFA:0001651	sternohyoid	sternohyoideus
+ZFA:0001651	sternohyoid	sternohyoids
+ZFA:0000283	sternohyoid	sternohyoids
+ZFA:0009106	steroid hormone secreting cell	steroid hormone secreting cells
+ZFA:0001290	stomodeum	oral ectoderm
+ZFA:0009145	stratified cuboidal epithelial cell	stratified cuboidal epithelial cells
+ZFA:0009042	stratified epithelial cell	stratified epithelial cells
+ZFA:0009180	stratified epithelial stem cell	stratified epithelial stem cells
+ZFA:0009371	stratified keratinized epithelial stem cell	stratified keratinized epithelial stem cells
+ZFA:0009144	stratified squamous epithelial cell	stratified squamous epithelial cells
+ZFA:0001351	stratum album centrale	strata album centrales
+ZFA:0001347	stratum fibrosum et griseum superficiale	strata fibrosum et griseum superficiales
+ZFA:0001347	stratum fibrosum et griseum superficiale	SFGS
+ZFA:0001348	stratum marginale	strata marginale
+ZFA:0001348	stratum marginale	stratum fibrosum marginale
+ZFA:0001349	stratum opticum	strata opticum
+ZFA:0001352	stratum periventriculare	strata periventriculare
+ZFA:0001352	stratum periventriculare	SVP
+ZFA:0009370	stretch receptor cell	stretch receptor cells
+ZFA:0009226	stromal cell	stromal cells
+ZFA:0000683	subcommissural organ	SCO
+ZFA:0005035	subintestinal vein	SIV
+ZFA:0005035	subintestinal vein	vitelline vein
+ZFA:0000284	subopercle	subopercles
+ZFA:0009230	substance P secreting cell	substance P secreting cells
+ZFA:0000685	superficial abductor	superficial abductors
+ZFA:0000685	superficial abductor	abductor superficialis
+ZFA:0000285	superficial adductor	adductor superficialis
+ZFA:0000285	superficial adductor	superficial adductors
+ZFA:0001484	superficial blastomere	superficial blastomeres
+ZFA:0000686	superficial grey and white zone	superficial grey and white zones
+ZFA:0000686	superficial grey and white zone	superficial gray and white zone
+ZFA:0000286	superficial lateralis	lateral superficial muscle
+ZFA:0000286	superficial lateralis	lateralis superficialis
+ZFA:0000439	superficial pelvic abductor	abductor superficialis pelvicus
+ZFA:0000439	superficial pelvic abductor	superficial pelvic abductors
+ZFA:0000592	superficial pelvic adductor	superficial pelvic adductors
+ZFA:0000592	superficial pelvic adductor	adductor superficialis pelvicus
+ZFA:0000287	superior caudal dorsal flexor	superior dorsal flexor
+ZFA:0000287	superior caudal dorsal flexor	CDS
+ZFA:0000287	superior caudal dorsal flexor	flexor caudalis dorsalis superioris
+ZFA:0000455	superior caudal ventral flexor	CVS
+ZFA:0000455	superior caudal ventral flexor	flexor caudalis ventralis superioris
+ZFA:0000455	superior caudal ventral flexor	ventral flexor
+ZFA:0001572	superior cervical ganglion	SCG
+ZFA:0001572	superior cervical ganglion	superior sympathetic cervical ganglion
+ZFA:0005901	superior ocular sulcus	dorsal ocular sulcus
+ZFA:0000440	superior raphe nucleus	dorsal raphe nucleus
+ZFA:0000440	superior raphe nucleus	anterior raphe nucleus
+ZFA:0000594	supracleithrum	supracleithra
+ZFA:0005639	supracleithrum-vertebral ligament	Baudelot's ligament
+ZFA:0000689	supracommissural nucleus of ventral telencephalon	supracommissural nucleus of V
+ZFA:0000689	supracommissural nucleus of ventral telencephalon	area ventralis telencephali, nucleus supracommissuralis
+ZFA:0001335	supradorsal	supradorsals
+ZFA:0001403	supraethmoid	supra-ethmoid
+ZFA:0005036	supraintestinal artery	SIA
+ZFA:0005747	supraintestinal lymphatic vessel	SIL
+ZFA:0005038	supraintestinal vein	<new synonym>
+ZFA:0005038	supraintestinal vein	supraintestinal veins
+ZFA:0000442	supraneural	sn
+ZFA:0001191	supraneural 2	sn2
+ZFA:0001191	supraneural 2	small supraneural
+ZFA:0001192	supraneural 3	sn3
+ZFA:0001192	supraneural 3	large supraneural
+ZFA:0001165	supraneural 5	sn5
+ZFA:0001164	supraneural 6	sn6
+ZFA:0005609	supraoccipital-parietal joint	lamdoid suture
+ZFA:0001657	supraoptic tract	SOT
+ZFA:0000691	supraorbital bone	supraorbital bones
+ZFA:0000443	supraorbital lateral line	supraorbital line
+ZFA:0000443	supraorbital lateral line	supraorbital lateral lines
+ZFA:0001026	supraorbital lateral line neuromast	neuromast supraorbital
+ZFA:0001026	supraorbital lateral line neuromast	neuromasts supraorbital
+ZFA:0000292	surface structure	surface structures
+ZFA:0000444	suspensorium	hyopalatine
+ZFA:0000444	suspensorium	suspensoria
+ZFA:0009302	sustentacular cell	sustentacular cells
+ZFA:0000076	swim bladder	gas bladder
+ZFA:0005089	swim bladder artery	SBA
+ZFA:0001556	sympathetic chain ganglion	paravertebral ganglion
+ZFA:0000692	symplectic	symplectics
+ZFA:0009131	synovial cell	synovial cells
+ZFA:0005153	synovial joint	diarthrodial joints
+ZFA:0005153	synovial joint	diarthroses
+ZFA:0001505	taenia marginalis anterior	orbital cartilage
+ZFA:0001505	taenia marginalis anterior	taeniae marginales anterior
+ZFA:0001515	taenia marginalis posterior	taeniae marginales posterior
+ZFA:0001515	taenia marginalis posterior	orbital cartilage
+ZFA:0000077	tail bud	tailbud
+ZFA:0000077	tail bud	tail bud mesenchyme
+ZFA:0005916	tapetum lucidum	tapetum cellulosum
+ZFA:0001074	taste bud	taste buds
+ZFA:0009126	taste receptor cell	taste receptor cells
+ZFA:0009046	T cell	immature T lymphocyte
+ZFA:0009046	T cell	T-cell
+ZFA:0009046	T cell	immature T-cell
+ZFA:0009046	T cell	immature T cell
+ZFA:0009046	T cell	T lymphocyte
+ZFA:0009046	T cell	mature T-lymphocyte
+ZFA:0009046	T cell	T-lymphocyte
+ZFA:0009046	T cell	mature T-cell
+ZFA:0009046	T cell	mature T lymphocyte
+ZFA:0009046	T cell	mature T cell
+ZFA:0009046	T cell	immature T-lymphocyte
+ZFA:0005907	tectal neuropile	synaptic neuropil
+ZFA:0005907	tectal neuropile	tectial lamina
+ZFA:0000159	tectal ventricle	cerebral aqueduct
+ZFA:0000159	tectal ventricle	mesencephalic vesicle
+ZFA:0000159	tectal ventricle	mesencephalic ventricle
+ZFA:0000159	tectal ventricle	medial tectal ventricle
+ZFA:0000159	tectal ventricle	ventriculus mesencephali
+ZFA:0000159	tectal ventricle	midbrain ventricle
+ZFA:0000160	tegmentum	mesencephalic tegmentum
+ZFA:0000160	tegmentum	midbrain tegmentum
+ZFA:0000447	tela chorioidea	tela choroidea
+ZFA:0005158	tela chorioidea fourth ventricle	tela choroidea fourth ventricle
+ZFA:0005157	tela chorioidea tectal ventricle	tela choroidea tectal ventricle
+ZFA:0005160	tela chorioidea telencephalic ventricle	tela choroidea telencephalic ventricle
+ZFA:0005159	tela chorioidea third ventricle	tela choroidea third ventricle
+ZFA:0000696	telencephalic ventricle	ventriculi telencephali
+ZFA:0000696	telencephalic ventricle	lateral ventricle
+ZFA:0000696	telencephalic ventricle	telencephalic vesicle
+ZFA:0000597	telencephalic white matter	telencephalic tract/commissure
+ZFA:0009189	tendon cell	muscle attachment cell
+ZFA:0001356	terminal nerve	nervus terminalis
+ZFA:0009298	terminal Schwann cell	terminal Schwann cells
+ZFA:0000598	testis	testes
+ZFA:0009107	testosterone secreting cell	testosterone secreting cells
+ZFA:0007010	thalamic eminence	eminentia thalami
+ZFA:0001215	thalamus	thalami
+ZFA:0009229	theca cell	theca cells
+ZFA:0001113	thecal cell layer	thecal cell layers
+ZFA:0009123	thermoreceptor cell	thermoreceptor cells
+ZFA:0000161	third ventricle	diencephalic vesicle
+ZFA:0000161	third ventricle	diencephalic ventricle
+ZFA:0000161	third ventricle	ventriculus diencephali
+ZFA:0000161	third ventricle	3rd ventricle
+ZFA:0009351	thromboblast	thromboblasts
+ZFA:0009323	thrombocyte	thrombocytes
+ZFA:0001077	thymus primordium	thymic rudiment
+ZFA:0001072	thyroid follicle	thyroid follicles
+ZFA:0009210	thyroid hormone secreting cell	thyroid hormone secreting cells
+ZFA:0001081	thyroid primordium	thyroid primordia
+ZFA:0009218	thyroid stimulating hormone secreting cell	beta-basophil
+ZFA:0009218	thyroid stimulating hormone secreting cell	thyrotrope
+ZFA:0009218	thyroid stimulating hormone secreting cell	thyrotroph
+ZFA:0005815	T interneuron	t-interneuron
+ZFA:0005815	T interneuron	T shaped reticular neuron
+ZFA:0005815	T interneuron	T-interneuron
+ZFA:0005815	T interneuron	cranial relay neuron
+ZFA:0001153	tooth placode	dental primordium
+ZFA:0001153	tooth placode	tooth germ
+ZFA:0001642	tooth row	tooth rows
+ZFA:0000294	torus lateralis	lateral torus
+ZFA:0000449	torus longitudinalis	tori longitudinalis
+ZFA:0000449	torus longitudinalis	longitudinal torus
+ZFA:0000599	torus semicircularis	semicircular torus
+ZFA:0009024	totipotent stem cell	totipotent stem cells
+ZFA:0001508	trabecula communis	trabecular bar
+ZFA:0001507	trabecula cranii	trabeculae cranii
+ZFA:0005059	trabecular layer	trabecula
+ZFA:0005452	tract of the caudal commissure	TPC
+ZFA:0005452	tract of the caudal commissure	tract of the posterior commissure
+ZFA:0005875	tract of the commissure of the caudal tuberculum	tract of the commissure of the posterior tuberculum
+ZFA:0005875	tract of the commissure of the caudal tuberculum	TCPT
+ZFA:0001366	tract of the postoptic commissure	TPOC
+ZFA:0005248	trans-choroid plexus branch	TCB
+ZFA:0009148	transitional epithelial cell	transitional epithelial cells
+ZFA:0009345	transitional stage B cell	transitional stage B lymphocyte
+ZFA:0009345	transitional stage B cell	T3 B cell
+ZFA:0009345	transitional stage B cell	T1 B cell
+ZFA:0009345	transitional stage B cell	transitional stage B-cell
+ZFA:0009345	transitional stage B cell	transitional stage B-lymphocyte
+ZFA:0009345	transitional stage B cell	T2 B cell
+ZFA:0005895	trigeminal-facial chamber	trigeminofacialis chamber
+ZFA:0000295	trigeminal ganglion	fifth ganglion
+ZFA:0000295	trigeminal ganglion	5th ganglion
+ZFA:0000295	trigeminal ganglion	gV
+ZFA:0000295	trigeminal ganglion	trigeminal ganglia
+ZFA:0001365	trigeminal motor nucleus	motor nucleus V
+ZFA:0001365	trigeminal motor nucleus	nV
+ZFA:0000162	trigeminal placode	trigeminal placodes
+ZFA:0000450	trochlear motor nucleus	motor nucleus IV
+ZFA:0000450	trochlear motor nucleus	nIV
+ZFA:0001573	trunk ganglion	trunk ganglia
+ZFA:0000473	trunk musculature	body musculature
+ZFA:0009004	trunk neural crest cell	trunk neural crest cells
+ZFA:0005235	UCoD	unipolar commissural descending interneuron
+ZFA:0001448	ultimobranchial body	ultimobranchial bodies
+ZFA:0001570	unfertilized egg	activated oocyte
+ZFA:0001495	unilaminar epithelium	unilaminar epithelia
+ZFA:0009058	unipolar neuron	unipolar neurons
+ZFA:0005847	upper left intestinal lymph vessel	UL-IL
+ZFA:0000451	upper oral valve	maxillary valve
+ZFA:0000451	upper oral valve	upper semilunar valve
+ZFA:0000451	upper oral valve	upper internal lip
+ZFA:0000451	upper oral valve	buccal valve
+ZFA:0000451	upper oral valve	breathing valve
+ZFA:0005841	upper right intestinal lymph vessel	UR-IL
+ZFA:0001118	urogenital papilla	urogenital papillae
+ZFA:0001118	urogenital papilla	genital papilla
+ZFA:0001118	urogenital papilla	anal papilla
+ZFA:0001118	urogenital papilla	UGP
+ZFA:0001118	urogenital papilla	anal papillae
+ZFA:0000602	uroneural	uroneurals
+ZFA:0000158	urostyle	ultimate vertebra
+ZFA:0000158	urostyle	compound centrum
+ZFA:0000158	urostyle	last vertebra
+ZFA:0009308	urothelial cell	urothelial cells
+ZFA:0000700	utricle	utriculus
+ZFA:0009221	UV sensitive photoreceptor cell	UV sensitive photoreceptor cells
+ZFA:0007067	vagal ganglion	gX
+ZFA:0001302	vagal ganglion 1	nodose ganglion 1
+ZFA:0001302	vagal ganglion 1	gX1
+ZFA:0001303	vagal ganglion 2	nodose ganglion 2
+ZFA:0001303	vagal ganglion 2	gX2
+ZFA:0001304	vagal ganglion 3	gX3
+ZFA:0001304	vagal ganglion 3	nodose ganglion 3
+ZFA:0001305	vagal ganglion 4	nodose ganglion 4
+ZFA:0001305	vagal ganglion 4	gX4
+ZFA:0000297	vagal lobe	LX
+ZFA:0000818	vagal neural crest	post-otic neural crest
+ZFA:0007011	vagal root	rX
+ZFA:0007011	vagal root	vagus root
+ZFA:0000603	valvula cerebelli	valvula
+ZFA:0000603	valvula cerebelli	valvula cerebellum
+ZFA:0005181	VaP motor neuron	variable primary motoneuron
+ZFA:0009181	vascular associated smooth muscle cell	vascular associated smooth muscle cells
+ZFA:0001639	vascular endothelium	endothelia
+ZFA:0009395	vascular lymphangioblast	parachordal lymphangioblast
+ZFA:0005559	vascular sprouts	angiogenic sprout
+ZFA:0000082	vein	venous system
+ZFA:0005177	VeLD	V2b interneuron
+ZFA:0005177	VeLD	ventral longitudinal interneuron
+ZFA:0000298	vent	cloacal opening
+ZFA:0000298	vent	cloacal vent
+ZFA:0000078	ventral actinotrichium	ventral actinotrichia
+ZFA:0001313	ventral anterior lateral line ganglion	anteroventral lateral line ganglion
+ZFA:0001481	ventral anterior lateral line nerve	ventral anterior lateral line nerves
+ZFA:0001481	ventral anterior lateral line nerve	anteroventral lateral line nerve
+ZFA:0000701	ventral arrector	arrector ventralis
+ZFA:0000701	ventral arrector	ventral arrectors
+ZFA:0005820	ventral caudal adductor	adductor caudalis ventralis
+ZFA:0007121	ventral cerebrospinal fluid contacting neuron	KA 2
+ZFA:0007121	ventral cerebrospinal fluid contacting neuron	ventral CSF-cN
+ZFA:0007121	ventral cerebrospinal fluid contacting neuron	ventral CSF-cNs
+ZFA:0000299	ventral entopeduncular nucleus of ventral telencephalon	ventral entopeduncular nucleus V
+ZFA:0000299	ventral entopeduncular nucleus of ventral telencephalon	nucleus entopeduncularis, pars ventralis
+ZFA:0000299	ventral entopeduncular nucleus of ventral telencephalon	entopeduncular nucleus, ventral part
+ZFA:0000299	ventral entopeduncular nucleus of ventral telencephalon	endopeduncular nucleus, ventral part
+ZFA:0000299	ventral entopeduncular nucleus of ventral telencephalon	ENv
+ZFA:0001069	ventral fin fold	ventral fin
+ZFA:0001069	ventral fin fold	tail fin fold
+ZFA:0001069	ventral fin fold	anal fin fold
+ZFA:0000605	ventral funiculus	ventral funiculi
+ZFA:0000702	ventral horn spinal cord	ventral horns spinal cord
+ZFA:0001402	ventral hyoid arch	ventral visceral arch 2
+ZFA:0000300	ventral hypohyal bone	lower hypohyal
+ZFA:0000300	ventral hypohyal bone	ventrohyal
+ZFA:0005821	ventral interfilamental caudal muscle	interfilamenti caudalis ventralis
+ZFA:0005821	ventral interfilamental caudal muscle	ICV
+ZFA:0007008	ventral intermandibularis anterior	ventral intermandibulari anterior
+ZFA:0007008	ventral intermandibularis anterior	intermandibularis anterior
+ZFA:0007048	ventral intermandibularis posterior	ventral intermandibulari posterior
+ZFA:0007048	ventral intermandibularis posterior	intermandibularis posterior
+ZFA:0005174	ventral liver lobe	third lobe
+ZFA:0005174	ventral liver lobe	3rd lobe
+ZFA:0001273	ventral mandibular arch	mandibular series
+ZFA:0001273	ventral mandibular arch	lower jaw
+ZFA:0001273	ventral mandibular arch	mandible
+ZFA:0000456	ventral nucleus of ventral telencephalon	area ventralis telencephali, nucleus ventralis
+ZFA:0000456	ventral nucleus of ventral telencephalon	ventral division of ventral telencephalic area
+ZFA:0000456	ventral nucleus of ventral telencephalon	ventral nucleus of V
+ZFA:0000606	ventral oblique branchial muscle	ventral oblique branchial muscles
+ZFA:0000861	ventral oblique extraocular muscle	inferior oblique muscle
+ZFA:0000861	ventral oblique extraocular muscle	ventral oblique extraocular muscles
+ZFA:0000704	ventral pelvic arrector	ventral pelvic arrectors
+ZFA:0005672	ventral posterior glomerulus	VPG
+ZFA:0000457	ventral rectus	inferior rectus
+ZFA:0000457	ventral rectus	ventral recti
+ZFA:0000705	ventral root	ventral roots
+ZFA:0005665	ventral spinal nerve	ventral nerve
+ZFA:0000305	ventral sulcus	hypothalamic sulcus
+ZFA:0000304	ventral telencephalon	area ventralis telencephali
+ZFA:0000304	ventral telencephalon	subpallium
+ZFA:0000458	ventral thalamus	prethalamus
+ZFA:0001137	ventral tooth row	ventral tooth rows
+ZFA:0000608	ventral transverse	transversus ventralis
+ZFA:0005028	ventral wall of dorsal aorta	aorta gonad mesonephros region
+ZFA:0005028	ventral wall of dorsal aorta	dorsal aorta - posterior cardinal vein joint
+ZFA:0005028	ventral wall of dorsal aorta	DP joint
+ZFA:0005028	ventral wall of dorsal aorta	DA-PCV joint
+ZFA:0005028	ventral wall of dorsal aorta	DA roof
+ZFA:0005028	ventral wall of dorsal aorta	AGM
+ZFA:0001083	ventricular zone	ventricular zones
+ZFA:0001375	ventriculo bulbo valve	bulboventricular valve
+ZFA:0005680	ventroanterior zone of olfactory bulb	vaGx
+ZFA:0007003	ventro-caudal cluster	ventral caudal cluster
+ZFA:0007003	ventro-caudal cluster	vcc
+ZFA:0007003	ventro-caudal cluster	ventrocaudal cluster
+ZFA:0000708	ventrolateral optic tract	ventrolateral optic tracts
+ZFA:0007002	ventro-rostral cluster	ventral rostral cluster
+ZFA:0007002	ventro-rostral cluster	ventrorostral cluster
+ZFA:0007002	ventro-rostral cluster	vrc
+ZFA:0001189	vertebra	vertebrae
+ZFA:0001167	vertebra 1	cervical vertebra 1
+ZFA:0001168	vertebra 2	cervical vertebra 2
+ZFA:0005033	vertebral artery	vertebral arteries
+ZFA:0007118	vertebral body end plate	vertebral body endplate
+ZFA:0000610	vertical myoseptum	transverse myoseptum
+ZFA:0005866	vestibulospinal neuron	V
+ZFA:0000709	vestibulo-spinal tract	vestibulo-spinal tracts
+ZFA:0005327	vH ionocyte	VH-MRC
+ZFA:0005327	vH ionocyte	HR cell
+ZFA:0005759	visceral fat	visceral fat deposit
+ZFA:0005132	visceral peritoneum	tunica serosa
+ZFA:0005732	visceromotor neuron	general visceral motor neuron
+ZFA:0000710	viscerosensory commissural nucleus of Cajal	nucleus commissuralis Cajal
+ZFA:0000710	viscerosensory commissural nucleus of Cajal	commissural nucleus of Cajal
+ZFA:0009219	visible light photoreceptor cell	visible light photoreceptor cells
+ZFA:0009171	visual pigment cell (sensu Vertebrata)	visual pigment cells (sensu Vertebrata)
+ZFA:0005561	vitreous	vitreous humor
+ZFA:0005561	vitreous	vitreous body
+ZFA:0005691	vmG1	ventromedial glomerulus 1
+ZFA:0005691	vmG1	ventral triplet glomerulus 1
+ZFA:0005692	vmG2	ventral triplet glomerulus 2
+ZFA:0005692	vmG2	ventromedial glomerulus 2
+ZFA:0005693	vmG3	ventromedial glomerulus 3
+ZFA:0005693	vmG3	ventral triplet glomerulus 3
+ZFA:0005694	vmG4	ventromedial glomerulus 4
+ZFA:0005695	vmG5	ventromedial glomerulus 5
+ZFA:0005696	vmG6	ventromedial glomerulus 6
+ZFA:0005697	vmG7	ventromedial glomerulus 7
+ZFA:0005698	vmGx	ventromedial glomerular group x
+ZFA:0005699	vmGy	ventromedial glomerular group y
+ZFA:0005700	vpG1	ventroposterior glomerulus 1
+ZFA:0005701	vpG2	ventroposterior glomerulus 2
+ZFA:0000461	Weberian ossicle	Weberian ossicles
+ZFA:0001190	Weberian vertebra	Weberian vertebrae
+ZFA:0001682	white matter	CNS white matter
+ZFA:0001682	white matter	white mater
+ZFA:0001682	white matter	CNS tract/commissure
+ZFA:0001094	whole organism	multi-cellular organism
+ZFA:0000084	yolk	yolk cell
+ZFA:0000088	yolk syncytial layer	YSL
+ZFA:0000088	yolk syncytial layer	periblast
+ZFA:0000088	yolk syncytial layer	yolk sac
+ZFA:0001344	zona limitans intrathalamica	zli
+ZFA:0001111	zona radiata	vitelline envelope
+ZFA:0001451	zone of polarizing activity pectoral fin bud	ZPA
+ZFA:0001452	zone of polarizing activity pelvic fin bud	ZPA
+ZFA:0005573	zonule	zonules
